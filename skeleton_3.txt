@@ -1,0 +1,744 @@
+{
+"skeleton": {
+	"hash": "quzyWiZD8yzQTI+z6fpmHTVwQUQ",
+	"spine": "3.8",
+	"x": -658.51,
+	"y": -409.48,
+	"width": 1311.01,
+	"height": 1072.53,
+	"images": "",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "Grave1", "parent": "root", "x": -467.68, "y": -294.15 },
+	{ "name": "MSM", "parent": "root", "x": -19.29, "y": 95.08 },
+	{ "name": "TLL", "parent": "MSM", "y": -172.64, "transform": "noScale" },
+	{ "name": "Leaf1", "parent": "root", "x": 99.23, "y": 504.88 },
+	{ "name": "Leaf2", "parent": "root", "x": 436.52, "y": 618.23 },
+	{ "name": "Leaf3", "parent": "root", "x": 264.47, "y": 561.95 },
+	{ "name": "Moon", "parent": "root", "x": -7.67, "y": 71.84 },
+	{
+		"name": "Grave2",
+		"parent": "root",
+		"rotation": 3.18,
+		"x": -586.53,
+		"y": -317.65,
+		"scaleX": 0.7065,
+		"scaleY": 0.7065
+	},
+	{
+		"name": "Grave3",
+		"parent": "root",
+		"rotation": 0.66,
+		"x": -359.88,
+		"y": -273.42,
+		"scaleX": 0.5752,
+		"scaleY": 0.5752
+	},
+	{ "name": "Leaf4", "parent": "root", "x": 569.89, "y": 450.4 },
+	{ "name": "Leaf5", "parent": "root", "x": -77.63, "y": 592.45 },
+	{ "name": "Leaf6", "parent": "root", "x": 451.77, "y": 500.56 },
+	{ "name": "Punk_Rare", "parent": "MSM", "rotation": -42.29, "x": 216.39, "y": -2.76, "transform": "noScale" },
+	{
+		"name": "Punk_Corrupt",
+		"parent": "MSM",
+		"rotation": 57.34,
+		"x": -161.25,
+		"y": -6.37,
+		"scaleX": 0.8098,
+		"scaleY": 0.8098,
+		"transform": "noScale"
+	},
+	{ "name": "Punk_Common", "parent": "MSM", "x": 17.84, "y": 62.61, "transform": "noScale" }
+],
+"slots": [
+	{ "name": "halloween/BG", "bone": "root", "attachment": "halloween/BG" },
+	{ "name": "halloween/Moon", "bone": "Moon", "attachment": "halloween/Moon" },
+	{ "name": "halloween/Clouds", "bone": "root", "attachment": "halloween/Clouds" },
+	{ "name": "halloween/Mounts", "bone": "root", "attachment": "halloween/Mounts" },
+	{ "name": "halloween/Moon_shine", "bone": "Moon", "attachment": "halloween/Moon_shine", "blend": "additive" },
+	{ "name": "halloween/Grave2", "bone": "Grave2", "color": "ddddddff", "attachment": "halloween/Grave" },
+	{ "name": "halloween/Grave3", "bone": "Grave3", "color": "b7b7b7ff", "attachment": "halloween/Grave" },
+	{ "name": "halloween/Grownd", "bone": "root", "attachment": "halloween/Grownd" },
+	{ "name": "halloween/Grave", "bone": "Grave1", "attachment": "halloween/Grave" },
+	{ "name": "halloween/Grave_dirt", "bone": "Grave1", "attachment": "halloween/Grave_dirt" },
+	{ "name": "halloween/Tree", "bone": "root", "attachment": "halloween/Tree" },
+	{ "name": "halloween/Punkins", "bone": "root", "attachment": "halloween/Punkins" },
+	{ "name": "halloween/Punkin", "bone": "root", "attachment": "halloween/Punkin" },
+	{ "name": "halloween/Leaf1", "bone": "Leaf1", "attachment": "halloween/Leaf1" },
+	{ "name": "halloween/Leaf4", "bone": "Leaf4", "attachment": "halloween/Leaf1" },
+	{ "name": "halloween/Leaf2", "bone": "Leaf2", "attachment": "halloween/Leaf2" },
+	{ "name": "halloween/Leaf6", "bone": "Leaf6", "attachment": "halloween/Leaf2" },
+	{ "name": "halloween/Leaf3", "bone": "Leaf3", "attachment": "halloween/Leaf3" },
+	{ "name": "halloween/Leaf5", "bone": "Leaf5", "attachment": "halloween/Leaf3" },
+	{ "name": "halloween/Corrupt_Punkleton", "bone": "Punk_Corrupt", "attachment": "halloween/Corrupt_Punkleton", "blend": "additive" },
+	{ "name": "halloween/Punkleton", "bone": "Punk_Common", "attachment": "halloween/Punkleton", "blend": "additive" },
+	{ "name": "halloween/Rare_Punkleton", "bone": "Punk_Rare", "attachment": "halloween/Rare_Punkleton", "blend": "additive" },
+	{ "name": "halloween/MSM", "bone": "MSM", "attachment": "halloween/MSM" },
+	{ "name": "halloween/MSM2", "bone": "MSM", "color": "000000ff", "attachment": "halloween/MSM", "blend": "additive" },
+	{ "name": "halloween/TLL", "bone": "TLL", "attachment": "halloween/TLL" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"halloween/Clouds": {
+				"halloween/Clouds": { "x": -26.42, "y": 211.28, "width": 997, "height": 120 }
+			},
+			"halloween/Grave_dirt": {
+				"halloween/Grave_dirt": { "x": 3.32, "y": -8.3, "width": 171, "height": 69 }
+			},
+			"halloween/BG": {
+				"halloween/BG": { "width": 1305, "height": 808 }
+			},
+			"halloween/Punkin": {
+				"halloween/Punkin": { "x": 432.23, "y": 58.56, "width": 104, "height": 110 }
+			},
+			"halloween/Punkins": {
+				"halloween/Punkins": { "x": 475.39, "y": 63.54, "width": 248, "height": 194 }
+			},
+			"halloween/Corrupt_Punkleton": {
+				"halloween/Corrupt_Punkleton": { "x": 4.75, "y": 78.62, "width": 209, "height": 199 }
+			},
+			"halloween/Moon_shine": {
+				"halloween/Moon_shine": { "x": -4.98, "y": -23.24, "scaleX": 3.9733, "scaleY": 3.8414, "width": 219, "height": 217 }
+			},
+			"halloween/TLL": {
+				"halloween/TLL": { "x": 13.28, "y": 14.94, "width": 332, "height": 189 }
+			},
+			"halloween/Grave": {
+				"halloween/Grave": { "x": 2.83, "y": 64.74, "width": 131, "height": 175 }
+			},
+			"halloween/Mounts": {
+				"halloween/Mounts": {
+					"type": "mesh",
+					"uvs": [ 1, 0.54678, 1, 1, 0, 1, 0, 0, 0.19954, 0 ],
+					"triangles": [ 2, 3, 4, 2, 4, 0, 2, 0, 1 ],
+					"vertices": [ -17.51, -51.43, -17.51, -409.48, -658.51, -409.48, -658.51, 380.52, -530.6, 380.52 ],
+					"hull": 5,
+					"edges": [ 2, 4, 4, 6, 6, 8, 2, 0, 8, 0 ],
+					"width": 641,
+					"height": 790
+				}
+			},
+			"halloween/Rare_Punkleton": {
+				"halloween/Rare_Punkleton": { "x": -12.49, "y": 27.85, "width": 179, "height": 122 }
+			},
+			"halloween/Tree": {
+				"halloween/Tree": { "x": 503.61, "y": 183.06, "width": 295, "height": 432 }
+			},
+			"halloween/Punkleton": {
+				"halloween/Punkleton": { "x": -11.3, "y": 64.29, "width": 174, "height": 149 }
+			},
+			"halloween/Moon": {
+				"halloween/Moon": { "x": 1.66, "y": -14.94, "width": 659, "height": 602 }
+			},
+			"halloween/MSM": {
+				"halloween/MSM": { "x": 21.58, "y": 6.64, "width": 553, "height": 258 }
+			},
+			"halloween/Grownd": {
+				"halloween/Grownd": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 1.0E-5, 0.79405, 1, 0 ],
+					"triangles": [ 2, 3, 0, 1, 2, 0 ],
+					"vertices": [ 651.47, -408.36, -653.53, -408.36, -653.51, -275.52, 651.47, 236.64 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 1305,
+					"height": 645
+				}
+			},
+			"halloween/MSM2": {
+				"halloween/MSM": { "x": 21.58, "y": 6.64, "width": 553, "height": 258 }
+			},
+			"halloween/Grave2": {
+				"halloween/Grave": { "x": 2.83, "y": 64.74, "width": 131, "height": 175 }
+			},
+			"halloween/Grave3": {
+				"halloween/Grave": { "x": 2.83, "y": 64.74, "width": 131, "height": 175 }
+			},
+			"halloween/Leaf1": {
+				"halloween/Leaf1": { "x": 4.98, "y": 1.66, "width": 75, "height": 88 }
+			},
+			"halloween/Leaf2": {
+				"halloween/Leaf2": { "x": 4.98, "y": 3.32, "width": 74, "height": 83 }
+			},
+			"halloween/Leaf3": {
+				"halloween/Leaf3": { "x": 3.32, "width": 105, "height": 119 }
+			},
+			"halloween/Leaf4": {
+				"halloween/Leaf1": { "x": 4.98, "y": 1.66, "width": 75, "height": 88 }
+			},
+			"halloween/Leaf5": {
+				"halloween/Leaf3": { "x": 3.32, "width": 105, "height": 119 }
+			},
+			"halloween/Leaf6": {
+				"halloween/Leaf2": { "x": 4.98, "y": 3.32, "width": 74, "height": 83 }
+			}
+		}
+	}
+],
+"animations": {
+	"Idle": {
+		"slots": {
+			"halloween/MSM2": {
+				"color": [
+					{ "color": "000000ff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667, "color": "898989ff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 5.3333, "color": "000000ff" }
+				]
+			},
+			"halloween/Moon_shine": {
+				"color": [
+					{ "color": "ffffffff" },
+					{ "time": 2.6667, "color": "848484ff" },
+					{ "time": 5.3333, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"Moon": {
+				"translate": [
+					{ "y": -5.19, "curve": 0.375, "c2": 0.5, "c3": 0.75 },
+					{ "time": 1.3333, "curve": 0.25, "c3": 0.75 },
+					{ "time": 4, "y": -10.38, "curve": 0.25, "c3": 0.625, "c4": 0.5 },
+					{ "time": 5.3333, "y": -5.19 }
+				]
+			},
+			"MSM": {
+				"translate": [
+					{ "y": -1.73, "curve": 0.378, "c2": 0.61, "c3": 0.722 },
+					{ "time": 0.6, "curve": 0.25, "c3": 0.75 },
+					{ "time": 3.3333, "y": -10.38, "curve": 0.242, "c3": 0.671, "c4": 0.68 },
+					{ "time": 5.3333, "y": -1.73 }
+				],
+				"scale": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.2667, "x": 0.99, "y": 1.02, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667, "curve": 0.25, "c3": 0.75 },
+					{ "time": 4, "x": 1.02, "y": 0.99, "curve": 0.25, "c3": 0.75 },
+					{ "time": 5.3333 }
+				]
+			},
+			"TLL": {
+				"translate": [
+					{ "y": -3.82, "curve": 0.381, "c2": 0.55, "c3": 0.742 },
+					{ "time": 1.0667, "curve": 0.25, "c3": 0.75 },
+					{ "time": 3.7333, "y": -10.38, "curve": 0.245, "c3": 0.637, "c4": 0.56 },
+					{ "time": 5.3333, "y": -3.82 }
+				],
+				"scale": [
+					{ "x": 1.013, "y": 0.993, "curve": 0.359, "c2": 0.43, "c3": 0.756 },
+					{ "time": 0.8333, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.1, "x": 0.99, "y": 1.02, "curve": 0.25, "c3": 0.75 },
+					{ "time": 3.5, "curve": 0.25, "c3": 0.75 },
+					{ "time": 4.8333, "x": 1.02, "y": 0.99, "curve": 0.26, "c3": 0.618, "c4": 0.44 },
+					{ "time": 5.3333, "x": 1.013, "y": 0.993 }
+				]
+			},
+			"Leaf1": {
+				"rotate": [
+					{ "angle": -121.64 },
+					{ "time": 0.4, "angle": -136.65 },
+					{ "time": 1.7333, "angle": 115.65, "curve": "stepped" },
+					{ "time": 1.8 },
+					{ "time": 3.4667, "angle": -51.57 },
+					{ "time": 5.3333, "angle": -121.64 }
+				],
+				"translate": [
+					{ "x": -555.51, "y": -729.47 },
+					{ "time": 1.7333, "x": -828.02, "y": -1087.32, "curve": "stepped" },
+					{ "time": 1.8 },
+					{ "time": 5.3333, "x": -555.51, "y": -729.47 }
+				],
+				"shear": [
+					{ "x": -12.18, "y": 17.44 },
+					{ "time": 0.7333, "x": -34.66, "y": 17.44 },
+					{ "time": 1.7 },
+					{ "time": 3, "y": -37.16 },
+					{ "time": 3.9667, "y": -55.22 },
+					{ "time": 4.8, "x": 4.18, "y": 17.44 },
+					{ "time": 5.3333, "x": -12.18, "y": 17.44 }
+				]
+			},
+			"Leaf3": {
+				"rotate": [
+					{ "angle": -86.61 },
+					{ "time": 1.3333, "angle": -136.65 },
+					{ "time": 2.6667, "angle": 115.65, "curve": "stepped" },
+					{ "time": 2.7333 },
+					{ "time": 4.4, "angle": -51.57 },
+					{ "time": 5.3333, "angle": -86.61 }
+				],
+				"translate": [
+					{ "x": -408.77, "y": -536.78 },
+					{ "time": 2.6667, "x": -828.02, "y": -1087.32, "curve": "stepped" },
+					{ "time": 2.7333 },
+					{ "time": 5.3333, "x": -408.77, "y": -536.78 }
+				],
+				"shear": [
+					{ "x": -34.66, "y": 17.44 },
+					{ "time": 0.9667 },
+					{ "time": 2.2667, "y": -37.16 },
+					{ "time": 3.2333, "y": -55.22 },
+					{ "time": 4.0667, "x": 4.18, "y": 17.44 },
+					{ "time": 5.3333, "x": -34.66, "y": 17.44 }
+				]
+			},
+			"Leaf2": {
+				"rotate": [
+					{},
+					{ "time": 1.6667, "angle": -51.57 },
+					{ "time": 3.9333, "angle": -136.65 },
+					{ "time": 5.2667, "angle": 115.65, "curve": "stepped" },
+					{ "time": 5.3333 }
+				],
+				"translate": [
+					{},
+					{ "time": 5.2667, "x": -828.02, "y": -1087.32, "curve": "stepped" },
+					{ "time": 5.3333 }
+				],
+				"shear": [
+					{},
+					{ "time": 1.3, "y": -37.16 },
+					{ "time": 2.2667, "y": -55.22 },
+					{ "time": 3.1, "x": 4.18, "y": 17.44 },
+					{ "time": 4.3667, "x": -34.66, "y": 17.44 },
+					{ "time": 5.3333 }
+				]
+			},
+			"Leaf4": {
+				"rotate": [
+					{ "angle": -131.65 },
+					{ "time": 0.1333, "angle": -136.65 },
+					{ "time": 1.4667, "angle": 115.65, "curve": "stepped" },
+					{ "time": 1.5333 },
+					{ "time": 3.2, "angle": -51.57 },
+					{ "time": 5.3333, "angle": -131.65 }
+				],
+				"translate": [
+					{ "x": -597.43, "y": -784.52 },
+					{ "time": 1.4667, "x": -828.02, "y": -1087.32, "curve": "stepped" },
+					{ "time": 1.5333 },
+					{ "time": 5.3333, "x": -597.43, "y": -784.52 }
+				],
+				"shear": [
+					{ "y": -42.76 },
+					{ "time": 0.6667, "y": -55.22 },
+					{ "time": 1.5, "x": 4.18, "y": 17.44 },
+					{ "time": 2.7667, "x": -34.66, "y": 17.44 },
+					{ "time": 3.7333 },
+					{ "time": 5.0333, "y": -37.16 },
+					{ "time": 5.3333, "y": -42.76 }
+				]
+			},
+			"Leaf5": {
+				"rotate": [
+					{ "angle": -43.32 },
+					{ "time": 0.2667, "angle": -51.57 },
+					{ "time": 2.5333, "angle": -136.65 },
+					{ "time": 3.8667, "angle": 115.65, "curve": "stepped" },
+					{ "time": 3.9333 },
+					{ "time": 5.3333, "angle": -43.32 }
+				],
+				"translate": [
+					{ "x": -220.11, "y": -289.03 },
+					{ "time": 3.8667, "x": -828.02, "y": -1087.32, "curve": "stepped" },
+					{ "time": 3.9333 },
+					{ "time": 5.3333, "x": -220.11, "y": -289.03 }
+				],
+				"shear": [
+					{ "y": -50.24 },
+					{ "time": 0.2667, "y": -55.22 },
+					{ "time": 1.1, "x": 4.18, "y": 17.44 },
+					{ "time": 2.3667, "x": -34.66, "y": 17.44 },
+					{ "time": 3.3333 },
+					{ "time": 4.6333, "y": -37.16 },
+					{ "time": 5.3333, "y": -50.24 }
+				]
+			},
+			"Leaf6": {
+				"rotate": [
+					{ "angle": -43.32 },
+					{ "time": 0.2667, "angle": -51.57 },
+					{ "time": 2.5333, "angle": -136.65 },
+					{ "time": 3.8667, "angle": 115.65, "curve": "stepped" },
+					{ "time": 3.9333 },
+					{ "time": 5.3333, "angle": -43.32 }
+				],
+				"translate": [
+					{ "x": -220.11, "y": -286.67 },
+					{ "time": 3.8667, "x": -828.02, "y": -1087.32, "curve": "stepped" },
+					{ "time": 3.9333 },
+					{ "time": 5.3333, "x": -220.11, "y": -289.03 }
+				],
+				"shear": [
+					{},
+					{ "time": 1.3, "y": -37.16 },
+					{ "time": 2.2667, "y": -55.22 },
+					{ "time": 3.1, "x": 4.18, "y": 17.44 },
+					{ "time": 4.3667, "x": -34.66, "y": 17.44 },
+					{ "time": 5.3333 }
+				]
+			}
+		}
+	},
+	"Load": {
+		"slots": {
+			"halloween/Leaf4": {
+				"color": [
+					{ "color": "444444ff" },
+					{ "time": 4, "color": "ffffffff" }
+				]
+			},
+			"halloween/Leaf3": {
+				"color": [
+					{ "color": "444444ff" },
+					{ "time": 4, "color": "ffffffff" }
+				]
+			},
+			"halloween/Leaf6": {
+				"color": [
+					{ "color": "444444ff" },
+					{ "time": 4, "color": "ffffffff" }
+				]
+			},
+			"halloween/Clouds": {
+				"color": [
+					{ "color": "444444ff" },
+					{ "time": 4, "color": "ffffffff" }
+				]
+			},
+			"halloween/Punkin": {
+				"color": [
+					{ "color": "444444ff" },
+					{ "time": 4, "color": "ffffffff" }
+				]
+			},
+			"halloween/Tree": {
+				"color": [
+					{ "color": "444444ff" },
+					{ "time": 4, "color": "ffffffff" }
+				]
+			},
+			"halloween/Grave": {
+				"color": [
+					{ "color": "444444ff" },
+					{ "time": 4, "color": "ffffffff" }
+				]
+			},
+			"halloween/MSM": {
+				"color": [
+					{ "color": "444444ff" },
+					{ "time": 4, "color": "ffffffff" }
+				]
+			},
+			"halloween/Grave2": {
+				"color": [
+					{ "color": "444444ff" },
+					{ "time": 4, "color": "ffffffff" }
+				]
+			},
+			"halloween/TLL": {
+				"color": [
+					{ "color": "444444ff", "curve": "stepped" },
+					{ "time": 1.0333, "color": "444444ff" },
+					{ "time": 3.7333, "color": "ffffffff" }
+				]
+			},
+			"halloween/Grave3": {
+				"color": [
+					{ "color": "444444ff" },
+					{ "time": 4, "color": "ffffffff" }
+				]
+			},
+			"halloween/Moon_shine": {
+				"color": [
+					{ "color": "000000ff" },
+					{ "time": 3.8333, "color": "848484ff" },
+					{ "time": 5.3333, "color": "ffffffff" }
+				]
+			},
+			"halloween/Punkins": {
+				"color": [
+					{ "color": "444444ff" },
+					{ "time": 4, "color": "ffffffff" }
+				]
+			},
+			"halloween/Mounts": {
+				"color": [
+					{ "color": "444444ff" },
+					{ "time": 4, "color": "ffffffff" }
+				]
+			},
+			"halloween/Grave_dirt": {
+				"color": [
+					{ "color": "444444ff" },
+					{ "time": 4, "color": "ffffffff" }
+				]
+			},
+			"halloween/Leaf2": {
+				"color": [
+					{ "color": "444444ff" },
+					{ "time": 4, "color": "ffffffff" }
+				]
+			},
+			"halloween/BG": {
+				"color": [
+					{ "color": "444444ff" },
+					{ "time": 4, "color": "ffffffff" }
+				]
+			},
+			"halloween/Leaf1": {
+				"color": [
+					{ "color": "444444ff" },
+					{ "time": 4, "color": "ffffffff" }
+				]
+			},
+			"halloween/Grownd": {
+				"color": [
+					{ "color": "444444ff" },
+					{ "time": 4, "color": "ffffffff" }
+				]
+			},
+			"halloween/Leaf5": {
+				"color": [
+					{ "color": "444444ff" },
+					{ "time": 4, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"Moon": {
+				"translate": [
+					{ "x": -8.64, "y": -623.82, "curve": 0.375, "c2": 0.5, "c3": 0.75 },
+					{ "time": 4, "y": -10.38, "curve": 0.25, "c3": 0.625, "c4": 0.5 },
+					{ "time": 5.3333, "y": -5.19 }
+				]
+			},
+			"MSM": {
+				"translate": [
+					{ "x": 12.1, "y": 425.09, "curve": 0.378, "c2": 0.61, "c3": 0.722 },
+					{ "time": 0.4667 },
+					{ "time": 0.7333, "y": -27.82, "curve": 0.318, "c2": 0.21, "c3": 0.652, "c4": 0.55 },
+					{ "time": 0.9, "y": -37.55, "curve": 0.311, "c2": 0.23, "c3": 0.647, "c4": 0.58 },
+					{ "time": 1.2333, "y": -25.74, "curve": 0.329, "c2": 0.32, "c3": 0.758 },
+					{ "time": 3.3333, "y": -10.38, "curve": 0.242, "c3": 0.671, "c4": 0.68 },
+					{ "time": 5.3333, "y": -1.73 }
+				],
+				"scale": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.2667, "x": 0.99, "y": 1.02, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667, "curve": 0.25, "c3": 0.75 },
+					{ "time": 4, "x": 1.02, "y": 0.99, "curve": 0.25, "c3": 0.75 },
+					{ "time": 5.3333 }
+				]
+			},
+			"TLL": {
+				"translate": [
+					{ "x": 1.73, "y": 125.78, "curve": 0.381, "c2": 0.55, "c3": 0.742 },
+					{ "time": 1.0667, "curve": 0.25, "c3": 0.75 },
+					{ "time": 3.7333, "y": -10.38, "curve": 0.245, "c3": 0.637, "c4": 0.56 },
+					{ "time": 5.3333, "y": -3.82 }
+				],
+				"scale": [
+					{ "x": 1.013, "y": 0.993, "curve": 0.359, "c2": 0.43, "c3": 0.756 },
+					{ "time": 0.8333, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.1, "x": 0.99, "y": 1.02, "curve": 0.25, "c3": 0.75 },
+					{ "time": 3.5, "curve": 0.25, "c3": 0.75 },
+					{ "time": 4.8333, "x": 1.02, "y": 0.99, "curve": 0.26, "c3": 0.618, "c4": 0.44 },
+					{ "time": 5.3333, "x": 1.013, "y": 0.993 }
+				]
+			},
+			"Leaf1": {
+				"rotate": [
+					{ "angle": -121.64 },
+					{ "time": 0.4, "angle": -136.65 },
+					{ "time": 1.7333, "angle": 115.65, "curve": "stepped" },
+					{ "time": 1.8 },
+					{ "time": 3.4667, "angle": -51.57 },
+					{ "time": 5.3333, "angle": -121.64 }
+				],
+				"translate": [
+					{ "x": -555.51, "y": -729.47 },
+					{ "time": 1.7333, "x": -828.02, "y": -1087.32, "curve": "stepped" },
+					{ "time": 1.8 },
+					{ "time": 5.3333, "x": -555.51, "y": -729.47 }
+				],
+				"shear": [
+					{ "x": -12.18, "y": 17.44 },
+					{ "time": 0.7333, "x": -34.66, "y": 17.44 },
+					{ "time": 1.7 },
+					{ "time": 3, "y": -37.16 },
+					{ "time": 3.9667, "y": -55.22 },
+					{ "time": 4.8, "x": 4.18, "y": 17.44 },
+					{ "time": 5.3333, "x": -12.18, "y": 17.44 }
+				]
+			},
+			"Leaf3": {
+				"rotate": [
+					{ "angle": -86.61 },
+					{ "time": 1.3333, "angle": -136.65 },
+					{ "time": 2.6667, "angle": 115.65, "curve": "stepped" },
+					{ "time": 2.7333 },
+					{ "time": 4.4, "angle": -51.57 },
+					{ "time": 5.3333, "angle": -86.61 }
+				],
+				"translate": [
+					{ "x": -408.77, "y": -536.78 },
+					{ "time": 2.6667, "x": -828.02, "y": -1087.32, "curve": "stepped" },
+					{ "time": 2.7333 },
+					{ "time": 5.3333, "x": -408.77, "y": -536.78 }
+				],
+				"shear": [
+					{ "x": -34.66, "y": 17.44 },
+					{ "time": 0.9667 },
+					{ "time": 2.2667, "y": -37.16 },
+					{ "time": 3.2333, "y": -55.22 },
+					{ "time": 4.0667, "x": 4.18, "y": 17.44 },
+					{ "time": 5.3333, "x": -34.66, "y": 17.44 }
+				]
+			},
+			"Leaf2": {
+				"rotate": [
+					{},
+					{ "time": 1.6667, "angle": -51.57 },
+					{ "time": 3.9333, "angle": -136.65 },
+					{ "time": 5.2667, "angle": 115.65, "curve": "stepped" },
+					{ "time": 5.3333 }
+				],
+				"translate": [
+					{},
+					{ "time": 5.2667, "x": -828.02, "y": -1087.32, "curve": "stepped" },
+					{ "time": 5.3333 }
+				],
+				"shear": [
+					{},
+					{ "time": 1.3, "y": -37.16 },
+					{ "time": 2.2667, "y": -55.22 },
+					{ "time": 3.1, "x": 4.18, "y": 17.44 },
+					{ "time": 4.3667, "x": -34.66, "y": 17.44 },
+					{ "time": 5.3333 }
+				]
+			},
+			"Leaf4": {
+				"rotate": [
+					{ "angle": -131.65 },
+					{ "time": 0.1333, "angle": -136.65 },
+					{ "time": 1.4667, "angle": 115.65, "curve": "stepped" },
+					{ "time": 1.5333 },
+					{ "time": 3.2, "angle": -51.57 },
+					{ "time": 5.3333, "angle": -131.65 }
+				],
+				"translate": [
+					{ "x": -597.43, "y": -784.52 },
+					{ "time": 1.4667, "x": -828.02, "y": -1087.32, "curve": "stepped" },
+					{ "time": 1.5333 },
+					{ "time": 5.3333, "x": -597.43, "y": -784.52 }
+				],
+				"shear": [
+					{ "y": -42.76 },
+					{ "time": 0.6667, "y": -55.22 },
+					{ "time": 1.5, "x": 4.18, "y": 17.44 },
+					{ "time": 2.7667, "x": -34.66, "y": 17.44 },
+					{ "time": 3.7333 },
+					{ "time": 5.0333, "y": -37.16 },
+					{ "time": 5.3333, "y": -42.76 }
+				]
+			},
+			"Leaf5": {
+				"rotate": [
+					{ "angle": -43.32 },
+					{ "time": 0.2667, "angle": -51.57 },
+					{ "time": 2.5333, "angle": -136.65 },
+					{ "time": 3.8667, "angle": 115.65, "curve": "stepped" },
+					{ "time": 3.9333 },
+					{ "time": 5.3333, "angle": -43.32 }
+				],
+				"translate": [
+					{ "x": -220.11, "y": -289.03 },
+					{ "time": 3.8667, "x": -828.02, "y": -1087.32, "curve": "stepped" },
+					{ "time": 3.9333 },
+					{ "time": 5.3333, "x": -220.11, "y": -289.03 }
+				],
+				"shear": [
+					{ "y": -50.24 },
+					{ "time": 0.2667, "y": -55.22 },
+					{ "time": 1.1, "x": 4.18, "y": 17.44 },
+					{ "time": 2.3667, "x": -34.66, "y": 17.44 },
+					{ "time": 3.3333 },
+					{ "time": 4.6333, "y": -37.16 },
+					{ "time": 5.3333, "y": -50.24 }
+				]
+			},
+			"Leaf6": {
+				"rotate": [
+					{ "angle": -43.32 },
+					{ "time": 0.2667, "angle": -51.57 },
+					{ "time": 2.5333, "angle": -136.65 },
+					{ "time": 3.8667, "angle": 115.65, "curve": "stepped" },
+					{ "time": 3.9333 },
+					{ "time": 5.3333, "angle": -43.32 }
+				],
+				"translate": [
+					{ "x": -220.11, "y": -286.67 },
+					{ "time": 3.8667, "x": -828.02, "y": -1087.32, "curve": "stepped" },
+					{ "time": 3.9333 },
+					{ "time": 5.3333, "x": -220.11, "y": -289.03 }
+				],
+				"shear": [
+					{},
+					{ "time": 1.3, "y": -37.16 },
+					{ "time": 2.2667, "y": -55.22 },
+					{ "time": 3.1, "x": 4.18, "y": 17.44 },
+					{ "time": 4.3667, "x": -34.66, "y": 17.44 },
+					{ "time": 5.3333 }
+				]
+			},
+			"Punk_Rare": {
+				"translate": [
+					{ "x": -65.43, "y": -42.17, "curve": "stepped" },
+					{ "time": 1.8, "x": -65.43, "y": -42.17, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.1667, "x": 8.77, "y": 5.75, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.4667 }
+				],
+				"scale": [
+					{ "x": 0.149, "y": 0.149, "curve": "stepped" },
+					{ "time": 1.7667, "x": 0.149, "y": 0.149 },
+					{ "time": 2.1, "curve": "stepped" },
+					{ "time": 2.6 }
+				]
+			},
+			"Punk_Corrupt": {
+				"translate": [
+					{ "x": 93.06, "y": -29.08, "curve": "stepped" },
+					{ "time": 1.9, "x": 93.06, "y": -29.08, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.2667, "x": -8.77, "y": 2.88, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.5667 }
+				],
+				"scale": [
+					{ "x": 0.149, "y": 0.149, "curve": "stepped" },
+					{ "time": 1.8667, "x": 0.149, "y": 0.149 },
+					{ "time": 2.2, "curve": "stepped" },
+					{ "time": 2.7 }
+				]
+			},
+			"Punk_Common": {
+				"translate": [
+					{ "x": -1.45, "y": -103.23, "curve": "stepped" },
+					{ "time": 2.0333, "x": -1.45, "y": -103.23, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.4, "y": 4.32, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.7 }
+				],
+				"scale": [
+					{ "x": 0.149, "y": 0.149, "curve": "stepped" },
+					{ "time": 2, "x": 0.149, "y": 0.149 },
+					{ "time": 2.3333, "curve": "stepped" },
+					{ "time": 2.8333 }
+				]
+			}
+		}
+	}
+}
+}

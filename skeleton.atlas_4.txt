@@ -1,0 +1,139 @@
+
+skeleton.png
+size: 3712,992
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+halloween/BG
+  rotate: false
+  xy: 2, 181
+  size: 1305, 808
+  orig: 1305, 808
+  offset: 0, 0
+  index: -1
+halloween/Clouds
+  rotate: false
+  xy: 2656, 210
+  size: 996, 118
+  orig: 997, 120
+  offset: 0, 1
+  index: -1
+halloween/Corrupt_Punkleton
+  rotate: false
+  xy: 2866, 9
+  size: 207, 199
+  orig: 209, 199
+  offset: 1, 0
+  index: -1
+halloween/Grave
+  rotate: false
+  xy: 3551, 414
+  size: 131, 175
+  orig: 131, 175
+  offset: 0, 0
+  index: -1
+halloween/Grave_dirt
+  rotate: false
+  xy: 1309, 720
+  size: 169, 68
+  orig: 171, 69
+  offset: 1, 1
+  index: -1
+halloween/Grownd
+  rotate: false
+  xy: 1309, 344
+  size: 1305, 645
+  orig: 1305, 645
+  offset: 0, 0
+  index: -1
+halloween/Leaf1
+  rotate: false
+  xy: 1816, 541
+  size: 73, 86
+  orig: 75, 88
+  offset: 0, 2
+  index: -1
+halloween/Leaf2
+  rotate: false
+  xy: 2301, 365
+  size: 57, 77
+  orig: 74, 83
+  offset: 11, 2
+  index: -1
+halloween/Leaf3
+  rotate: false
+  xy: 2094, 390
+  size: 100, 117
+  orig: 105, 119
+  offset: 4, 0
+  index: -1
+halloween/MSM
+  rotate: false
+  xy: 2101, 71
+  size: 553, 257
+  orig: 553, 258
+  offset: 0, 1
+  index: -1
+halloween/Moon
+  rotate: true
+  xy: 2616, 330
+  size: 659, 601
+  orig: 659, 602
+  offset: 0, 1
+  index: -1
+halloween/Moon_shine
+  rotate: false
+  xy: 2656, 2
+  size: 208, 206
+  orig: 219, 217
+  offset: 5, 6
+  index: -1
+halloween/Mounts
+  rotate: 270
+  xy: 1309, 73
+  size: 641, 790
+  orig: 641, 790
+  offset: 0, 0
+  index: -1
+halloween/Punkin
+  rotate: false
+  xy: 2196, 355
+  size: 103, 110
+  orig: 104, 110
+  offset: 1, 0
+  index: -1
+halloween/Punkins
+  rotate: true
+  xy: 3516, 742
+  size: 247, 193
+  orig: 248, 194
+  offset: 0, 1
+  index: -1
+halloween/Punkleton
+  rotate: false
+  xy: 3516, 591
+  size: 173, 149
+  orig: 174, 149
+  offset: 0, 0
+  index: -1
+halloween/Rare_Punkleton
+  rotate: false
+  xy: 1913, 425
+  size: 179, 122
+  orig: 179, 122
+  offset: 0, 0
+  index: -1
+halloween/TLL
+  rotate: false
+  xy: 3219, 368
+  size: 330, 187
+  orig: 332, 189
+  offset: 1, 1
+  index: -1
+halloween/Tree
+  rotate: false
+  xy: 3219, 557
+  size: 295, 432
+  orig: 295, 432
+  offset: 0, 0
+  index: -1
