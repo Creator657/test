@@ -1,0 +1,188 @@
+{
+  "controllerSize": 1017,
+  "controller": {
+    "layers": [
+      {
+        "stateMachineIndex": 0,
+        "stateMachineMotionSetIndex": 0,
+        "bodyMask": {
+          "word0": 4294967295,
+          "word1": 4294967295,
+          "word2": 524287
+        },
+        "skeletonMask": {
+          "data": []
+        },
+        "binding": 756556552,
+        "layerBlendingMode": 0,
+        "defaultWeight": 0,
+        "ikPass": false,
+        "syncedLayerAffectsTiming": false
+      }
+    ],
+    "stateMachines": [
+      {
+        "stateConstants": [
+          {
+            "transitionConstants": [],
+            "blendTreeConstantIndices": [
+              0
+            ],
+            "blendTreeConstants": [
+              {
+                "nodes": [
+                  {
+                    "blendType": 0,
+                    "blendEventID": 4294967295,
+                    "blendEventYID": 4294967295,
+                    "childIndices": [],
+                    "blend1DData": {
+                      "childThresholds": []
+                    },
+                    "blend2DData": {
+                      "childPositions": [],
+                      "childMagnitudes": [],
+                      "childPairVectors": [],
+                      "childPairAvgMagsInv": [],
+                      "childNeighbourLists": []
+                    },
+                    "blendDirectData": {
+                      "childBlendEventIDs": [],
+                      "normalizedBlendValues": false
+                    },
+                    "clipID": 0,
+                    "duration": 1,
+                    "cycleOffset": 0,
+                    "mirror": false
+                  }
+                ]
+              }
+            ],
+            "nameID": 4033434426,
+            "pathID": 3080139122,
+            "fullPathID": 3080139122,
+            "tagID": 0,
+            "speedParamID": 0,
+            "mirrorParamID": 0,
+            "cycleOffsetParamID": 0,
+            "speed": 1,
+            "cycleOffset": 0,
+            "ikOnFeet": false,
+            "writeDefaultValues": true,
+            "loop": false,
+            "mirror": false
+          }
+        ],
+        "anyStateTransitionConstants": [
+          {
+            "conditionConstants": [
+              {
+                "conditionMode": 1,
+                "eventID": 2971395225,
+                "eventThreshold": 0,
+                "exitTime": 0
+              }
+            ],
+            "destinationState": 0,
+            "fullPathID": 1453199628,
+            "id": 2273178268,
+            "userID": 0,
+            "transitionDuration": 0,
+            "transitionOffset": 0,
+            "exitTime": 0,
+            "hasExitTime": false,
+            "hasFixedDuration": true,
+            "interruptionSource": 0,
+            "orderedInterruption": true,
+            "canTransitionToSelf": true
+          }
+        ],
+        "selectorStateConstants": [
+          {
+            "transitionConstants": [
+              {
+                "destination": 0,
+                "conditionConstants": []
+              }
+            ],
+            "fullPathID": 756556552,
+            "isEntry": true
+          },
+          {
+            "transitionConstants": [
+              {
+                "destination": 30000,
+                "conditionConstants": []
+              }
+            ],
+            "fullPathID": 756556552,
+            "isEntry": false
+          }
+        ],
+        "defaultState": 0,
+        "motionSetCount": 1
+      }
+    ],
+    "values": {
+      "values": [
+        {
+          "id": 2971395225,
+          "type": 9,
+          "index": 0
+        }
+      ]
+    },
+    "defaultValues": {
+      "positionValues": [],
+      "quaternionValues": [],
+      "scaleValues": [],
+      "floatValues": [],
+      "intValues": [],
+      "boolValues": [
+        false
+      ]
+    }
+  },
+  "tos": [
+    {
+      "key": 4033434426,
+      "value": "Loading_smooth_transition"
+    },
+    {
+      "key": 2273178268,
+      "value": "AnyState -> Loading_smooth_transition"
+    },
+    {
+      "key": 2105523844,
+      "value": "GravityWeight"
+    },
+    {
+      "key": 2971395225,
+      "value": "laod"
+    },
+    {
+      "key": 3080139122,
+      "value": "Base Layer.Loading_smooth_transition"
+    },
+    {
+      "key": 756556552,
+      "value": "Base Layer"
+    },
+    {
+      "key": 0,
+      "value": ""
+    },
+    {
+      "key": 1453199628,
+      "value": "Entry -> Base Layer.Loading_smooth_transition"
+    }
+  ],
+  "animationClips": [
+    {
+      "fileID": 0,
+      "pathID": "20",
+      "_object": null,
+      "info": null
+    }
+  ]
+}

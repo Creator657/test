@@ -1,0 +1,247 @@
+{
+  "name": "Knob",
+  "rect": {
+    "x": 12,
+    "y": 12,
+    "width": 40,
+    "height": 40
+  },
+  "offset": {
+    "x": 0,
+    "y": 0
+  },
+  "border": {
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "w": 0
+  },
+  "pixelsToUnits": 200,
+  "pivot": {
+    "x": 0.5,
+    "y": 0.5
+  },
+  "extrude": 1,
+  "isPolygon": false,
+  "renderDataKey": {
+    "key": "00000000000000000f00000000000000",
+    "value": 10913
+  },
+  "atlasTags": [],
+  "spriteAtlas": {
+    "fileID": 0,
+    "pathID": "0",
+    "_object": null,
+    "info": null
+  },
+  "renderData": {
+    "texture": {
+      "fileID": 0,
+      "pathID": "7",
+      "_object": null,
+      "info": null
+    },
+    "alphaTexture": {
+      "fileID": 0,
+      "pathID": "0",
+      "_object": null,
+      "info": null
+    },
+    "secondaryTextures": [],
+    "subMeshes": [
+      {
+        "firstByte": 0,
+        "indexCount": 21,
+        "topology": "Triangles",
+        "firstVertex": 0,
+        "vertexCount": 9,
+        "localAABB": {
+          "center": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "extent": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      }
+    ],
+    "vertexData": {
+      "vertexCount": 9,
+      "channels": [
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 3
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 1,
+          "offset": 0,
+          "format": 0,
+          "dimension": 2
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        }
+      ],
+      "streams": [
+        {
+          "channelMask": 1,
+          "offset": 0,
+          "stride": 12,
+          "dividerOp": 0,
+          "frequency": 0
+        },
+        {
+          "channelMask": 16,
+          "offset": 112,
+          "stride": 8,
+          "dividerOp": 0,
+          "frequency": 0
+        }
+      ]
+    },
+    "bindPose": [],
+    "sourceSkins": [],
+    "textureRect": {
+      "x": 12.026750564575195,
+      "y": 12.026750564575195,
+      "width": 39.946495056152344,
+      "height": 39.946495056152344
+    },
+    "textureRectOffset": {
+      "x": 0.026750564575195312,
+      "y": 0.026750564575195312
+    },
+    "atlasRectOffset": {
+      "x": -1,
+      "y": -1
+    },
+    "settings": {
+      "packed": false,
+      "packingMode": "Tight",
+      "packingRotation": "None",
+      "meshType": "Tight"
+    },
+    "uvTransform": {
+      "x": 200,
+      "y": 32,
+      "z": 200,
+      "w": 32
+    },
+    "downscaleMultiplier": 1
+  },
+  "physicsShapes": [
+    [
+      {
+        "x": -0.04999999701976776,
+        "y": 0.09999999403953552
+      },
+      {
+        "x": -0.09999999403953552,
+        "y": 0.044999998062849045
+      },
+      {
+        "x": -0.09999999403953552,
+        "y": -0.029999999329447746
+      },
+      {
+        "x": -0.07499999552965164,
+        "y": -0.08500000089406967
+      },
+      {
+        "x": -0.06499999761581421,
+        "y": -0.09999999403953552
+      },
+      {
+        "x": 0.05999999865889549,
+        "y": -0.09999999403953552
+      },
+      {
+        "x": 0.09999999403953552,
+        "y": -0.07499999552965164
+      },
+      {
+        "x": 0.09999999403953552,
+        "y": 0.054999999701976776
+      },
+      {
+        "x": 0.04999999701976776,
+        "y": 0.09999999403953552
+      }
+    ]
+  ]
+}

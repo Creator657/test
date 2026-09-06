@@ -1,0 +1,25 @@
+{
+  "originalPath": "Assets/main/other/Banned_loop.mp4",
+  "proxyWidth": 1280,
+  "proxyHeight": 720,
+  "width": 1280,
+  "height": 720,
+  "frameRate": 30,
+  "frameCount": "301",
+  "format": 1,
+  "audioChannelCount": [
+    2
+  ],
+  "audioSampleRate": [
+    48000
+  ],
+  "audioLanguage": [
+    "en"
+  ],
+  "externalResources": {
+    "source": "sharedassets0.resource",
+    "offset": 7333472,
+    "size": 12853331
+  },
+  "hasSplitAlpha": false
+}

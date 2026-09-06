@@ -1,0 +1,17 @@
+{
+  "name": "Banned",
+  "loadType": 0,
+  "channels": 2,
+  "frequency": 44100,
+  "bitsPerSample": 16,
+  "length": 0.47020408511161804,
+  "isTrackerFormat": false,
+  "subsoundIndex": 0,
+  "preloadAudioData": true,
+  "loadInBackground": false,
+  "legacy3D": true,
+  "source": "sharedassets0.resource",
+  "offset": 7307584,
+  "size": 25888,
+  "compressionFormat": "Vorbis"
+}

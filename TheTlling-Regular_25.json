@@ -1,0 +1,21 @@
+{
+  "name": "TheTlling-Regular",
+  "lineSpacing": 16.784000396728516,
+  "defaultMaterial": {
+    "fileID": 0,
+    "pathID": "6",
+    "_object": null,
+    "info": null
+  },
+  "fontSize": 16,
+  "texture": {
+    "fileID": 0,
+    "pathID": "9",
+    "_object": null,
+    "info": null
+  },
+  "asciiStartOffset": 0,
+  "characterSpacing": 0,
+  "characterPadding": 1,
+  "pixelScale": 0.10000000149011612
+}
