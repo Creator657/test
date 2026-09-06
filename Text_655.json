@@ -1,0 +1,24 @@
+{
+  "components": [
+    {
+      "fileID": 0,
+      "pathID": "2214",
+      "_object": null,
+      "info": null
+    },
+    {
+      "fileID": 0,
+      "pathID": "1800",
+      "_object": null,
+      "info": null
+    },
+    {
+      "fileID": 0,
+      "pathID": "2703",
+      "_object": null,
+      "info": null
+    }
+  ],
+  "layer": 5,
+  "name": "Text"
+}

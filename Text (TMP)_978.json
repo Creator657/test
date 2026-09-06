@@ -1,0 +1,24 @@
+{
+  "components": [
+    {
+      "fileID": 0,
+      "pathID": "2353",
+      "_object": null,
+      "info": null
+    },
+    {
+      "fileID": 0,
+      "pathID": "1951",
+      "_object": null,
+      "info": null
+    },
+    {
+      "fileID": 0,
+      "pathID": "2987",
+      "_object": null,
+      "info": null
+    }
+  ],
+  "layer": 5,
+  "name": "Text (TMP)"
+}

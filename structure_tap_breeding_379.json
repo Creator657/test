@@ -1,0 +1,17 @@
+{
+  "name": "structure_tap_breeding",
+  "loadType": 0,
+  "channels": 1,
+  "frequency": 22050,
+  "bitsPerSample": 16,
+  "length": 1.1807255744934082,
+  "isTrackerFormat": false,
+  "subsoundIndex": 0,
+  "preloadAudioData": true,
+  "loadInBackground": false,
+  "legacy3D": true,
+  "source": "resources.resource",
+  "offset": 168224,
+  "size": 8736,
+  "compressionFormat": "Vorbis"
+}

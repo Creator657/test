@@ -1,0 +1,30 @@
+{
+  "components": [
+    {
+      "fileID": 0,
+      "pathID": "2532",
+      "_object": null,
+      "info": null
+    },
+    {
+      "fileID": 0,
+      "pathID": "1890",
+      "_object": null,
+      "info": null
+    },
+    {
+      "fileID": 0,
+      "pathID": "3192",
+      "_object": null,
+      "info": null
+    },
+    {
+      "fileID": 0,
+      "pathID": "3079",
+      "_object": null,
+      "info": null
+    }
+  ],
+  "layer": 0,
+  "name": "struc_bass"
+}

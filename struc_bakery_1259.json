@@ -1,0 +1,30 @@
+{
+  "components": [
+    {
+      "fileID": 0,
+      "pathID": "2489",
+      "_object": null,
+      "info": null
+    },
+    {
+      "fileID": 0,
+      "pathID": "1928",
+      "_object": null,
+      "info": null
+    },
+    {
+      "fileID": 0,
+      "pathID": "2614",
+      "_object": null,
+      "info": null
+    },
+    {
+      "fileID": 0,
+      "pathID": "2792",
+      "_object": null,
+      "info": null
+    }
+  ],
+  "layer": 0,
+  "name": "struc_bakery"
+}

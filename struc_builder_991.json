@@ -1,0 +1,36 @@
+{
+  "components": [
+    {
+      "fileID": 0,
+      "pathID": "1404",
+      "_object": null,
+      "info": null
+    },
+    {
+      "fileID": 0,
+      "pathID": "2997",
+      "_object": null,
+      "info": null
+    },
+    {
+      "fileID": 0,
+      "pathID": "1637",
+      "_object": null,
+      "info": null
+    },
+    {
+      "fileID": 0,
+      "pathID": "1610",
+      "_object": null,
+      "info": null
+    },
+    {
+      "fileID": 0,
+      "pathID": "1695",
+      "_object": null,
+      "info": null
+    }
+  ],
+  "layer": 0,
+  "name": "struc_builder"
+}
