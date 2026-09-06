@@ -1,0 +1,208 @@
+{
+  "name": "UIMask",
+  "rect": {
+    "x": 0,
+    "y": 0,
+    "width": 32,
+    "height": 32
+  },
+  "offset": {
+    "x": 0,
+    "y": 0
+  },
+  "border": {
+    "x": 10,
+    "y": 10,
+    "z": 10,
+    "w": 10
+  },
+  "pixelsToUnits": 200,
+  "pivot": {
+    "x": 0.5,
+    "y": 0.5
+  },
+  "extrude": 1,
+  "isPolygon": false,
+  "renderDataKey": {
+    "key": "00000000000000000f00000000000000",
+    "value": 10917
+  },
+  "atlasTags": [],
+  "spriteAtlas": {
+    "fileID": 0,
+    "pathID": "0",
+    "_object": null,
+    "info": null
+  },
+  "renderData": {
+    "texture": {
+      "fileID": 0,
+      "pathID": "47",
+      "_object": null,
+      "info": null
+    },
+    "alphaTexture": {
+      "fileID": 0,
+      "pathID": "0",
+      "_object": null,
+      "info": null
+    },
+    "secondaryTextures": [],
+    "subMeshes": [
+      {
+        "firstByte": 0,
+        "indexCount": 15,
+        "topology": "Triangles",
+        "firstVertex": 0,
+        "vertexCount": 7,
+        "localAABB": {
+          "center": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "extent": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      }
+    ],
+    "vertexData": {
+      "vertexCount": 7,
+      "channels": [
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 3
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 1,
+          "offset": 0,
+          "format": 0,
+          "dimension": 2
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        }
+      ],
+      "streams": [
+        {
+          "channelMask": 1,
+          "offset": 0,
+          "stride": 12,
+          "dividerOp": 0,
+          "frequency": 0
+        },
+        {
+          "channelMask": 16,
+          "offset": 96,
+          "stride": 8,
+          "dividerOp": 0,
+          "frequency": 0
+        }
+      ]
+    },
+    "bindPose": [],
+    "sourceSkins": [],
+    "textureRect": {
+      "x": 2.0267510414123535,
+      "y": 2.0267510414123535,
+      "width": 27.94649887084961,
+      "height": 27.94649887084961
+    },
+    "textureRectOffset": {
+      "x": 2.0267510414123535,
+      "y": 2.0267510414123535
+    },
+    "atlasRectOffset": {
+      "x": -1,
+      "y": -1
+    },
+    "settings": {
+      "packed": false,
+      "packingMode": "Tight",
+      "packingRotation": "None",
+      "meshType": "Tight"
+    },
+    "uvTransform": {
+      "x": 200,
+      "y": 16,
+      "z": 200,
+      "w": 16
+    },
+    "downscaleMultiplier": 1
+  },
+  "physicsShapes": []
+}

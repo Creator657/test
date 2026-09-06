@@ -1,0 +1,24 @@
+{
+  "name": "Yool young",
+  "width": 512,
+  "height": 128,
+  "completeSize": 262144,
+  "textureFormat": "RGBA32",
+  "mipCount": 1,
+  "isReadable": false,
+  "imageCount": 1,
+  "textureDimension": 2,
+  "textureSettings": {
+    "filterMode": 1,
+    "anisotropicFiltering": 1,
+    "mipBias": 0,
+    "wrapMode": 0
+  },
+  "lightmapFormat": 0,
+  "colorSpace": 1,
+  "streamData": {
+    "offset": 211093084,
+    "size": 262144,
+    "path": "resources.assets.resS"
+  }
+}

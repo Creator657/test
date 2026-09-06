@@ -1,0 +1,116 @@
+{
+  "name": "yellow",
+  "shader": {
+    "fileID": 0,
+    "pathID": "295",
+    "_object": null,
+    "info": null
+  },
+  "shaderKeywords": "ETC1_EXTERNAL_ALPHA",
+  "lightmapFlags": 4,
+  "enableInstancingVariants": false,
+  "customRenderQueue": -1,
+  "stringTagMap": [],
+  "disabledShaderPasses": [],
+  "savedProperties": {
+    "texEnvs": [
+      {
+        "key": "_AlphaTex",
+        "value": {
+          "texture": {
+            "fileID": 0,
+            "pathID": "0",
+            "_object": null,
+            "info": null
+          },
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      },
+      {
+        "key": "_GradientMap",
+        "value": {
+          "texture": {
+            "fileID": 0,
+            "pathID": "106",
+            "_object": null,
+            "info": null
+          },
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      },
+      {
+        "key": "_MainTex",
+        "value": {
+          "texture": {
+            "fileID": 0,
+            "pathID": "0",
+            "_object": null,
+            "info": null
+          },
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      }
+    ],
+    "ints": [],
+    "floats": [
+      {
+        "key": "PixelSnap",
+        "value": 0
+      },
+      {
+        "key": "_EnableExternalAlpha",
+        "value": 0
+      }
+    ],
+    "colors": [
+      {
+        "key": "_Color",
+        "value": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      },
+      {
+        "key": "_Flip",
+        "value": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      },
+      {
+        "key": "_RendererColor",
+        "value": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Untitled9_20201022112533",
+  "width": 256,
+  "height": 256,
+  "completeSize": 87408,
+  "textureFormat": "DXT5",
+  "mipCount": 9,
+  "isReadable": false,
+  "imageCount": 1,
+  "textureDimension": 2,
+  "textureSettings": {
+    "filterMode": 1,
+    "anisotropicFiltering": 1,
+    "mipBias": 0,
+    "wrapMode": 0
+  },
+  "lightmapFormat": 0,
+  "colorSpace": 1,
+  "streamData": {
+    "offset": 67126548,
+    "size": 87408,
+    "path": "resources.assets.resS"
+  }
+}

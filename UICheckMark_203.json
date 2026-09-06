@@ -1,0 +1,24 @@
+{
+  "name": "UICheckMark",
+  "width": 11,
+  "height": 11,
+  "completeSize": 484,
+  "textureFormat": "RGBA32",
+  "mipCount": 1,
+  "isReadable": false,
+  "imageCount": 1,
+  "textureDimension": 2,
+  "textureSettings": {
+    "filterMode": 0,
+    "anisotropicFiltering": 1,
+    "mipBias": 0,
+    "wrapMode": 1
+  },
+  "lightmapFormat": 6,
+  "colorSpace": 1,
+  "streamData": {
+    "offset": 183603564,
+    "size": 484,
+    "path": "resources.assets.resS"
+  }
+}

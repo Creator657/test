@@ -1,0 +1,16 @@
+{
+  "gameObject": {
+    "fileID": 0,
+    "pathID": "0",
+    "_object": null,
+    "info": null
+  },
+  "enabled": true,
+  "script": {
+    "fileID": 1,
+    "pathID": "1360",
+    "_object": null,
+    "info": null
+  },
+  "name": "Yool young_SkeletonData"
+}

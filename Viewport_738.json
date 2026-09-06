@@ -1,0 +1,30 @@
+{
+  "components": [
+    {
+      "fileID": 0,
+      "pathID": "2149",
+      "_object": null,
+      "info": null
+    },
+    {
+      "fileID": 0,
+      "pathID": "1843",
+      "_object": null,
+      "info": null
+    },
+    {
+      "fileID": 0,
+      "pathID": "2672",
+      "_object": null,
+      "info": null
+    },
+    {
+      "fileID": 0,
+      "pathID": "2779",
+      "_object": null,
+      "info": null
+    }
+  ],
+  "layer": 5,
+  "name": "Viewport"
+}

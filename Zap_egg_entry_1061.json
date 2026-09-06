@@ -1,0 +1,24 @@
+{
+  "components": [
+    {
+      "fileID": 0,
+      "pathID": "2402",
+      "_object": null,
+      "info": null
+    },
+    {
+      "fileID": 0,
+      "pathID": "1985",
+      "_object": null,
+      "info": null
+    },
+    {
+      "fileID": 0,
+      "pathID": "3057",
+      "_object": null,
+      "info": null
+    }
+  ],
+  "layer": 5,
+  "name": "Zap_egg_entry"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Tweedle",
+  "width": 512,
+  "height": 256,
+  "completeSize": 524288,
+  "textureFormat": "RGBA32",
+  "mipCount": 1,
+  "isReadable": false,
+  "imageCount": 1,
+  "textureDimension": 2,
+  "textureSettings": {
+    "filterMode": 1,
+    "anisotropicFiltering": 1,
+    "mipBias": 0,
+    "wrapMode": 0
+  },
+  "lightmapFormat": 0,
+  "colorSpace": 1,
+  "streamData": {
+    "offset": 160228788,
+    "size": 524288,
+    "path": "resources.assets.resS"
+  }
+}

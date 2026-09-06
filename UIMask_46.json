@@ -1,0 +1,24 @@
+{
+  "name": "UIMask",
+  "width": 32,
+  "height": 32,
+  "completeSize": 5460,
+  "textureFormat": "RGBA32",
+  "mipCount": 6,
+  "isReadable": false,
+  "imageCount": 1,
+  "textureDimension": 2,
+  "textureSettings": {
+    "filterMode": 1,
+    "anisotropicFiltering": 16,
+    "mipBias": 0,
+    "wrapMode": 1
+  },
+  "lightmapFormat": 6,
+  "colorSpace": 1,
+  "streamData": {
+    "offset": 2097152,
+    "size": 5460,
+    "path": "resources.assets.resS"
+  }
+}
