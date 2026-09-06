@@ -1,0 +1,24 @@
+{
+  "components": [
+    {
+      "fileID": 0,
+      "pathID": "2340",
+      "_object": null,
+      "info": null
+    },
+    {
+      "fileID": 0,
+      "pathID": "2020",
+      "_object": null,
+      "info": null
+    },
+    {
+      "fileID": 0,
+      "pathID": "3064",
+      "_object": null,
+      "info": null
+    }
+  ],
+  "layer": 5,
+  "name": "TMP SubMeshUI [TheTlling-Regular SDF Material + LiberationSans SDF Atlas]"
+}

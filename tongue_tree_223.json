@@ -1,0 +1,24 @@
+{
+  "name": "tongue_tree",
+  "width": 473,
+  "height": 502,
+  "completeSize": 949784,
+  "textureFormat": "RGBA32",
+  "mipCount": 1,
+  "isReadable": false,
+  "imageCount": 1,
+  "textureDimension": 2,
+  "textureSettings": {
+    "filterMode": 1,
+    "anisotropicFiltering": 1,
+    "mipBias": 0,
+    "wrapMode": 1
+  },
+  "lightmapFormat": 6,
+  "colorSpace": 1,
+  "streamData": {
+    "offset": 202826076,
+    "size": 949784,
+    "path": "resources.assets.resS"
+  }
+}

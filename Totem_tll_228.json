@@ -1,0 +1,24 @@
+{
+  "name": "Totem_tll",
+  "width": 436,
+  "height": 1096,
+  "completeSize": 477856,
+  "textureFormat": "DXT5",
+  "mipCount": 1,
+  "isReadable": false,
+  "imageCount": 1,
+  "textureDimension": 2,
+  "textureSettings": {
+    "filterMode": 1,
+    "anisotropicFiltering": 1,
+    "mipBias": 0,
+    "wrapMode": 1
+  },
+  "lightmapFormat": 6,
+  "colorSpace": 1,
+  "streamData": {
+    "offset": 207924856,
+    "size": 477856,
+    "path": "resources.assets.resS"
+  }
+}

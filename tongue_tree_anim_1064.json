@@ -1,0 +1,24 @@
+{
+  "components": [
+    {
+      "fileID": 0,
+      "pathID": "1376",
+      "_object": null,
+      "info": null
+    },
+    {
+      "fileID": 0,
+      "pathID": "1655",
+      "_object": null,
+      "info": null
+    },
+    {
+      "fileID": 0,
+      "pathID": "1693",
+      "_object": null,
+      "info": null
+    }
+  ],
+  "layer": 0,
+  "name": "tongue_tree_anim"
+}

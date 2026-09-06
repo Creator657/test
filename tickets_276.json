@@ -1,0 +1,24 @@
+{
+  "name": "tickets",
+  "width": 186,
+  "height": 209,
+  "completeSize": 155496,
+  "textureFormat": "RGBA32",
+  "mipCount": 1,
+  "isReadable": false,
+  "imageCount": 1,
+  "textureDimension": 2,
+  "textureSettings": {
+    "filterMode": 1,
+    "anisotropicFiltering": 1,
+    "mipBias": 0,
+    "wrapMode": 1
+  },
+  "lightmapFormat": 6,
+  "colorSpace": 1,
+  "streamData": {
+    "offset": 256799200,
+    "size": 155496,
+    "path": "resources.assets.resS"
+  }
+}
