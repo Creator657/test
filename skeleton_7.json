@@ -1,0 +1,24 @@
+{
+  "name": "skeleton",
+  "width": 32,
+  "height": 32,
+  "completeSize": 4096,
+  "textureFormat": "RGBA32",
+  "mipCount": 1,
+  "isReadable": false,
+  "imageCount": 1,
+  "textureDimension": 2,
+  "textureSettings": {
+    "filterMode": 1,
+    "anisotropicFiltering": 1,
+    "mipBias": 0,
+    "wrapMode": 0
+  },
+  "lightmapFormat": 0,
+  "colorSpace": 1,
+  "streamData": {
+    "offset": 21844,
+    "size": 4096,
+    "path": "sharedassets0.assets.resS"
+  }
+}

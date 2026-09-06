@@ -1,0 +1,409 @@
+{
+  "name": "TheTlling-Regular SDF Material",
+  "shader": {
+    "fileID": 0,
+    "pathID": "15",
+    "_object": null,
+    "info": null
+  },
+  "shaderKeywords": "",
+  "lightmapFlags": 4,
+  "enableInstancingVariants": false,
+  "customRenderQueue": -1,
+  "stringTagMap": [],
+  "disabledShaderPasses": [],
+  "savedProperties": {
+    "texEnvs": [
+      {
+        "key": "_BumpMap",
+        "value": {
+          "texture": {
+            "fileID": 0,
+            "pathID": "0",
+            "_object": null,
+            "info": null
+          },
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      },
+      {
+        "key": "_Cube",
+        "value": {
+          "texture": {
+            "fileID": 0,
+            "pathID": "0",
+            "_object": null,
+            "info": null
+          },
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      },
+      {
+        "key": "_FaceTex",
+        "value": {
+          "texture": {
+            "fileID": 0,
+            "pathID": "0",
+            "_object": null,
+            "info": null
+          },
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      },
+      {
+        "key": "_MainTex",
+        "value": {
+          "texture": {
+            "fileID": 0,
+            "pathID": "12",
+            "_object": null,
+            "info": null
+          },
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      },
+      {
+        "key": "_OutlineTex",
+        "value": {
+          "texture": {
+            "fileID": 0,
+            "pathID": "0",
+            "_object": null,
+            "info": null
+          },
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      }
+    ],
+    "ints": [],
+    "floats": [
+      {
+        "key": "_Ambient",
+        "value": 0.5
+      },
+      {
+        "key": "_Bevel",
+        "value": 0.5
+      },
+      {
+        "key": "_BevelClamp",
+        "value": 0
+      },
+      {
+        "key": "_BevelOffset",
+        "value": 0
+      },
+      {
+        "key": "_BevelRoundness",
+        "value": 0
+      },
+      {
+        "key": "_BevelWidth",
+        "value": 0
+      },
+      {
+        "key": "_BumpFace",
+        "value": 0
+      },
+      {
+        "key": "_BumpOutline",
+        "value": 0
+      },
+      {
+        "key": "_ColorMask",
+        "value": 15
+      },
+      {
+        "key": "_Diffuse",
+        "value": 0.5
+      },
+      {
+        "key": "_FaceDilate",
+        "value": 0
+      },
+      {
+        "key": "_FaceUVSpeedX",
+        "value": 0
+      },
+      {
+        "key": "_FaceUVSpeedY",
+        "value": 0
+      },
+      {
+        "key": "_GlowInner",
+        "value": 0.05000000074505806
+      },
+      {
+        "key": "_GlowOffset",
+        "value": 0
+      },
+      {
+        "key": "_GlowOuter",
+        "value": 0.05000000074505806
+      },
+      {
+        "key": "_GlowPower",
+        "value": 0.75
+      },
+      {
+        "key": "_GradientScale",
+        "value": 6
+      },
+      {
+        "key": "_LightAngle",
+        "value": 3.1415998935699463
+      },
+      {
+        "key": "_MaskSoftnessX",
+        "value": 0
+      },
+      {
+        "key": "_MaskSoftnessY",
+        "value": 0
+      },
+      {
+        "key": "_OutlineSoftness",
+        "value": 0
+      },
+      {
+        "key": "_OutlineUVSpeedX",
+        "value": 0
+      },
+      {
+        "key": "_OutlineUVSpeedY",
+        "value": 0
+      },
+      {
+        "key": "_OutlineWidth",
+        "value": 0
+      },
+      {
+        "key": "_PerspectiveFilter",
+        "value": 0.875
+      },
+      {
+        "key": "_Reflectivity",
+        "value": 10
+      },
+      {
+        "key": "_ScaleRatioA",
+        "value": 0.8333333134651184
+      },
+      {
+        "key": "_ScaleRatioB",
+        "value": 0.6770833134651184
+      },
+      {
+        "key": "_ScaleRatioC",
+        "value": 0.6770833134651184
+      },
+      {
+        "key": "_ScaleX",
+        "value": 1
+      },
+      {
+        "key": "_ScaleY",
+        "value": 1
+      },
+      {
+        "key": "_ShaderFlags",
+        "value": 0
+      },
+      {
+        "key": "_Sharpness",
+        "value": 0
+      },
+      {
+        "key": "_SpecularPower",
+        "value": 2
+      },
+      {
+        "key": "_Stencil",
+        "value": 0
+      },
+      {
+        "key": "_StencilComp",
+        "value": 8
+      },
+      {
+        "key": "_StencilOp",
+        "value": 0
+      },
+      {
+        "key": "_StencilReadMask",
+        "value": 255
+      },
+      {
+        "key": "_StencilWriteMask",
+        "value": 255
+      },
+      {
+        "key": "_TextureHeight",
+        "value": 512
+      },
+      {
+        "key": "_TextureWidth",
+        "value": 512
+      },
+      {
+        "key": "_UnderlayDilate",
+        "value": 0
+      },
+      {
+        "key": "_UnderlayOffsetX",
+        "value": 0
+      },
+      {
+        "key": "_UnderlayOffsetY",
+        "value": 0
+      },
+      {
+        "key": "_UnderlaySoftness",
+        "value": 0
+      },
+      {
+        "key": "_VertexOffsetX",
+        "value": 0
+      },
+      {
+        "key": "_VertexOffsetY",
+        "value": 0
+      },
+      {
+        "key": "_WeightBold",
+        "value": 0.75
+      },
+      {
+        "key": "_WeightNormal",
+        "value": 0
+      }
+    ],
+    "colors": [
+      {
+        "key": "_ClipRect",
+        "value": {
+          "r": -32767,
+          "g": -32767,
+          "b": 32767,
+          "a": 32767
+        }
+      },
+      {
+        "key": "_EnvMatrixRotation",
+        "value": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0
+        }
+      },
+      {
+        "key": "_FaceColor",
+        "value": {
+          "r": 0.9622641801834106,
+          "g": 0.9622641801834106,
+          "b": 0.9622641801834106,
+          "a": 1
+        }
+      },
+      {
+        "key": "_GlowColor",
+        "value": {
+          "r": 0,
+          "g": 1,
+          "b": 0,
+          "a": 0.5
+        }
+      },
+      {
+        "key": "_MaskCoord",
+        "value": {
+          "r": 0,
+          "g": 0,
+          "b": 32767,
+          "a": 32767
+        }
+      },
+      {
+        "key": "_OutlineColor",
+        "value": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      },
+      {
+        "key": "_ReflectFaceColor",
+        "value": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      },
+      {
+        "key": "_ReflectOutlineColor",
+        "value": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      },
+      {
+        "key": "_SpecularColor",
+        "value": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      },
+      {
+        "key": "_UnderlayColor",
+        "value": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0.5
+        }
+      }
+    ]
+  }
+}

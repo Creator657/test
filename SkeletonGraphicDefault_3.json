@@ -1,0 +1,204 @@
+{
+  "name": "SkeletonGraphicDefault",
+  "shader": {
+    "fileID": 0,
+    "pathID": "16",
+    "_object": null,
+    "info": null
+  },
+  "shaderKeywords": "_STRAIGHT_ALPHA_INPUT",
+  "lightmapFlags": 5,
+  "enableInstancingVariants": false,
+  "customRenderQueue": -1,
+  "stringTagMap": [],
+  "disabledShaderPasses": [],
+  "savedProperties": {
+    "texEnvs": [
+      {
+        "key": "_MainTex",
+        "value": {
+          "texture": {
+            "fileID": 0,
+            "pathID": "0",
+            "_object": null,
+            "info": null
+          },
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      }
+    ],
+    "ints": [],
+    "floats": [
+      {
+        "key": "PixelSnap",
+        "value": 0
+      },
+      {
+        "key": "_BumpScale",
+        "value": 1
+      },
+      {
+        "key": "_CanvasGroupCompatible",
+        "value": 0
+      },
+      {
+        "key": "_ColorMask",
+        "value": 15
+      },
+      {
+        "key": "_Cutoff",
+        "value": 0.5
+      },
+      {
+        "key": "_DetailNormalMapScale",
+        "value": 1
+      },
+      {
+        "key": "_DstBlend",
+        "value": 0
+      },
+      {
+        "key": "_EnableExternalAlpha",
+        "value": 0
+      },
+      {
+        "key": "_Glossiness",
+        "value": 0.5
+      },
+      {
+        "key": "_Metallic",
+        "value": 0
+      },
+      {
+        "key": "_Mode",
+        "value": 0
+      },
+      {
+        "key": "_OcclusionStrength",
+        "value": 1
+      },
+      {
+        "key": "_OutlineMipLevel",
+        "value": 0
+      },
+      {
+        "key": "_OutlineReferenceTexWidth",
+        "value": 1024
+      },
+      {
+        "key": "_OutlineSmoothness",
+        "value": 1
+      },
+      {
+        "key": "_OutlineWidth",
+        "value": 3
+      },
+      {
+        "key": "_Parallax",
+        "value": 0.019999999552965164
+      },
+      {
+        "key": "_SrcBlend",
+        "value": 1
+      },
+      {
+        "key": "_Stencil",
+        "value": 0
+      },
+      {
+        "key": "_StencilComp",
+        "value": 8
+      },
+      {
+        "key": "_StencilOp",
+        "value": 0
+      },
+      {
+        "key": "_StencilReadMask",
+        "value": 255
+      },
+      {
+        "key": "_StencilWriteMask",
+        "value": 255
+      },
+      {
+        "key": "_StraightAlphaInput",
+        "value": 1
+      },
+      {
+        "key": "_ThresholdEnd",
+        "value": 0.25
+      },
+      {
+        "key": "_UVSec",
+        "value": 0
+      },
+      {
+        "key": "_Use8Neighbourhood",
+        "value": 1
+      },
+      {
+        "key": "_UseUIAlphaClip",
+        "value": 0
+      },
+      {
+        "key": "_ZWrite",
+        "value": 1
+      }
+    ],
+    "colors": [
+      {
+        "key": "_Color",
+        "value": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      },
+      {
+        "key": "_EmissionColor",
+        "value": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      },
+      {
+        "key": "_Flip",
+        "value": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      },
+      {
+        "key": "_OutlineColor",
+        "value": {
+          "r": 1,
+          "g": 1,
+          "b": 0,
+          "a": 1
+        }
+      },
+      {
+        "key": "_RendererColor",
+        "value": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  }
+}

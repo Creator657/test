@@ -1,0 +1,20 @@
+{
+  "name": "TheTlling-Regular SDF Atlas",
+  "width": 512,
+  "height": 512,
+  "completeSize": 262144,
+  "textureFormat": "Alpha8",
+  "mipCount": 1,
+  "isReadable": true,
+  "imageCount": 1,
+  "textureDimension": 2,
+  "textureSettings": {
+    "filterMode": 1,
+    "anisotropicFiltering": 1,
+    "mipBias": 0,
+    "wrapMode": 0
+  },
+  "lightmapFormat": 0,
+  "colorSpace": 0,
+  "streamData": null
+}

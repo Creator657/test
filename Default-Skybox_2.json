@@ -1,0 +1,61 @@
+{
+  "name": "Default-Skybox",
+  "shader": {
+    "fileID": 0,
+    "pathID": "13",
+    "_object": null,
+    "info": null
+  },
+  "shaderKeywords": "_SUNDISK_SIMPLE",
+  "lightmapFlags": 5,
+  "enableInstancingVariants": false,
+  "customRenderQueue": -1,
+  "stringTagMap": [],
+  "disabledShaderPasses": [],
+  "savedProperties": {
+    "texEnvs": [],
+    "ints": [],
+    "floats": [
+      {
+        "key": "_AtmosphereThickness",
+        "value": 1
+      },
+      {
+        "key": "_Exposure",
+        "value": 1.2999999523162842
+      },
+      {
+        "key": "_SunDisk",
+        "value": 1
+      },
+      {
+        "key": "_SunSize",
+        "value": 0.03999999910593033
+      },
+      {
+        "key": "_SunSizeConvergence",
+        "value": 5
+      }
+    ],
+    "colors": [
+      {
+        "key": "_GroundColor",
+        "value": {
+          "r": 0.36899998784065247,
+          "g": 0.3490000069141388,
+          "b": 0.3409999907016754,
+          "a": 1
+        }
+      },
+      {
+        "key": "_SkyTint",
+        "value": {
+          "r": 0.5,
+          "g": 0.5,
+          "b": 0.5,
+          "a": 1
+        }
+      }
+    ]
+  }
+}

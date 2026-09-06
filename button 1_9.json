@@ -1,0 +1,24 @@
+{
+  "name": "button 1",
+  "width": 377,
+  "height": 371,
+  "completeSize": 559468,
+  "textureFormat": "RGBA32",
+  "mipCount": 1,
+  "isReadable": false,
+  "imageCount": 1,
+  "textureDimension": 2,
+  "textureSettings": {
+    "filterMode": 1,
+    "anisotropicFiltering": 1,
+    "mipBias": 0,
+    "wrapMode": 1
+  },
+  "lightmapFormat": 6,
+  "colorSpace": 1,
+  "streamData": {
+    "offset": 25940,
+    "size": 559468,
+    "path": "sharedassets0.assets.resS"
+  }
+}

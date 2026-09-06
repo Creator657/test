@@ -1,0 +1,24 @@
+{
+  "name": "Font Texture",
+  "width": 0,
+  "height": 0,
+  "completeSize": 0,
+  "textureFormat": "RGBA32",
+  "mipCount": 1,
+  "isReadable": false,
+  "imageCount": 0,
+  "textureDimension": 2,
+  "textureSettings": {
+    "filterMode": 1,
+    "anisotropicFiltering": 1,
+    "mipBias": 0,
+    "wrapMode": 0
+  },
+  "lightmapFormat": 0,
+  "colorSpace": 0,
+  "streamData": {
+    "offset": 0,
+    "size": 0,
+    "path": ""
+  }
+}

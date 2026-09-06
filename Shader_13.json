@@ -1,0 +1,22 @@
+{
+  "platforms": [
+    "D3D11"
+  ],
+  "offsets": [
+    [
+      0
+    ]
+  ],
+  "compressedLengths": [
+    [
+      1613
+    ]
+  ],
+  "decompressedLengths": [
+    [
+      7252
+    ]
+  ],
+  "dependencies": [],
+  "shaderIsBaked": true
+}

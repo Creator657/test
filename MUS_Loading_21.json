@@ -1,0 +1,17 @@
+{
+  "name": "MUS_Loading",
+  "loadType": 0,
+  "channels": 2,
+  "frequency": 44100,
+  "bitsPerSample": 16,
+  "length": 71.44185638427734,
+  "isTrackerFormat": false,
+  "subsoundIndex": 0,
+  "preloadAudioData": true,
+  "loadInBackground": false,
+  "legacy3D": true,
+  "source": "sharedassets0.resource",
+  "offset": 3424480,
+  "size": 3883104,
+  "compressionFormat": "Vorbis"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "MUS_Banned",
+  "loadType": 0,
+  "channels": 2,
+  "frequency": 44100,
+  "bitsPerSample": 16,
+  "length": 64,
+  "isTrackerFormat": false,
+  "subsoundIndex": 0,
+  "preloadAudioData": true,
+  "loadInBackground": false,
+  "legacy3D": true,
+  "source": "sharedassets0.resource",
+  "offset": 0,
+  "size": 3424480,
+  "compressionFormat": "Vorbis"
+}
