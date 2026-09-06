@@ -1,0 +1,30 @@
+{
+  "components": [
+    {
+      "fileID": 0,
+      "pathID": "1464",
+      "_object": null,
+      "info": null
+    },
+    {
+      "fileID": 0,
+      "pathID": "1574",
+      "_object": null,
+      "info": null
+    },
+    {
+      "fileID": 0,
+      "pathID": "1557",
+      "_object": null,
+      "info": null
+    },
+    {
+      "fileID": 0,
+      "pathID": "3114",
+      "_object": null,
+      "info": null
+    }
+  ],
+  "layer": 0,
+  "name": "Spine GameObject (skeleton)"
+}

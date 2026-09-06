@@ -1,0 +1,24 @@
+{
+  "name": "spore_RWY",
+  "width": 160,
+  "height": 128,
+  "completeSize": 20480,
+  "textureFormat": "DXT5",
+  "mipCount": 1,
+  "isReadable": false,
+  "imageCount": 1,
+  "textureDimension": 2,
+  "textureSettings": {
+    "filterMode": 1,
+    "anisotropicFiltering": 1,
+    "mipBias": 0,
+    "wrapMode": 1
+  },
+  "lightmapFormat": 6,
+  "colorSpace": 1,
+  "streamData": {
+    "offset": 64518388,
+    "size": 20480,
+    "path": "resources.assets.resS"
+  }
+}

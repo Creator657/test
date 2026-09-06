@@ -1,0 +1,307 @@
+{
+  "name": "spore_RWY",
+  "rect": {
+    "x": 0,
+    "y": 0,
+    "width": 160,
+    "height": 128
+  },
+  "offset": {
+    "x": 0,
+    "y": 0
+  },
+  "border": {
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "w": 0
+  },
+  "pixelsToUnits": 100,
+  "pivot": {
+    "x": 0.5,
+    "y": 0.5
+  },
+  "extrude": 1,
+  "isPolygon": false,
+  "renderDataKey": {
+    "key": "d3215f368dd5dc479a6fbb01d050d255",
+    "value": 21300000
+  },
+  "atlasTags": [],
+  "spriteAtlas": {
+    "fileID": 0,
+    "pathID": "0",
+    "_object": null,
+    "info": null
+  },
+  "renderData": {
+    "texture": {
+      "fileID": 0,
+      "pathID": "100",
+      "_object": null,
+      "info": null
+    },
+    "alphaTexture": {
+      "fileID": 0,
+      "pathID": "0",
+      "_object": null,
+      "info": null
+    },
+    "secondaryTextures": [],
+    "subMeshes": [
+      {
+        "firstByte": 0,
+        "indexCount": 24,
+        "topology": "Triangles",
+        "firstVertex": 0,
+        "vertexCount": 10,
+        "localAABB": {
+          "center": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "extent": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      }
+    ],
+    "vertexData": {
+      "vertexCount": 10,
+      "channels": [
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 3
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 1,
+          "offset": 0,
+          "format": 0,
+          "dimension": 2
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 1,
+          "offset": 8,
+          "format": 0,
+          "dimension": 4
+        },
+        {
+          "stream": 1,
+          "offset": 24,
+          "format": 10,
+          "dimension": 4
+        }
+      ],
+      "streams": [
+        {
+          "channelMask": 1,
+          "offset": 0,
+          "stride": 12,
+          "dividerOp": 0,
+          "frequency": 0
+        },
+        {
+          "channelMask": 12304,
+          "offset": 128,
+          "stride": 32,
+          "dividerOp": 0,
+          "frequency": 0
+        }
+      ]
+    },
+    "bindPose": [],
+    "sourceSkins": [],
+    "textureRect": {
+      "x": 6.012912750244141,
+      "y": 0.04770451784133911,
+      "width": 151.97418212890625,
+      "height": 122.92554473876953
+    },
+    "textureRectOffset": {
+      "x": 6.012912750244141,
+      "y": 0.04770451784133911
+    },
+    "atlasRectOffset": {
+      "x": -1,
+      "y": -1
+    },
+    "settings": {
+      "packed": false,
+      "packingMode": "Tight",
+      "packingRotation": "None",
+      "meshType": "Tight"
+    },
+    "uvTransform": {
+      "x": 100,
+      "y": 80,
+      "z": 100,
+      "w": 64
+    },
+    "downscaleMultiplier": 1
+  },
+  "physicsShapes": [
+    [
+      {
+        "x": 0.6599999666213989,
+        "y": 0.03999999910593033
+      },
+      {
+        "x": 0.5999999642372131,
+        "y": 0.1599999964237213
+      },
+      {
+        "x": 0.5600000023841858,
+        "y": 0.3400000035762787
+      },
+      {
+        "x": 0.3999999761581421,
+        "y": 0.41999998688697815
+      },
+      {
+        "x": 0.35999998450279236,
+        "y": 0.5099999904632568
+      },
+      {
+        "x": 0.1599999964237213,
+        "y": 0.5099999904632568
+      },
+      {
+        "x": 0.07000000029802322,
+        "y": 0.5600000023841858
+      },
+      {
+        "x": 0.04999999701976776,
+        "y": 0.5699999928474426
+      },
+      {
+        "x": -0.07999999821186066,
+        "y": 0.5699999928474426
+      },
+      {
+        "x": -0.22999998927116394,
+        "y": 0.550000011920929
+      },
+      {
+        "x": -0.26999998092651367,
+        "y": 0.5
+      },
+      {
+        "x": -0.429999977350235,
+        "y": 0.44999998807907104
+      },
+      {
+        "x": -0.5099999904632568,
+        "y": 0.41999998688697815
+      },
+      {
+        "x": -0.4599999785423279,
+        "y": 0.3100000023841858
+      },
+      {
+        "x": -0.6200000047683716,
+        "y": 0.22999998927116394
+      },
+      {
+        "x": -0.6599999666213989,
+        "y": 0.05999999865889549
+      },
+      {
+        "x": -0.6599999666213989,
+        "y": -0.2800000011920929
+      },
+      {
+        "x": -0.47999998927116394,
+        "y": -0.4899999797344208
+      },
+      {
+        "x": -0.35999998450279236,
+        "y": -0.5399999618530273
+      },
+      {
+        "x": -0.14000000059604645,
+        "y": -0.5899999737739563
+      },
+      {
+        "x": 0.1599999964237213,
+        "y": -0.5899999737739563
+      },
+      {
+        "x": 0.3400000035762787,
+        "y": -0.550000011920929
+      },
+      {
+        "x": 0.5699999928474426,
+        "y": -0.41999998688697815
+      },
+      {
+        "x": 0.6599999666213989,
+        "y": -0.23999999463558197
+      }
+    ]
+  ]
+}

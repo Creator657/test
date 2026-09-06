@@ -1,0 +1,24 @@
+{
+  "name": "Spoo",
+  "width": 1024,
+  "height": 1024,
+  "completeSize": 699064,
+  "textureFormat": "DXT1",
+  "mipCount": 11,
+  "isReadable": false,
+  "imageCount": 1,
+  "textureDimension": 2,
+  "textureSettings": {
+    "filterMode": 1,
+    "anisotropicFiltering": 1,
+    "mipBias": 0,
+    "wrapMode": 0
+  },
+  "lightmapFormat": 0,
+  "colorSpace": 1,
+  "streamData": {
+    "offset": 78250188,
+    "size": 699064,
+    "path": "resources.assets.resS"
+  }
+}
