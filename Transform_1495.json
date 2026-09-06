@@ -1,0 +1,31 @@
+{
+  "gameObject": {
+    "fileID": 0,
+    "pathID": "808",
+    "_object": null,
+    "info": null
+  },
+  "localPosition": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "localRotation": {
+    "x": -0.7071068286895752,
+    "y": 0,
+    "z": 0,
+    "w": 0.7071068286895752
+  },
+  "localScale": {
+    "x": 0.7871999740600586,
+    "y": 0.7871999740600586,
+    "z": 0.7871999740600586
+  },
+  "children": [],
+  "father": {
+    "fileID": 0,
+    "pathID": "1322",
+    "_object": null,
+    "info": null
+  }
+}
