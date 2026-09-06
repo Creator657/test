@@ -1,0 +1,104 @@
+{
+"skeleton": {
+	"hash": "2AqseRRtSpNntXa4JyRUyo50i7o",
+	"spine": "3.8",
+	"x": -123.88,
+	"y": -123.87,
+	"width": 247.75,
+	"height": 247.75,
+	"images": "",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone3", "parent": "root" },
+	{ "name": "bone", "parent": "bone3" },
+	{ "name": "bone2", "parent": "bone3", "scaleY": -1 }
+],
+"slots": [
+	{ "name": "circle", "bone": "bone", "attachment": "circle" },
+	{ "name": "circle2", "bone": "bone", "attachment": "circle" },
+	{ "name": "circle7", "bone": "bone2", "attachment": "circle" },
+	{ "name": "circle3", "bone": "bone", "attachment": "circle" },
+	{ "name": "circle8", "bone": "bone2", "attachment": "circle" },
+	{ "name": "circle4", "bone": "bone", "attachment": "circle" },
+	{ "name": "circle9", "bone": "bone2", "attachment": "circle" },
+	{ "name": "circle5", "bone": "bone", "attachment": "circle" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"circle": {
+				"circle": { "x": 100, "scaleX": 0.4775, "scaleY": 0.4775, "width": 100, "height": 100 }
+			},
+			"circle2": {
+				"circle": {
+					"x": 70.71,
+					"y": 70.71,
+					"scaleX": 0.4775,
+					"scaleY": 0.4775,
+					"rotation": 45,
+					"width": 100,
+					"height": 100
+				}
+			},
+			"circle3": {
+				"circle": { "y": 100, "scaleX": 0.4775, "scaleY": 0.4775, "rotation": 90, "width": 100, "height": 100 }
+			},
+			"circle4": {
+				"circle": {
+					"x": -70.71,
+					"y": 70.71,
+					"scaleX": 0.4775,
+					"scaleY": 0.4775,
+					"rotation": 135,
+					"width": 100,
+					"height": 100
+				}
+			},
+			"circle5": {
+				"circle": { "x": -100, "scaleX": 0.4775, "scaleY": 0.4775, "rotation": 180, "width": 100, "height": 100 }
+			},
+			"circle7": {
+				"circle": {
+					"x": 70.71,
+					"y": 70.71,
+					"scaleX": 0.4775,
+					"scaleY": 0.4775,
+					"rotation": 45,
+					"width": 100,
+					"height": 100
+				}
+			},
+			"circle8": {
+				"circle": { "y": 100, "scaleX": 0.4775, "scaleY": 0.4775, "rotation": 90, "width": 100, "height": 100 }
+			},
+			"circle9": {
+				"circle": {
+					"x": -70.71,
+					"y": 70.71,
+					"scaleX": 0.4775,
+					"scaleY": 0.4775,
+					"rotation": 135,
+					"width": 100,
+					"height": 100
+				}
+			}
+		}
+	}
+],
+"animations": {
+	"Idle": {
+		"bones": {
+			"bone3": {
+				"rotate": [
+					{},
+					{ "time": 0.8333, "angle": 180 },
+					{ "time": 1.6667 }
+				]
+			}
+		}
+	}
+}
+}
