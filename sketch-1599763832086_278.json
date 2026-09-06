@@ -1,0 +1,24 @@
+{
+  "name": "sketch-1599763832086",
+  "width": 630,
+  "height": 630,
+  "completeSize": 1190700,
+  "textureFormat": "RGB24",
+  "mipCount": 1,
+  "isReadable": false,
+  "imageCount": 1,
+  "textureDimension": 2,
+  "textureSettings": {
+    "filterMode": 1,
+    "anisotropicFiltering": 1,
+    "mipBias": 0,
+    "wrapMode": 1
+  },
+  "lightmapFormat": 6,
+  "colorSpace": 1,
+  "streamData": {
+    "offset": 257304248,
+    "size": 1190700,
+    "path": "resources.assets.resS"
+  }
+}

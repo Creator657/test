@@ -1,0 +1,114 @@
+{
+  "name": "skeleton_Material-Additive",
+  "shader": {
+    "fileID": 0,
+    "pathID": "291",
+    "_object": null,
+    "info": null
+  },
+  "shaderKeywords": "_STRAIGHT_ALPHA_INPUT _USE8NEIGHBOURHOOD_ON",
+  "lightmapFlags": 4,
+  "enableInstancingVariants": false,
+  "customRenderQueue": -1,
+  "stringTagMap": [],
+  "disabledShaderPasses": [],
+  "savedProperties": {
+    "texEnvs": [
+      {
+        "key": "_MainTex",
+        "value": {
+          "texture": {
+            "fileID": 0,
+            "pathID": "107",
+            "_object": null,
+            "info": null
+          },
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      }
+    ],
+    "ints": [],
+    "floats": [
+      {
+        "key": "<noninit>",
+        "value": 0
+      },
+      {
+        "key": "_Cutoff",
+        "value": 0.10000000149011612
+      },
+      {
+        "key": "_OutlineMipLevel",
+        "value": 0
+      },
+      {
+        "key": "_OutlineReferenceTexWidth",
+        "value": 1024
+      },
+      {
+        "key": "_OutlineSmoothness",
+        "value": 1
+      },
+      {
+        "key": "_OutlineWidth",
+        "value": 3
+      },
+      {
+        "key": "_StencilComp",
+        "value": 8
+      },
+      {
+        "key": "_StencilRef",
+        "value": 1
+      },
+      {
+        "key": "_StraightAlphaInput",
+        "value": 1
+      },
+      {
+        "key": "_ThresholdEnd",
+        "value": 0.25
+      },
+      {
+        "key": "_Use8Neighbourhood",
+        "value": 1
+      }
+    ],
+    "colors": [
+      {
+        "key": "<noninit>",
+        "value": {
+          "r": 0,
+          "g": 2.0185739994049072,
+          "b": 1.401298464324817e-45,
+          "a": 0.000007110105798346922
+        }
+      },
+      {
+        "key": "_Color",
+        "value": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      },
+      {
+        "key": "_OutlineColor",
+        "value": {
+          "r": 1,
+          "g": 1,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  }
+}

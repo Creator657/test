@@ -1,0 +1,92 @@
+{
+  "name": "skeleton_Material",
+  "shader": {
+    "fileID": 2,
+    "pathID": "14",
+    "_object": null,
+    "info": null
+  },
+  "shaderKeywords": "_STRAIGHT_ALPHA_INPUT _USE8NEIGHBOURHOOD_ON",
+  "lightmapFlags": 4,
+  "enableInstancingVariants": false,
+  "customRenderQueue": -1,
+  "stringTagMap": [],
+  "disabledShaderPasses": [],
+  "savedProperties": {
+    "texEnvs": [
+      {
+        "key": "_MainTex",
+        "value": {
+          "texture": {
+            "fileID": 0,
+            "pathID": "138",
+            "_object": null,
+            "info": null
+          },
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      }
+    ],
+    "ints": [],
+    "floats": [
+      {
+        "key": "_Cutoff",
+        "value": 0.10000000149011612
+      },
+      {
+        "key": "_OutlineMipLevel",
+        "value": 0
+      },
+      {
+        "key": "_OutlineReferenceTexWidth",
+        "value": 1024
+      },
+      {
+        "key": "_OutlineSmoothness",
+        "value": 1
+      },
+      {
+        "key": "_OutlineWidth",
+        "value": 3
+      },
+      {
+        "key": "_StencilComp",
+        "value": 8
+      },
+      {
+        "key": "_StencilRef",
+        "value": 1
+      },
+      {
+        "key": "_StraightAlphaInput",
+        "value": 1
+      },
+      {
+        "key": "_ThresholdEnd",
+        "value": 0.25
+      },
+      {
+        "key": "_Use8Neighbourhood",
+        "value": 1
+      }
+    ],
+    "colors": [
+      {
+        "key": "_OutlineColor",
+        "value": {
+          "r": 1,
+          "g": 1,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ]
+  }
+}

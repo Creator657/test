@@ -1,0 +1,227 @@
+{
+  "name": "sketch-1599763832086",
+  "rect": {
+    "x": 0,
+    "y": 0,
+    "width": 630,
+    "height": 630
+  },
+  "offset": {
+    "x": 0,
+    "y": 0
+  },
+  "border": {
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "w": 0
+  },
+  "pixelsToUnits": 100,
+  "pivot": {
+    "x": 0.5,
+    "y": 0.5
+  },
+  "extrude": 1,
+  "isPolygon": false,
+  "renderDataKey": {
+    "key": "eff7e65e78192648b685327d9d1e27f7",
+    "value": 21300000
+  },
+  "atlasTags": [],
+  "spriteAtlas": {
+    "fileID": 0,
+    "pathID": "0",
+    "_object": null,
+    "info": null
+  },
+  "renderData": {
+    "texture": {
+      "fileID": 0,
+      "pathID": "279",
+      "_object": null,
+      "info": null
+    },
+    "alphaTexture": {
+      "fileID": 0,
+      "pathID": "0",
+      "_object": null,
+      "info": null
+    },
+    "secondaryTextures": [],
+    "subMeshes": [
+      {
+        "firstByte": 0,
+        "indexCount": 6,
+        "topology": "Triangles",
+        "firstVertex": 0,
+        "vertexCount": 4,
+        "localAABB": {
+          "center": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "extent": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      }
+    ],
+    "vertexData": {
+      "vertexCount": 4,
+      "channels": [
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 3
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 1,
+          "offset": 0,
+          "format": 0,
+          "dimension": 2
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 0,
+          "offset": 0,
+          "format": 0,
+          "dimension": 0
+        },
+        {
+          "stream": 1,
+          "offset": 8,
+          "format": 0,
+          "dimension": 4
+        },
+        {
+          "stream": 1,
+          "offset": 24,
+          "format": 10,
+          "dimension": 4
+        }
+      ],
+      "streams": [
+        {
+          "channelMask": 1,
+          "offset": 0,
+          "stride": 12,
+          "dividerOp": 0,
+          "frequency": 0
+        },
+        {
+          "channelMask": 12304,
+          "offset": 48,
+          "stride": 32,
+          "dividerOp": 0,
+          "frequency": 0
+        }
+      ]
+    },
+    "bindPose": [],
+    "sourceSkins": [],
+    "textureRect": {
+      "x": 0,
+      "y": 0,
+      "width": 630,
+      "height": 630
+    },
+    "textureRectOffset": {
+      "x": 0,
+      "y": 0
+    },
+    "atlasRectOffset": {
+      "x": -1,
+      "y": -1
+    },
+    "settings": {
+      "packed": false,
+      "packingMode": "Tight",
+      "packingRotation": "None",
+      "meshType": "Tight"
+    },
+    "uvTransform": {
+      "x": 100,
+      "y": 315,
+      "z": 100,
+      "w": 315
+    },
+    "downscaleMultiplier": 1
+  },
+  "physicsShapes": [
+    [
+      {
+        "x": -3.1499998569488525,
+        "y": 3.1499998569488525
+      },
+      {
+        "x": -3.1499998569488525,
+        "y": -3.1499998569488525
+      },
+      {
+        "x": 3.1499998569488525,
+        "y": -3.1499998569488525
+      },
+      {
+        "x": 3.1499998569488525,
+        "y": 3.1499998569488525
+      }
+    ]
+  ]
+}
