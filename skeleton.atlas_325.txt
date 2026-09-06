@@ -1,0 +1,174 @@
+
+skeleton.png
+size: 2045,1181
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm
+  rotate: true
+  xy: 1600, 131
+  size: 150, 315
+  orig: 151, 316
+  offset: 1, 1
+  index: -1
+Arm_hold
+  rotate: true
+  xy: 1454, 153
+  size: 516, 144
+  orig: 516, 144
+  offset: 0, 0
+  index: -1
+Base
+  rotate: true
+  xy: 973, 212
+  size: 967, 479
+  orig: 968, 480
+  offset: 0, 1
+  index: -1
+Body
+  rotate: false
+  xy: 2, 152
+  size: 969, 1027
+  orig: 969, 1029
+  offset: 0, 1
+  index: -1
+Eyeball
+  rotate: false
+  xy: 776, 14
+  size: 166, 136
+  orig: 167, 137
+  offset: 0, 0
+  index: -1
+Eyelid0
+  rotate: false
+  xy: 2, 20
+  size: 212, 130
+  orig: 212, 130
+  offset: 0, 0
+  index: -1
+Eyelid1
+  rotate: false
+  xy: 1174, 57
+  size: 190, 153
+  orig: 190, 153
+  offset: 0, 0
+  index: -1
+Eyelid2
+  rotate: false
+  xy: 423, 7
+  size: 177, 143
+  orig: 178, 143
+  offset: 1, 0
+  index: -1
+Finger1
+  rotate: false
+  xy: 1914, 611
+  size: 124, 58
+  orig: 125, 58
+  offset: 0, 0
+  index: -1
+Finger2
+  rotate: false
+  xy: 1927, 1069
+  size: 106, 110
+  orig: 108, 113
+  offset: 0, 0
+  index: -1
+Finger3
+  rotate: false
+  xy: 1927, 871
+  size: 82, 108
+  orig: 87, 114
+  offset: 4, 1
+  index: -1
+Finger4
+  rotate: false
+  xy: 1927, 797
+  size: 112, 72
+  orig: 113, 73
+  offset: 1, 0
+  index: -1
+Hat
+  rotate: false
+  xy: 1454, 671
+  size: 471, 508
+  orig: 472, 508
+  offset: 0, 0
+  index: -1
+Iris
+  rotate: false
+  xy: 1927, 761
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+Leaf
+  rotate: false
+  xy: 1600, 283
+  size: 232, 216
+  orig: 232, 216
+  offset: 0, 0
+  index: -1
+Mouth1
+  rotate: false
+  xy: 216, 17
+  size: 205, 133
+  orig: 205, 133
+  offset: 0, 0
+  index: -1
+Mouth2
+  rotate: false
+  xy: 602, 8
+  size: 172, 142
+  orig: 172, 142
+  offset: 0, 0
+  index: -1
+Mouth3
+  rotate: false
+  xy: 1366, 2
+  size: 187, 149
+  orig: 187, 149
+  offset: 0, 0
+  index: -1
+Mouth4
+  rotate: false
+  xy: 973, 50
+  size: 199, 160
+  orig: 199, 160
+  offset: 0, 0
+  index: -1
+Mouth5
+  rotate: true
+  xy: 1834, 289
+  size: 210, 175
+  orig: 212, 175
+  offset: 1, 0
+  index: -1
+Palm
+  rotate: false
+  xy: 1927, 981
+  size: 110, 86
+  orig: 110, 86
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 1600, 501
+  size: 312, 168
+  orig: 314, 171
+  offset: 1, 1
+  index: -1
+Stalk1
+  rotate: false
+  xy: 1917, 62
+  size: 126, 225
+  orig: 126, 225
+  offset: 0, 0
+  index: -1
+Stalk2
+  rotate: false
+  xy: 1555, 44
+  size: 146, 85
+  orig: 147, 85
+  offset: 1, 0
+  index: -1

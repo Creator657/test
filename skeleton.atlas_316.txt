@@ -1,0 +1,321 @@
+
+skeleton.png
+size: 1884,1441
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 493, 342
+  size: 381, 395
+  orig: 382, 395
+  offset: 0, 0
+  index: -1
+Brain
+  rotate: true
+  xy: 637, 739
+  size: 435, 326
+  orig: 435, 327
+  offset: 0, 1
+  index: -1
+Brainwaves
+  rotate: false
+  xy: 2, 359
+  size: 489, 378
+  orig: 495, 384
+  offset: 3, 3
+  index: -1
+Ear
+  rotate: true
+  xy: 1609, 987
+  size: 178, 171
+  orig: 179, 171
+  offset: 1, 0
+  index: -1
+Group 72
+  rotate: true
+  xy: 2, 856
+  size: 120, 94
+  orig: 121, 94
+  offset: 1, 0
+  index: -1
+Group 73
+  rotate: false
+  xy: 1702, 626
+  size: 122, 139
+  orig: 122, 140
+  offset: 0, 0
+  index: -1
+Group 74
+  rotate: false
+  xy: 56, 1386
+  size: 67, 53
+  orig: 68, 53
+  offset: 1, 0
+  index: -1
+Group 75
+  rotate: false
+  xy: 2, 1354
+  size: 52, 85
+  orig: 52, 87
+  offset: 0, 0
+  index: -1
+Hand mouth0001
+  rotate: false
+  xy: 663, 1176
+  size: 309, 248
+  orig: 344, 284
+  offset: 16, 20
+  index: -1
+Hand mouth0002
+  rotate: true
+  xy: 774, 36
+  size: 304, 240
+  orig: 344, 284
+  offset: 18, 24
+  index: -1
+Hand mouth0003
+  rotate: true
+  xy: 876, 342
+  size: 299, 233
+  orig: 344, 284
+  offset: 21, 27
+  index: -1
+Hand mouth0004
+  rotate: true
+  xy: 965, 643
+  size: 293, 226
+  orig: 344, 284
+  offset: 24, 31
+  index: -1
+Hand mouth0005
+  rotate: true
+  xy: 974, 938
+  size: 287, 218
+  orig: 344, 284
+  offset: 27, 35
+  index: -1
+Hand mouth0006
+  rotate: false
+  xy: 974, 1227
+  size: 283, 210
+  orig: 344, 284
+  offset: 29, 39
+  index: -1
+Hand mouth0007
+  rotate: true
+  xy: 1111, 342
+  size: 277, 203
+  orig: 344, 284
+  offset: 32, 42
+  index: -1
+Hand mouth0008
+  rotate: true
+  xy: 1230, 67
+  size: 273, 195
+  orig: 344, 284
+  offset: 34, 46
+  index: -1
+Hand mouth0009
+  rotate: true
+  xy: 1316, 342
+  size: 267, 188
+  orig: 344, 284
+  offset: 37, 50
+  index: -1
+Hand mouth0010
+  rotate: true
+  xy: 1354, 611
+  size: 253, 181
+  orig: 344, 284
+  offset: 44, 53
+  index: -1
+Hand mouth0011
+  rotate: true
+  xy: 1429, 866
+  size: 241, 175
+  orig: 344, 284
+  offset: 50, 55
+  index: -1
+Hand mouth0012
+  rotate: true
+  xy: 1506, 342
+  size: 227, 168
+  orig: 344, 284
+  offset: 57, 58
+  index: -1
+Hand mouth0013
+  rotate: true
+  xy: 1537, 571
+  size: 213, 163
+  orig: 344, 284
+  offset: 64, 60
+  index: -1
+Hand mouth0014
+  rotate: true
+  xy: 1606, 786
+  size: 199, 157
+  orig: 344, 284
+  offset: 71, 63
+  index: -1
+Hand mouth0015
+  rotate: true
+  xy: 1609, 1167
+  size: 186, 150
+  orig: 344, 284
+  offset: 78, 66
+  index: -1
+Hand mouth0016
+  rotate: true
+  xy: 1637, 166
+  size: 174, 145
+  orig: 344, 284
+  offset: 84, 68
+  index: -1
+Hand mouth0017
+  rotate: false
+  xy: 1259, 1299
+  size: 160, 140
+  orig: 344, 284
+  offset: 91, 71
+  index: -1
+Hand mouth0018
+  rotate: true
+  xy: 1676, 342
+  size: 147, 135
+  orig: 344, 284
+  offset: 98, 73
+  index: -1
+Hand mouth0019
+  rotate: true
+  xy: 1702, 491
+  size: 133, 130
+  orig: 344, 284
+  offset: 105, 76
+  index: -1
+Hand mouth0020
+  rotate: false
+  xy: 439, 67
+  size: 333, 273
+  orig: 344, 284
+  offset: 4, 7
+  index: -1
+Hand mouth0021
+  rotate: true
+  xy: 1016, 49
+  size: 291, 212
+  orig: 344, 284
+  offset: 25, 38
+  index: -1
+Hand mouth0022
+  rotate: false
+  xy: 1637, 10
+  size: 157, 154
+  orig: 344, 284
+  offset: 93, 64
+  index: -1
+Invert
+  rotate: false
+  xy: 2, 31
+  size: 435, 326
+  orig: 435, 327
+  offset: 0, 1
+  index: -1
+Mouth
+  rotate: true
+  xy: 1761, 1167
+  size: 137, 119
+  orig: 143, 124
+  offset: 3, 2
+  index: -1
+Ref
+  rotate: false
+  xy: 2, 739
+  size: 659, 700
+  orig: 659, 700
+  offset: 0, 0
+  index: -1
+Shadow2
+  rotate: true
+  xy: 1259, 974
+  size: 312, 168
+  orig: 314, 171
+  offset: 1, 1
+  index: -1
+Tail
+  rotate: false
+  xy: 1427, 3
+  size: 143, 123
+  orig: 143, 123
+  offset: 0, 0
+  index: -1
+eye back
+  rotate: false
+  xy: 2, 746
+  size: 100, 98
+  orig: 100, 98
+  offset: 0, 0
+  index: -1
+eyelid
+  rotate: false
+  xy: 198, 1378
+  size: 117, 61
+  orig: 117, 61
+  offset: 0, 0
+  index: -1
+eyelid cover
+  rotate: false
+  xy: 1761, 1306
+  size: 121, 121
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+foot1
+  rotate: false
+  xy: 1429, 1109
+  size: 178, 229
+  orig: 178, 229
+  offset: 0, 0
+  index: -1
+foot2
+  rotate: false
+  xy: 1427, 128
+  size: 208, 212
+  orig: 208, 212
+  offset: 0, 0
+  index: -1
+leg
+  rotate: false
+  xy: 1765, 767
+  size: 105, 134
+  orig: 105, 134
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 207, 1346
+  size: 36, 30
+  orig: 37, 31
+  offset: 0, 1
+  index: -1
+pupil
+  rotate: false
+  xy: 125, 1387
+  size: 53, 52
+  orig: 55, 53
+  offset: 1, 1
+  index: -1
+pupil glow
+  rotate: false
+  xy: 2, 1059
+  size: 65, 65
+  orig: 67, 65
+  offset: 1, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1194, 621
+  size: 351, 158
+  orig: 356, 179
+  offset: 2, 10
+  index: -1

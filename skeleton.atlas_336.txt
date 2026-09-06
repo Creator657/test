@@ -1,0 +1,146 @@
+
+skeleton.png
+size: 3059,252
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm lower
+  rotate: false
+  xy: 941, 2
+  size: 144, 83
+  orig: 145, 85
+  offset: 1, 1
+  index: -1
+Arm upper
+  rotate: false
+  xy: 2708, 48
+  size: 134, 202
+  orig: 135, 204
+  offset: 1, 1
+  index: -1
+Arm_mouth0001
+  rotate: false
+  xy: 1229, 15
+  size: 194, 235
+  orig: 236, 243
+  offset: 6, 8
+  index: -1
+Arm_mouth0002
+  rotate: false
+  xy: 1630, 25
+  size: 201, 225
+  orig: 236, 243
+  offset: 4, 16
+  index: -1
+Arm_mouth0003
+  rotate: false
+  xy: 1425, 27
+  size: 203, 223
+  orig: 236, 243
+  offset: 6, 20
+  index: -1
+Arm_mouth0004
+  rotate: false
+  xy: 1833, 36
+  size: 208, 214
+  orig: 236, 243
+  offset: 7, 24
+  index: -1
+Arm_mouth0005
+  rotate: true
+  xy: 2043, 36
+  size: 214, 200
+  orig: 236, 243
+  offset: 6, 28
+  index: -1
+Arm_mouth0006
+  rotate: true
+  xy: 2245, 26
+  size: 224, 179
+  orig: 236, 243
+  offset: 1, 39
+  index: -1
+Arm_mouth0007
+  rotate: true
+  xy: 2426, 21
+  size: 229, 154
+  orig: 236, 243
+  offset: 0, 54
+  index: -1
+Body
+  rotate: false
+  xy: 330, 2
+  size: 298, 248
+  orig: 299, 248
+  offset: 0, 0
+  index: -1
+Bow
+  rotate: false
+  xy: 941, 87
+  size: 286, 163
+  orig: 301, 189
+  offset: 1, 13
+  index: -1
+Eyeback
+  rotate: true
+  xy: 2582, 29
+  size: 221, 124
+  orig: 223, 126
+  offset: 1, 1
+  index: -1
+Eyeball
+  rotate: false
+  xy: 734, 15
+  size: 58, 67
+  orig: 60, 69
+  offset: 1, 1
+  index: -1
+Foot
+  rotate: false
+  xy: 630, 6
+  size: 102, 76
+  orig: 103, 76
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 11
+  size: 326, 239
+  orig: 328, 241
+  offset: 1, 1
+  index: -1
+Iris
+  rotate: false
+  xy: 865, 49
+  size: 28, 33
+  orig: 29, 35
+  offset: 1, 1
+  index: -1
+Leg lower
+  rotate: false
+  xy: 2844, 76
+  size: 103, 174
+  orig: 103, 175
+  offset: 0, 1
+  index: -1
+Leg upper
+  rotate: false
+  xy: 2949, 87
+  size: 108, 163
+  orig: 108, 168
+  offset: 0, 5
+  index: -1
+Nails
+  rotate: false
+  xy: 794, 29
+  size: 69, 53
+  orig: 71, 58
+  offset: 1, 4
+  index: -1
+Shadow
+  rotate: false
+  xy: 630, 84
+  size: 309, 166
+  orig: 314, 171
+  offset: 3, 2
+  index: -1

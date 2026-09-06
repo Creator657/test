@@ -1,0 +1,225 @@
+btn_play=Spelen
+btn_exit=Verlaten
+btn_move=Verplaatsen
+btn_feed=Voederen
+btn_flip=Omdraaien
+btn_place=Plaatsen
+btn_cancel=Annuleren
+btn_zapper_eggs_list=Inventaris
+btn_buy_more=Meer kopen
+btn_info=Info
+btn_map=Kaart
+btn_settings=Instellingen
+btn_feedback=Feedback
+btn_mute=Dempen
+btn_sell=Verkopen
+btn_zap_into_zapper=Zappen
+btn_store=Markt
+btn_store_monsters=Monsters
+btn_store_decos=Decoraties
+btn_store_strucs=Bouwwerken
+btn_breed_start=Kweken
+btn_breed=Kweken
+btn_send=Verzenden
+btn_save_island_data=Opslaan
+btn_load_island_data=Laden
+btn_clear_island_data=Ontruimen
+btn_promotion_visit=Bezoeken
+btn_copy_user_id=Kopieer GebruikersID
+btn_reset_currency=Valuta resetten
+
+str_characters_limit=3000 karakter limiet
+str_feedback=Feedback en bug rapport
+str_feedback_hint_text=Tekst toevoegen...
+str_not_enough_currency=Je hebt niet genoeg <item>!\nSpeel het spel en verzamel meer <item> om de transactie te voltooien.
+str_item_diamonds=Diamanten
+str_item_coins=Munten
+str_item_food=Voedsel
+str_monster_level=niveau:<level>
+str_monster_level_max=Max
+str_island_list=Kies een eiland
+str_loading_asset_bundles=Activabundels laden
+str_loading_names=Namen ophalen
+str_loading=Laden
+str_user_id_pre=Jouw GebruikersID
+str_banned_title=Je was verbannen!
+str_banned=Dit kan zijn vanwege ongepast gedrag of hacken. Als je denkt dat dit een vergissing is, neem dan contact met ons op.
+str_offline=Je bent offline.\nMaak opnieuw verbinding met het internet en heropen het spel.
+str_loading_languages=Loading languages
+str_loading_languages2=Loading language packs
+
+-----monsters
+name_monster_potbelly_adult=Bakbuikje
+bio_monster_potbelly_adult=Bakbuikje bio
+
+name_monster_tweedle_adult=Flierefluiter
+bio_monster_tweedle_adult=Flierefluiter bio
+
+name_monster_toejammer_adult=Tenenmepper
+bio_monster_toejammer_adult=Tenenmepper bio
+
+name_monster_flootfly_adult=Fluitvlieg
+bio_monster_flootfly_adult=Fluitvlieg bio
+
+name_monster_dandidoo_adult=Parbadoe
+bio_monster_dandidoo_adult=Parbadoe bio
+
+name_monster_quibble_adult=Kibbel
+bio_monster_quibble_adult=Kibbel bio
+
+name_monster_kikimora_adult=Harpijger
+vargan+prow+crow
+bio_monster_kikimora_adult=Harpijger bio
+
+name_monster_spunge_adult=Spuns
+bio_monster_spunge_adult=Spuns bio
+
+name_monster_frondley_adult=Varenvriend
+bio_monster_frondley_adult=Varenvriend bio
+
+name_monster_yaga_adult=Stompa
+bio_monster_yaga_adult=Stompa bio
+
+name_monster_maulch_adult=Haksmoel
+bio_monster_maulch_adult=Haksmoel bio
+
+name_monsterYoung_flootfly=Jonge Fluitvlieg
+bio_monsterYoung_flootfly=Jonge Fluitvlieg bio
+
+name_monsterYoung_theremind=Jonge Koortex
+bio_monsterYoung_theremind=Jonge Koortex bio
+
+name_monsterYoung_fluoress=Jonge Fluork
+bio_monsterYoung_fluoress=Jonge Fluork bio
+
+name_monsterYoung_clackula=Jonge Klakula
+
+name_monsterYoung_osstax=Jonge Ostapaal
+
+name_monsterYoung_brump=Jonge Brump
+
+name_monsterYoung_oaktopus=Jonge Eiktopus
+bio_monsterYoung_oaktopus=Jonge Eiktopus bio
+
+name_monsterYoung_yool=Jonge Jool
+
+name_monsterYoung_jeeode=Jonge Juwedel 
+
+name_monsterYoung_stogg=Jonge Empideino
+bio_monsterYoung_stogg=Jonge Empideino bio
+
+name_monsterYoung_schmoochle=Jonge Troetelaar
+bio_monsterYoung_schmoochle=Jonge Troetelaar bio
+
+-----decos
+name_deco_jar=Reserveonderdelen
+bio_deco_jar=Reserveonderdelen bio
+
+name_deco_jugler=Jongleertulp
+bio_deco_jugler=Jongleertulp bio
+
+name_deco_bucket=Listobbe
+bio_deco_bucket=Listobbe bio
+
+name_deco_upside-tree=Kapseis bessenboom
+bio_deco_upside-tree=Kapseis bessenboom bio
+
+name_monster_dancer=De danser
+bio_monster_dancer=De danser is omgeven door vreemde dingen. Het vreemdste en misschien wel engste ding is......hoe.... kan je dit lezen?\nDit zou niet beschikbaar moeten zijn voor de algemene speler.....
+
+name_monster_cursed_adult=Het ding...
+bio_monster_cursed_adult=Oh wauw! Hoe kan je dit lezen? Tenzij je een tester van dit spel bent, weet ik niet hoe je dit.... ding op je eiland hebt gekregen. Ach ja!/nDit ding is alleen maar gemaakt om wat uit testen. Maar ik denk dat het tot een decoratie omgebouwd zal worden. Iets zoals een paal.
+
+name_deco_baloony=Ballonnie
+bio_deco_baloony=Ze noemen hem vervangende vriend. Eenzame monsters kunnen op elk moment terecht bij Ballonnie om hun verhalen met hem te delen. Onze "vriend" vloog vroeger vrij rond, de monsterwereld aan het ontdekken, maar hij kwam vast te zitten tussen twee stenen. Heen en weer wiegen is het enige wat hij nog kan doen. Niemand weet wie Ballonnie heeft gemaakt, maar het gerucht gaat dat hij lijkt op zijn schepper. Wie weet, misschien ontmoeten we hem op een dag.
+
+
+-----structures
+name_struc_breeding=Kweekstation
+bio_struc_breeding=Kweekstation bio
+
+-----islands
+name_island_swamp=Groenblijvend Moeras
+bio_island_swamp=Groenblijvend Moeras bio
+
+name_island_city=Zwevende Stad
+bio_island_city=Zwevende Stad bio
+
+name_island_seasonal_group=Seizoensverbinding
+bio_island_seasonal_group=Seizoensverbinding bio
+
+name_island_lullaby=Serene Slede
+bio_island_lullaby=Serene Slede
+
+name_island_organ=Aarde der Organen
+bio_island_organ=Aarde der Organen bio
+
+name_island_walrus=Walrus Grotten
+bio_island_walrus=Walrus Grotten bio
+
+name_island_farm=Hoogwater Hoeve
+bio_island_farm=Hoogwater Hoeve bio
+
+name_island_unknown=???
+bio_island_unknown=Je hebt dit eiland nog niet ontdekt. Wellicht zal het later beschikbaar zijn.
+
+-----tasks
+task_breed_monster=Kweek en plaats <entity>.
+task_buy_monster=Koop en plaats <entity>.
+task_go_to_level=Bereik niveau <level>.
+task_unlock_island=Ontgrendel <island>.
+task_feed_monster=Voeder een monster to niveau <level>.
+task_collect_money=Spaar <amount> munten.
+task_clear_obstacles=Ontruim <amount> obstakels van het type <obstacle>.
+
+-----popups
+btn_yes=Ja
+btn_no=Nee
+btn_ok=OK
+
+str_popup_send=Weet je zeker dat je <monster_name> naar <island> wilt sturen?
+str_popup_send_tickets=Je hebt niet genoeg kaartjes om <monster_name> naar <island> te sturen.
+str_popup_send_level=<monster_name> moet niveau <required_level> zijn om naar <island> gestuurd te worden.
+str_popup_not_enough_currency=Je hebt niet genoeg <item>!\nSpeel het spel en verzamel meer <item> om de transactie te voltooien.
+str_popup_sell=Weet je zeker dat je <monster_name> wilt verkopen voor <amount> <item>?
+str_popup_limit=Je kan niet meer dan <entity_max> van dit hebben.
+
+str_airship=Welluidende Zeppelin
+str_airship_arrival=De zeppelin zal aankomen over\n<airship_time>
+str_airship_retrieval=De zeppelin zal vertrekken over\n<airship_time>
+
+str_item_tickets=Kaartjes
+
+
+str_loading_error=Er was een fout bij het laden van de spelgegevens. Controleer aub je internetverbinding en probeer opnieuw.\nFout: <error>
+str_net_error= Er was een fout bij het laden van de activa. Het spel moet heropend worden om de activa proberen opnieuw te laden.\nFout: <error>
+
+-----monstres
+bio_monsterYoung_clackula=Klakula kinderen zijn anders dan andere jonge monsters, aangezien ze net so asociaal en verlegen zijn als hun volwassen tegenhangers. Het kost veel conversatie om een Klakula open te krijgen. Echter, met genoeg geduld en toewijding is zelfs de meest afgesloten Klakula uit zijn schulp te krijgen! Baby Klakula’s hebben vaak een voorliefde voor dansen in hun vrije tijd, en de meer uitgaande van de groep wagen zelfs de poging een onwetende Fluork of Kandelara op spectaculaire wijze te grazen te nemen! Helaas vindt één van hun hand-bekken vaak een manier om naar hun danspartner te happen. Dit geeft voldoende uitleg waarom Klakula’s zulke stunts geen tweede keer wagen.
+
+bio_monsterYoung_osstax=Het is bekend dat een Ostapaal zijn leven begint als een paar individuen die zich later in het leven samenvoegen. Normaal duurt dit vele, vele jaren, aangezien ze in de perfecte volgorde bij elkaar moeten passen om een volledige Ostapaal te worden, maar voor de enkele individuen die hun perfecte gelijke vroeg vinden, krijg je een tafereel zoals dit! Ondanks dat Ostapaal kiezeltjes over het algemeen gevestiged, zijn smeden ze snode plannen voor allerlei problemen. Dit doen ze makkelijk samen en met de daaropvolgende dubbele hersen kracht worden ze dubbel zo onvoorspelbaar. Zoals het gezegde gaat, twee hoofden zijn altijd beter dan één!
+
+bio_monsterYoung_brump=Degenen die vertrouwd zijn met monstrologie zijn goed op de hoogte van de Brump zijn... unieke fysieke kenmerken. Door een eenzame Wubbox van klei gemaakt, zou niemand verwachten dat er een jeugdige vorm—zoals te zien in de Zwevende Stad—bestaat, Maar deze kleine Brump bewijst niet alleen het tegendeel, maar laat ook zien dat zelfs de slijmerigste Wublin schattig kan zijn! Nog niet gewend aan hun kwikkerige voeten, proberen Brump jonkies toch hun tijd kuierend door te brengen in de Zwevende Stad. Elke vooruitdenkende monsterbehandelaar zal ze zeker ver weg houden van de kliffen, om een monster reddingsmissie in de lucht te vermijden!
+
+bio_monsterYoung_yool=Niemand is beter in de feeststemming dan de Jool! Terwijl een volwassen Jool zijn trekkende aard gebruikt om pauze te nemen buiten het hoogseizon, behandelen Jool kalveren de hele dag door elke dag alsof het de 12 dagen van Yay is. De gangen worden bekleed en overal worden cadeaus geplaatst. Hun enthousiasme, gecombineerd met breekbare rekwisieten, zorgt er echter voor dat hun verassingen vaak niet volgens plan gaan. Dit resulteert dan in geschrokken monsters en gebroken ornamenten. Gelukkig geven de bellen op hun gewei hun locatie weg, het is moeilijk in te denken welke soort problemen ze zouden krijgen zonder deze!
+
+bio_monsterYoung_jeeode=Terwijl de volwassen Juwedel bekend is om zijn vaardigheden met het oplossen van conlicten, staan de baby’s niet bepaald bekend om hun vooruitziendheid. Juwedel kindjes zijn onvolwassen, en streven naar een hogere standaard dan wat van ze verwacht word op deze jonge leeftijd, wat vaak leidt tot vele misverstanden en valse oordelen. Hoewel deze zoektocht uiteindelijk hun onberispelijke onpartijdigheid zou aanscherpen, probeert elke goede vriend ze te kalmeren voordat ze te diep in hun eigen hoofd kruipen. Tenslotte is communicatie een belangrijk onderdeel van elke relatie, dus glashelderheid wordt zeker gewaardeerd!
+
+-----decos
+name_deco_tlTotem=H.V-Totem
+bio_deco_tlTotem=H.V-Totem bio
+
+name_deco_heart_tree=Bloed Bloesem Boom
+bio_deco_heart_tree= Bloed Bloesem Boom bio
+
+-----Dialogue
+di_fur_1=Hallo! Welkom bij Mijn Zingende Monsters:Het Verloren Landschap!
+di_fur_2=Houd er rekening mee dat dit spel niet officieel is. En niets hier is canon voor het echte “Mijn Zingende Monsters” spel. Dank je wel.
+di_fur_3=Laten we beginnen met het verkrijgen van een monster!
+di_fur_4=Kan je dat horen? De Hersenpan tikt zijn hersenpan om een ongewoon geluid te creëren! Laten we eens kijken wie we nog meer kunnen krijgen.
+di_fur_5=Dit klinkt heerlijk! Misschien iets anders heerlijks? Laten we onze monsters wat te eten geven.
+di_fur_6=Telkens als je een monster voert, gaat zijn niveau omhoog. Monsters boven niveau 4 kunnen gekweekt worden.
+di_fur_7=Laten we nieuwe monsters kweken om aan het lied toe te voegen.
+di_fur_8=Gebruik diamanten om het kweekproces te versnellen.
+di_fur_9=Goed gedaan!\nOeh, kijk! Een diamant! Ze kunnen overall verschijnen en je kan ze voor gebruik oppikken.
+di_fur_10=Niet slecht. Je krijgt het onder de knie. Blijf kweken en voor je monsters zorgen en vergeet niet de taken te controleren. Veel geluk!

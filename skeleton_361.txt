@@ -1,0 +1,136 @@
+{
+"skeleton": {
+	"hash": "/EWzAuOzN7WujMlPZu0OBGtsJ7M",
+	"spine": "3.8",
+	"x": -165.02,
+	"y": -74.56,
+	"width": 331,
+	"height": 563.47,
+	"images": "",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "Tulip", "parent": "root", "length": 172.65, "rotation": 88.58, "x": 1.55, "y": 3.91 },
+	{ "name": "Eye", "parent": "Tulip", "x": 289.33, "y": 51.15 },
+	{ "name": "Eye2", "parent": "Tulip", "x": 262.64, "y": 3.31 },
+	{ "name": "Eye3", "parent": "Tulip", "x": 308.17, "y": -59.9 }
+],
+"slots": [
+	{ "name": "Juggle tulip_back", "bone": "Tulip", "attachment": "Juggle tulip_back" },
+	{ "name": "Juggle tulip_eye", "bone": "Eye", "attachment": "Juggle tulip_eye" },
+	{ "name": "Juggle tulip_eye2", "bone": "Eye2", "attachment": "Juggle tulip_eye" },
+	{ "name": "Juggle tulip_eye3", "bone": "Eye3", "attachment": "Juggle tulip_eye" },
+	{ "name": "Juggle tulip_front", "bone": "Tulip", "attachment": "Juggle tulip_front" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Juggle tulip_front": {
+				"Juggle tulip_front": { "x": 186.44, "y": 5.7, "rotation": -88.58, "width": 331, "height": 530 }
+			},
+			"Juggle tulip_eye": {
+				"Juggle tulip_eye": { "x": 0.08, "y": -3.22, "rotation": -88.58, "width": 79, "height": 77 }
+			},
+			"Juggle tulip_eye2": {
+				"Juggle tulip_eye": { "x": 0.08, "y": -3.22, "rotation": -88.58, "width": 79, "height": 77 }
+			},
+			"Juggle tulip_eye3": {
+				"Juggle tulip_eye": { "x": 0.08, "y": -3.22, "rotation": -88.58, "width": 79, "height": 77 }
+			},
+			"Juggle tulip_back": {
+				"Juggle tulip_back": { "x": 394.48, "y": 5.51, "rotation": -88.58, "width": 224, "height": 181 }
+			}
+		}
+	}
+],
+"animations": {
+	"Jugle shroom": {
+		"slots": {
+			"Juggle tulip_back": {
+				"attachment": [
+					{ "name": "Juggle tulip_back" }
+				]
+			},
+			"Juggle tulip_eye2": {
+				"attachment": [
+					{ "name": "Juggle tulip_eye" }
+				]
+			},
+			"Juggle tulip_eye3": {
+				"attachment": [
+					{ "name": "Juggle tulip_eye" }
+				]
+			},
+			"Juggle tulip_front": {
+				"attachment": [
+					{ "name": "Juggle tulip_front" }
+				]
+			},
+			"Juggle tulip_eye": {
+				"attachment": [
+					{ "name": "Juggle tulip_eye" }
+				]
+			}
+		},
+		"bones": {
+			"Eye3": {
+				"rotate": [
+					{ "angle": -67.95, "curve": 0.382, "c2": 0.56, "c3": 0.739 },
+					{ "time": 0.1333, "angle": -100.16, "curve": 0.326, "c2": 0.31, "c3": 0.664, "c4": 0.66 },
+					{ "time": 0.3, "angle": 177.11, "curve": 0.343, "c2": 0.36, "c3": 0.683, "c4": 0.72 },
+					{ "time": 0.5, "angle": 81.84, "curve": 0.38, "c2": 0.6, "c3": 0.726 },
+					{ "time": 0.7667, "curve": 0.244, "c3": 0.643, "c4": 0.58 },
+					{ "time": 1, "angle": -67.95 }
+				],
+				"translate": [
+					{ "x": 205.65, "y": -4.97, "curve": 0.363, "c2": 0.44, "c3": 0.755 },
+					{ "time": 0.3, "x": 0.39, "y": -15.73 },
+					{ "time": 0.8, "x": 325.09, "y": 1.28, "curve": 0.258, "c3": 0.619, "c4": 0.45 },
+					{ "time": 1, "x": 205.65, "y": -4.97 }
+				]
+			},
+			"Eye2": {
+				"rotate": [
+					{ "angle": -114.88, "curve": 0.333, "c2": 0.33, "c3": 0.686, "c4": 0.73 },
+					{ "time": 0.3667, "angle": 81.84, "curve": 0.38, "c2": 0.6, "c3": 0.726 },
+					{ "time": 0.6333 },
+					{ "time": 0.9667, "angle": -100.16, "curve": 0.331, "c2": 0.33, "c3": 0.665, "c4": 0.66 },
+					{ "time": 1, "angle": -114.88 }
+				],
+				"translate": [
+					{ "x": 371.87, "y": 12.6, "curve": 0.38, "c2": 0.59, "c3": 0.727 },
+					{ "time": 0.1333, "x": 466.35, "y": 15.81, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6333, "curve": 0.242, "c3": 0.663, "c4": 0.65 },
+					{ "time": 1, "x": 371.87, "y": 12.6 }
+				]
+			},
+			"Eye": {
+				"rotate": [
+					{ "angle": -100.16, "curve": 0.33, "c2": 0.32, "c3": 0.686, "c4": 0.73 },
+					{ "time": 0.4, "angle": 81.84, "curve": 0.38, "c2": 0.6, "c3": 0.726 },
+					{ "time": 0.6667, "curve": 0.264, "c3": 0.618, "c4": 0.43 },
+					{ "time": 1, "angle": -96.53 }
+				],
+				"translate": [
+					{ "x": -0.35, "y": 14.15, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5, "x": 284.96, "y": 33.33, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "x": -0.35, "y": 14.15 }
+				]
+			},
+			"Tulip": {
+				"scale": [
+					{ "x": 0.989, "y": 1.011 },
+					{ "time": 0.3 },
+					{ "time": 0.3667, "x": 0.989, "y": 1.011 },
+					{ "time": 0.5333 },
+					{ "time": 0.6, "x": 0.989, "y": 1.011 },
+					{ "time": 0.9 },
+					{ "time": 1, "x": 0.989, "y": 1.011 }
+				]
+			}
+		}
+	}
+}
+}

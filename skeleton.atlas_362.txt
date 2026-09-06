@@ -1,0 +1,62 @@
+
+skeleton.png
+size: 416,472
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Baloon
+  rotate: false
+  xy: 2, 196
+  size: 228, 274
+  orig: 228, 275
+  offset: 0, 1
+  index: -1
+Face
+  rotate: false
+  xy: 2, 55
+  size: 185, 139
+  orig: 187, 139
+  offset: 1, 0
+  index: -1
+Layer 123
+  rotate: false
+  xy: 189, 23
+  size: 93, 64
+  orig: 93, 64
+  offset: 0, 0
+  index: -1
+Layer 126
+  rotate: false
+  xy: 284, 2
+  size: 79, 74
+  orig: 79, 75
+  offset: 0, 1
+  index: -1
+Rock
+  rotate: false
+  xy: 287, 78
+  size: 81, 78
+  orig: 82, 79
+  offset: 0, 0
+  index: -1
+Rock2
+  rotate: false
+  xy: 189, 89
+  size: 96, 67
+  orig: 96, 68
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 232, 158
+  size: 312, 168
+  orig: 314, 171
+  offset: 1, 1
+  index: -1
+String
+  rotate: false
+  xy: 402, 5
+  size: 12, 465
+  orig: 12, 465
+  offset: 0, 0
+  index: -1

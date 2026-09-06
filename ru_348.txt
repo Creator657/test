@@ -1,0 +1,181 @@
+btn_play=Играть
+btn_exit=Выход
+btn_move=Двигать
+btn_feed=Кормить
+btn_flip=Отразить
+btn_place=Поставить
+btn_cancel=Отмена
+btn_zapper_eggs_list=Инвентарь
+btn_buy_more=Купить больше
+btn_info=Инфо
+btn_map=Карта
+btn_settings=Настройки
+btn_feedback=Обратная связь
+btn_mute=Выключить
+btn_sell=Продать
+btn_zap_into_zapper=Засунуть
+btn_store=Магазин
+btn_store_monsters=Монстры
+btn_store_decos=Украшения
+btn_store_strucs=Здания
+btn_breed_start=Вывести
+btn_breed=Выводить
+btn_send=Отправить
+btn_save_island_data=Сохранить
+btn_load_island_data=Загрузить
+btn_clear_island_data=Очистить
+btn_promotion_visit=Посетить
+btn_copy_user_id=Копировать UserID
+btn_reset_currency=Reset currency
+
+str_characters_limit=Не более 3000 букв
+str_feedback=Отзыв и отчет об ошибке
+str_feedback_hint_text=Введите текст ...
+str_not_enough_currency=У вас недостаточно <item>! \nИграйте в игру и соберите больше <item>, чтобы завершить транзакцию.
+str_item_diamonds=Алмазы
+str_item_coins=Монеты
+str_item_food=Еда
+str_monster_level=ур:<level>
+str_monster_level_max=Макс.
+str_island_list=Выберите остров
+str_loading_asset_bundles=Загрузка пакетов ресурсов
+str_loading_names=Загрузка имён
+str_loading=Загрузка
+str_user_id_pre=Ваш UserID:
+str_banned_title=Вас забанили!
+str_banned=Это могло произойти из-за ненадлежащего поведения или взлома игры. Если вы считаете, что это ошибка, свяжитесь с нами.
+str_offline=Вы не в сети. \nПодключитесь к Интернету и снова откройте игру.
+str_loading_languages=Loading languages
+str_loading_languages2=Loading language packs
+
+-----monsters
+name_monster_potbelly_adult=Брюшок
+bio_monster_potbelly_adult=Potbelly bio
+
+name_monster_tweedle_adult=Легптица
+bio_monster_tweedle_adult=Tweedle bio
+
+name_monster_toejammer_adult=Палезатор
+bio_monster_toejammer_adult=Toe jammer bio
+
+name_monster_flootfly_adult=Мухофлейт
+bio_monster_flootfly_adult=Flootfly bio
+
+name_monster_dandidoo_adult=Дендиптица
+bio_monster_dandidoo_adult=Dandidoo bio
+
+name_monster_quibble_adult=Клавмный
+bio_monster_quibble_adult=Quibble bio
+
+name_monster_kikimora_adult=Варда
+vargan+prow+crow
+bio_monster_kikimora_adult=Varow bio
+
+name_monster_spunge_adult=Гупка
+bio_monster_spunge_adult=Spunge bio
+
+name_monster_frondley_adult=Пальмуг
+bio_monster_frondley_adult=Frondley bio
+
+name_monster_yaga_adult=Ступа
+bio_monster_yaga_adult=Stoopa bio
+
+name_monster_maulch_adult=Мульча
+bio_monster_maulch_adult=Maulch bio
+
+name_monsterYoung_flootfly=Мухофлейт
+bio_monsterYoung_flootfly=Young Flootfly bio
+
+name_monsterYoung_theremind=Терменум
+bio_monsterYoung_theremind=Young Theremind bio
+
+name_monsterYoung_fluoress=Флуоресс
+bio_monsterYoung_fluoress=Young Fluoress bio
+
+name_monsterYoung_clackula=Цокула
+bio_monsterYoung_clackula=Young Clackula bio
+
+name_monsterYoung_osstax=Столпкости
+bio_monsterYoung_osstax=Young Osstax bio
+
+name_monsterYoung_brump=Брамп
+bio_monsterYoung_brump=Young Brump bio
+
+name_monsterYoung_oaktopus=Осьмидуб
+bio_monsterYoung_oaktopus=Young Oaktopus bio
+
+name_monsterYoung_yool=Йолле
+bio_monsterYoung_yool=Young Yool bio
+
+name_monsterYoung_jeeode=Геода
+bio_monsterYoung_jeeode=Young Jeeode bio
+
+name_monsterYoung_stogg=Стегобака
+bio_monsterYoung_stogg=Young Stogg bio
+
+name_monsterYoung_schmoochle=Поцелщики
+bio_monsterYoung_schmoochle=Young Schmoochle bio
+
+-----decos
+name_deco_jar=Запасные части
+bio_deco_jar=Spare parts bio
+
+name_deco_jugler=Тюльпан Жонглер
+bio_deco_jugler=Juggle tulip bio
+
+name_deco_bucket=Ведро рогоза
+bio_deco_bucket=Bucket-o-cattail bio
+
+name_deco_upside-tree=Дерево Опроягод
+bio_deco_upside-tree=Capsize berry tree bio
+
+name_monster_dancer=Танцор
+bio_monster_dancer=The dancer is surrounded by some strange things. The strangest and, perhaps, the creepiest thing is......how.... are you reading this?\nThis should not be available to a common player.....
+
+name_monster_cursed_adult=Штука...
+bio_monster_cursed_adult=Ничесе! Ты как это читаешь? Если ты не тестер этой игры, то я понятия не имею, как у тебя эта ... штука появилась на острове. Ну что ж! \nЭто просто тестовая штукенция, которую я создал для проверки. Но кажись сделаю из него декорацию. Воде столба какого-то
+
+name_deco_baloony=Шаричек
+bio_deco_baloony=Иногда его называют "другозаменителем". Одинокие монстры приходят к Шарчику в любое время суток и делятся с ним своими весёлыми и грустными историями. Раньше наш резиновый «дружок» свободно летал по миру монстров, но однажды застрял меж двух камней и теперь он безмятежно качается из стороны в сторону. Кто создал Шарчика, уже никто и не знает, но мы помним что создатель похож на белый шар с ножками.
+
+name_deco_tlTotem=П-Тотем
+bio_deco_tlTotem=T.L-Totem bio
+
+-----structures
+name_struc_breeding=Питомник
+bio_struc_breeding=Breeding structure bio
+
+-----islands
+name_island_swamp=Вечнозеленое болото
+bio_island_swamp=Evergreen Marsh bio
+
+name_island_city=Летучий город
+bio_island_city=Floating City bio
+
+name_island_seasonal_group=Сезонный конгломерат
+bio_island_seasonal_group=Seasonal conglomerate bio
+
+name_island_lullaby=Безмятежная колыбель
+bio_island_lullaby=Serene Cradle
+
+name_island_organ=Земля органов
+bio_island_organ=Terra of Organs bio
+
+name_island_walrus=Моржовые пещеры
+bio_island_walrus=Walrus Caves bio
+
+name_island_farm=Ферма на плаву
+bio_island_farm=Suspended farm bio
+
+name_island_unknown=???
+bio_island_unknown=Вы еще не открыли этот остров. Возможно он будет доступен позже.
+
+-----tasks
+task_breed_monster=Выведите и разместите <entity>.
+task_buy_monster=Купите и разместите <entity>.
+task_go_to_level=Достигните <level> уровня.
+task_unlock_island=Откройте <island>.
+task_feed_monster=Накормите монстра до уровня <level>.
+task_collect_money=Сэкономьте до <amount> монет.
+task_clear_obstacles=Очистите <amount> <obstacle>.
+

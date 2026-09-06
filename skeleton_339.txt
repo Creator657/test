@@ -1,0 +1,172 @@
+{
+"skeleton": {
+	"hash": "fsHxN+W478B1zKgjfusBfzH4nkM",
+	"spine": "3.8",
+	"x": -553.5,
+	"y": -203.89,
+	"width": 1081.98,
+	"height": 1653.61,
+	"images": "",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "Stalk", "parent": "root", "length": 335.75, "rotation": 97.19, "x": 6.85, "y": -9.79 },
+	{ "name": "Body", "parent": "Stalk", "length": 566.18, "rotation": -14.8, "x": 351.01, "y": 1.1 },
+	{
+		"name": "Arms",
+		"parent": "Body",
+		"length": 603.27,
+		"rotation": -81.53,
+		"x": 227.12,
+		"y": -47.23,
+		"transform": "noScale"
+	},
+	{
+		"name": "Veins",
+		"parent": "Body",
+		"length": 282.59,
+		"rotation": -4.74,
+		"x": 639.58,
+		"y": 262.64,
+		"transform": "noScale"
+	},
+	{
+		"name": "Veins2",
+		"parent": "Body",
+		"length": 294.87,
+		"rotation": -32.32,
+		"x": 623.1,
+		"y": -73.5,
+		"transform": "noScale"
+	},
+	{
+		"name": "Veins3",
+		"parent": "Body",
+		"length": 141.33,
+		"rotation": 79.18,
+		"x": 541.45,
+		"y": 398.32,
+		"transform": "noScale"
+	}
+],
+"slots": [
+	{ "name": "Layer15", "bone": "root", "attachment": "Layer15" },
+	{ "name": "Layer10", "bone": "Veins3", "attachment": "Layer10" },
+	{ "name": "Layer11", "bone": "Body", "attachment": "Layer11" },
+	{ "name": "Layer13", "bone": "Stalk", "attachment": "Layer13" },
+	{ "name": "Layer9", "bone": "Body", "attachment": "Layer9" },
+	{ "name": "Layer8", "bone": "Arms", "attachment": "Layer8" },
+	{ "name": "Layer7", "bone": "Veins2", "attachment": "Layer7" },
+	{ "name": "Layer6", "bone": "Veins", "attachment": "Layer6" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Layer10": {
+				"Layer10": { "x": 80.05, "y": 1.05, "rotation": -161.56, "width": 232, "height": 169 }
+			},
+			"Layer11": {
+				"Layer11": { "x": -11.9, "y": -7.46, "rotation": -82.39, "width": 370, "height": 134 }
+			},
+			"Layer13": {
+				"Layer13": { "x": 123.22, "y": -7.2, "rotation": -97.19, "width": 522, "height": 549 }
+			},
+			"Layer15": {
+				"Layer15": { "color": "000000ff", "x": -13.5, "y": -8.89, "width": 984, "height": 390 }
+			},
+			"Layer6": {
+				"Layer6": { "x": 173.41, "y": -17.48, "rotation": -77.64, "width": 342, "height": 554 }
+			},
+			"Layer7": {
+				"Layer7": { "x": 142.3, "y": 3.44, "rotation": -50.06, "width": 616, "height": 457 }
+			},
+			"Layer8": {
+				"Layer8": { "x": -48.78, "y": 32.66, "rotation": -0.86, "width": 1078, "height": 460 }
+			},
+			"Layer9": {
+				"Layer9": { "x": 369.34, "y": 47.25, "rotation": -82.39, "width": 913, "height": 864 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"bones": {
+			"Stalk": {
+				"rotate": [
+					{ "angle": 1.35, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.6667, "angle": -2.97, "curve": 0.25, "c3": 0.75 },
+					{ "time": 3.3333, "angle": 1.35 }
+				]
+			},
+			"Body": {
+				"rotate": [
+					{ "angle": 1.71, "curve": 0.375, "c2": 0.62, "c3": 0.716 },
+					{ "time": 0.3333, "angle": 2.33, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2, "angle": -2.4, "curve": 0.243, "c3": 0.68, "c4": 0.71 },
+					{ "time": 3.3333, "angle": 1.71 }
+				],
+				"scale": [
+					{ "x": 0.995, "y": 1.002, "curve": 0.377, "c2": 0.61, "c3": 0.719 },
+					{ "time": 0.3667, "curve": 0.25, "c3": 0.75 },
+					{
+						"time": 0.6667,
+						"x": 0.982,
+						"y": 1.007,
+						"curve": 0.334,
+						"c2": 0.34,
+						"c3": 0.668,
+						"c4": 0.67
+					},
+					{
+						"time": 0.7667,
+						"x": 1.034,
+						"y": 1.063,
+						"curve": 0.343,
+						"c2": 0.37,
+						"c3": 0.68,
+						"c4": 0.71
+					},
+					{ "time": 1.0333, "x": 0.973, "y": 1.01, "curve": 0.38, "c2": 0.6, "c3": 0.726 },
+					{ "time": 2.0333, "x": 0.967, "y": 1.012, "curve": 0.243, "c3": 0.674, "c4": 0.69 },
+					{ "time": 3.3333, "x": 0.995, "y": 1.002 }
+				]
+			},
+			"Arms": {
+				"rotate": [
+					{ "angle": -0.13, "curve": 0.366, "c2": 0.63, "c3": 0.703 },
+					{ "time": 0.2333, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.9, "angle": -1.88, "curve": 0.244, "c3": 0.7, "c4": 0.79 },
+					{ "time": 3.3333, "angle": -0.13 }
+				]
+			},
+			"Veins2": {
+				"rotate": [
+					{ "angle": 3.16, "curve": 0.382, "c2": 0.58, "c3": 0.731 },
+					{ "time": 0.5, "angle": 5.02 },
+					{ "time": 2.1667, "angle": -2.66, "curve": 0.243, "c3": 0.655, "c4": 0.63 },
+					{ "time": 3.3333, "angle": 3.16 }
+				]
+			},
+			"Veins": {
+				"rotate": [
+					{ "angle": 3.16, "curve": 0.382, "c2": 0.58, "c3": 0.731 },
+					{ "time": 0.5, "angle": 5.02, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.1667, "angle": -2.66, "curve": 0.243, "c3": 0.655, "c4": 0.63 },
+					{ "time": 3.3333, "angle": 3.16 }
+				]
+			},
+			"Veins3": {
+				"rotate": [
+					{ "angle": 3.16, "curve": 0.382, "c2": 0.58, "c3": 0.731 },
+					{ "time": 0.5, "angle": 5.02 },
+					{ "time": 2.1667, "angle": -2.66, "curve": 0.243, "c3": 0.655, "c4": 0.63 },
+					{ "time": 3.3333, "angle": 3.16 }
+				]
+			}
+		}
+	}
+}
+}

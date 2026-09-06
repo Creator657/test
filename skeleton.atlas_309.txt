@@ -1,0 +1,89 @@
+
+skeleton.png
+size: 716,1744
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bucked-o-cattail
+  rotate: false
+  xy: 2, 25
+  size: 379, 688
+  orig: 379, 690
+  offset: 0, 1
+  index: -1
+Capsize berry tree
+  rotate: false
+  xy: 2, 715
+  size: 546, 1027
+  orig: 547, 1029
+  offset: 1, 2
+  index: -1
+Juggle tulip_back
+  rotate: false
+  xy: 383, 2
+  size: 224, 181
+  orig: 224, 181
+  offset: 0, 0
+  index: -1
+Juggle tulip_eye
+  rotate: false
+  xy: 609, 106
+  size: 79, 77
+  orig: 79, 77
+  offset: 0, 0
+  index: -1
+Juggle tulip_front
+  rotate: false
+  xy: 383, 185
+  size: 331, 528
+  orig: 331, 530
+  offset: 0, 2
+  index: -1
+
+skeleton2.png
+size: 228,415
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Organ jar/Group 1
+  rotate: true
+  xy: 78, 8
+  size: 67, 73
+  orig: 68, 74
+  offset: 1, 0
+  index: -1
+Organ jar/Group 3
+  rotate: false
+  xy: 2, 160
+  size: 175, 253
+  orig: 175, 253
+  offset: 0, 0
+  index: -1
+Organ jar/Layer 47
+  rotate: false
+  xy: 153, 2
+  size: 52, 73
+  orig: 53, 74
+  offset: 1, 0
+  index: -1
+Organ jar/Layer 49
+  rotate: true
+  xy: 179, 160
+  size: 48, 47
+  orig: 48, 48
+  offset: 0, 1
+  index: -1
+Organ jar/Layer 50
+  rotate: false
+  xy: 2, 3
+  size: 74, 72
+  orig: 75, 72
+  offset: 1, 0
+  index: -1
+Organ jar/Layer 56
+  rotate: false
+  xy: 2, 77
+  size: 186, 81
+  orig: 193, 87
+  offset: 3, 3
+  index: -1

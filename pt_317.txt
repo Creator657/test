@@ -1,0 +1,220 @@
+btn_play=Jogar
+btn_exit=Sair
+btn_move=Mover
+btn_feed=Alimentar
+btn_flip=Virar
+btn_place=Colocar
+btn_cancel=Cancelar
+btn_zapper_eggs_list=Inventário
+btn_buy_more=Comprar outro
+btn_info=Info
+btn_map=Mapa
+btn_settings=Configurações
+btn_feedback=Feedback
+btn_mute=Silenciar
+btn_sell=Vender
+btn_zap_into_zapper=Energizar
+btn_store=Mercado
+btn_store_monsters=Monstros
+btn_store_decos=Decorações
+btn_store_strucs=Estruturas
+btn_breed_start=Procrie
+btn_breed=Procriar
+btn_send=Enviar
+btn_save_island_data=Salvar
+btn_load_island_data=Carregar
+btn_clear_island_data=Limpar
+btn_promotion_visit=Visite
+btn_copy_user_id=Copiar ID de usuário
+btn_reset_currency=Reset currency
+
+str_characters_limit=Limite de 3000 caracteres
+str_feedback=Dê feedback e report bugs 
+str_feedback_hint_text=Inserir texto....
+str_not_enough_currency=Você não tem <item> o sufiente!\nJogue o jogo e colete mais <item> para finalizar a compra.
+str_item_diamonds=Diamantes
+str_item_coins=Moedas
+str_item_food=Comida
+str_monster_level=nvl:<level>
+str_monster_level_max=Max
+str_island_list=Escolha uma ilha
+str_loading_asset_bundles=Carregando pacotes de assets
+str_loading_names=Buscando nomes
+str_loading=Carregando
+str_user_id_pre=Seu ID de usuário
+str_banned_title=Você foi banido!
+str_banned=Isso pode ter acontecido por causa de comportamento inadequeado ou uso de trapaças. Se você acha que isso foi um erro, nos contate.
+str_loading_languages=Loading languages
+str_loading_languages2=Loading language packs
+
+-----monsters
+name_monster_potbelly_adult=Planta-Pança
+bio_monster_potbelly_adult=Potbelly bio
+
+name_monster_tweedle_adult=Pintinho Piu
+bio_monster_tweedle_adult=Tweedle bio
+
+name_monster_toejammer_adult=Dedo Enrroscado
+bio_monster_toejammer_adult=Toe jammer bio
+
+name_monster_flootfly_adult=Mosca-da-Flauta
+bio_monster_flootfly_adult=Flootfly bio
+
+name_monster_dandidoo_adult=Dandidão
+bio_monster_dandidoo_adult=Dandidoo bio
+
+name_monster_quibble_adult=Picuinha
+bio_monster_quibble_adult=Quibble bio
+
+name_monster_kikimora_adult=Berimvoa
+vargan+prow+crow
+bio_monster_kikimora_adult=Varow bio
+
+name_monster_spunge_adult=Esponjo
+bio_monster_spunge_adult=Spunge bio
+
+name_monster_frondley_adult=Folhamavel
+bio_monster_frondley_adult=Frondley bio
+
+name_monster_yaga_adult=Estoopa
+bio_monster_yaga_adult=Stoopa bio
+
+name_monster_maulch_adult=Composto
+bio_monster_maulch_adult=Maulch bio
+
+name_monsterYoung_flootfly=Mosca-da-Flauta
+bio_monsterYoung_flootfly=Young Flootfly bio
+
+name_monsterYoung_theremind=Teremente
+bio_monsterYoung_theremind=Young Theremind bio
+
+name_monsterYoung_fluoress=Fluoresca
+bio_monsterYoung_fluoress=Young Fluoress bio
+
+name_monsterYoung_clackula=Estrácula
+
+name_monsterYoung_osstax=`Pilhossos
+
+name_monsterYoung_brump=Sapovudo
+
+name_monsterYoung_oaktopus=Carvalho-Polvo
+bio_monsterYoung_oaktopus=Young Oaktopus bio
+
+name_monsterYoung_yool=Papai Yule
+
+name_monsterYoung_jeeode=Jeode
+
+
+name_monsterYoung_stogg=Estegão
+bio_monsterYoung_stogg=Young Stogg bio
+
+name_monsterYoung_schmoochle=Beijo-Bicota
+bio_monsterYoung_schmoochle=Young Schmoochle bio
+
+-----decos
+name_deco_jar=Partes reserva
+bio_deco_jar=Spare parts bio
+
+name_deco_jugler=Tulipa malabarista
+bio_deco_jugler=Juggle tulip bio
+
+name_deco_bucket=O balde de taboas
+bio_deco_bucket=Bucket-o-cattail bio
+
+name_deco_upside-tree=Árvore de baga emborcada
+bio_deco_upside-tree=Capsize berry tree bio
+
+name_monster_dancer=O dançarino
+bio_monster_dancer=O dançarino está rodeada de coisas estranhas. A coisa mais estranha e, talvez, a parte mais assustadora é... como.... você está lendo isso? \nIsso não deveria estar disponível para um jogador comum....
+name_monster_cursed_adult=A coisa...
+bio_monster_cursed_adult=Oh uau! Como você está lendi isso? Caso você não seja um testador desse jogo, eu não faço ideia de como você adquiriu.... essa coisa na sua ilha. Ah bem!/nEssa coisa é apenas algo que eu criei para testes. Mas acho que essa coisa será transformada em uma decoração. Talvez um tipo de poste.
+
+-----structures
+name_struc_breeding=Estrutura de procriação
+bio_struc_breeding=É daqui que os bebês vem... eu acho
+
+-----islands
+name_island_swamp=Pântano Perene
+bio_island_swamp=Evergreen Marsh bio
+
+name_island_city=Cidade Flutuante
+bio_island_city=Floating City bio
+
+name_island_seasonal_group=Englomerado Sazonal
+bio_island_seasonal_group=Seasonal conglomerate bio
+
+name_island_lullaby=Berço Sereno
+bio_island_lullaby=Serene Cradle
+
+name_island_organ=Terra dos Orgãos
+bio_island_organ=Terra of Organs bio
+
+name_island_walrus=Cavernas da Morsa
+bio_island_walrus=Walrus Caves bio
+
+name_island_farm=Fazenda Suspensa
+bio_island_farm=Suspended farm bio
+
+name_island_unknown=???
+bio_island_unknown=Você não descobriu essa ilha ainda. Ela provavelmente estará disponível no futuro.
+
+-----tasks
+task_breed_monster=Procrie e coloque um(a) <entity>.
+task_buy_monster=Compre e coloque um(a) <entity>.
+task_go_to_level=Chegue ao nivel <level>.
+task_unlock_island=Desbloqueie <island>.
+task_feed_monster=Alimente um monstro até o nível <level>.
+task_collect_money=Colete e guarde<amount> moedas.
+task_clear_obstacles=Remova <amount> <obstacle>s.
+
+-----popups
+btn_yes=Yes
+btn_no=No
+btn_ok=OK
+
+str_popup_send=Are you sure you want to send <monster_name> to <island>?
+str_popup_send_tickets=You don't have enough tickets to send <monster_name> on <island>.
+str_popup_send_level=<monster_name> has to reach level <required_level> to be sent on <island>.
+str_popup_not_enough_currency=You don't have enough <item>!\nPlay the game and collect more <item> to finish the transaction.
+str_popup_sell=Are you sure you want to sell <monster_name> for <amount> <item>?
+str_popup_limit=You can't have more than <entity_max> of this.
+
+str_airship=Euphonic Zeppelin
+str_airship_arrival=The zeppelin will arrive in\n<airship_time>
+str_airship_retrieval=The zeppelin will retrieve in\n<airship_time>
+
+str_item_tickets=Tickets
+
+str_offline=You are offline.\nReconnect to the internet and reopen the game.
+str_loading_error=There was a error loading the game data. Please check your internet connection and try again.\nError: <error>
+str_net_error=There was a error loading assets. The game must be reopened to try loading the assets again.\nError: <error>
+
+-----monstres
+bio_monsterYoung_clackula=Clackula children are unlike most young monsters, as they are just as asocial and timid as their adult counterparts. It takes a lot of conversation to get a clackula tot to open up. However, with enough patience and dedication, even the most closed-off clackula can be brought out of its shell! Baby clackula often have a penchant for dancing about in their spare time, and the more outgoing of the bunch will even attempt to sweep an unknowing fluoress or candelavra off their feet in the most spectacular of fashion! Though, more often than not, one of their rogue hand-mouths finds a way to snap at their dance partner, providing a suitable explanation as to why most clackula don’t attempt stunts like that a second time.
+
+bio_monsterYoung_osstax=It’s well-known that Osstax begin their lives as a few individuals who join together later in their life. This normally takes many, many years, as they need to fit together perfectly in order to become a full Osstax, but for the few individuals that find their perfect match early on, you get a scene like this one! Osstax Pebblets, despite being generally sedentary, are able to come up with all sorts of plans for all sorts of trouble. They’re easily able to plot with the other members of their stak, and use this extra doubled brainpower to be doubly unpredictable. You know what they say, two heads are always better than one!
+
+bio_monsterYoung_brump=Those versed in monstrology are well aware of the Brump's... unique physical characteristics. Being made of clay by a lonely wubbox, one wouldn't expect there to be a juvenile form as seen on Floating City, but this little Brumplet not only proves otherwise, it shows that even the slimiest of wublins can be turned cute! Not yet used to their fwoggy feet, Brumplets nonetheless attempt to spend their time ambling about the floating city. Any forward-thinking monster handler will be sure to keep them far away from any cliffs, as to avoid any sort of airborne monster rescue mission!
+
+bio_monsterYoung_yool=No-one’s better at festive spirit than the Yool! While a mature Yool uses its migratory nature to take a break during the off-season, Yool calves will treat all day every day as if it’s the 12 days of yay, decking the halls and placing presents everywhere it goes. Though, their enthusiasm combined with delicate props means that their yaytide surprises dont often go to plan, leading to startled monsters and broken ornaments. Thank goodness the bells on their antlers give away their location, it’s hard to imagine the types of trouble they’d get into without!
+
+bio_monsterYoung_jeeode=While the adult Jeeode is renowned for its conflict resolution skills, babies aren’t usually known for their foresight. Jeeode tufflings are immature, and often hold themself to a higher standard they can’t be expected to achieve at such a young age, often leading to a lot of misunderstandings and false judgements. While this pursuit is what would eventually hone their impeccable impartiality, any good friend will try and calm them down before they get too deep in their own head. After all, communication is an important part of any relationship, so being crystal clear is especially appreciated!
+
+-----decos
+name_deco_tlTotem=T.L-Totem
+bio_deco_tlTotem=T.L-Totem bio
+
+name_deco_heart_tree=Blood blossom tree
+bio_deco_heart_tree=Blood blossom tree bio
+
+-----Dialogue
+di_fur_1=Hello! Welcome to My Singing Monsters: The Lost Landscapes!
+di_fur_2=Please note that this game is not official. And that nothing here is canon to the actual "My Singing Monsters" game. Thank you.
+di_fur_3=Let's begin with getting a monster!
+di_fur_4=Can you hear that? The noggin is tapping its noggin to create an unusual sound! Let's see whom else we can get.
+di_fur_5=This is groovy! How about a snack? Let's feed our monsters some food.
+di_fur_6=Every time you feed your monster, its level goes up. Monsters above level 4 can be bred.
+di_fur_7=Let's try breeding new monsters to add to the song.
+di_fur_8=Use diamonds to speed up the breeding process.
+di_fur_9=Well done!\nOoh, look! A Diamond! They can appear anywhere and be picked up for your use.
+di_fur_10=Not bad. You are getting the hang of it. Keep breeding and caring for your monsters and don't forget to check the tasks. Good luck!

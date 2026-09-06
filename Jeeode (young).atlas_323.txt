@@ -1,0 +1,167 @@
+
+Jeeode (young).png
+size: 1879,341
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Body
+  rotate: true
+  xy: 1733, 5
+  size: 119, 129
+  orig: 119, 129
+  offset: 0, 0
+  index: -1
+images/Crystal1
+  rotate: false
+  xy: 2, 44
+  size: 228, 295
+  orig: 228, 295
+  offset: 0, 0
+  index: -1
+images/Crystal2
+  rotate: false
+  xy: 1023, 77
+  size: 163, 224
+  orig: 163, 224
+  offset: 0, 0
+  index: -1
+images/Crystal3
+  rotate: false
+  xy: 1508, 126
+  size: 151, 213
+  orig: 151, 213
+  offset: 0, 0
+  index: -1
+images/Crystal4
+  rotate: true
+  xy: 808, 86
+  size: 215, 213
+  orig: 215, 213
+  offset: 0, 0
+  index: -1
+images/Finger2
+  rotate: false
+  xy: 864, 27
+  size: 66, 57
+  orig: 66, 57
+  offset: 0, 0
+  index: -1
+images/Group 48
+  rotate: false
+  xy: 1343, 17
+  size: 193, 107
+  orig: 193, 107
+  offset: 0, 0
+  index: -1
+images/Group 49
+  rotate: false
+  xy: 1538, 17
+  size: 193, 107
+  orig: 193, 107
+  offset: 0, 0
+  index: -1
+images/Group 50
+  rotate: true
+  xy: 1661, 126
+  size: 193, 107
+  orig: 193, 107
+  offset: 0, 0
+  index: -1
+images/Hand
+  rotate: true
+  xy: 697, 21
+  size: 63, 100
+  orig: 63, 100
+  offset: 0, 0
+  index: -1
+images/Head
+  rotate: true
+  xy: 232, 44
+  size: 271, 207
+  orig: 271, 207
+  offset: 0, 0
+  index: -1
+images/Headspike1
+  rotate: false
+  xy: 614, 86
+  size: 192, 253
+  orig: 192, 253
+  offset: 0, 0
+  index: -1
+images/Headspike2
+  rotate: false
+  xy: 1343, 132
+  size: 163, 207
+  orig: 163, 207
+  offset: 0, 0
+  index: -1
+images/Layer 205
+  rotate: false
+  xy: 79, 19
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+images/Layer 206
+  rotate: false
+  xy: 2, 13
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+images/Layer 207
+  rotate: false
+  xy: 41, 17
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+images/Layer 307
+  rotate: false
+  xy: 913, 6
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+images/Pupil
+  rotate: false
+  xy: 614, 4
+  size: 81, 80
+  orig: 81, 80
+  offset: 0, 0
+  index: -1
+images/Shadow
+  rotate: true
+  xy: 441, 25
+  size: 314, 171
+  orig: 314, 171
+  offset: 0, 0
+  index: -1
+images/arm lower
+  rotate: false
+  xy: 1188, 2
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+images/arm upper
+  rotate: false
+  xy: 798, 3
+  size: 64, 52
+  orig: 64, 52
+  offset: 0, 0
+  index: -1
+images/body2
+  rotate: false
+  xy: 1188, 106
+  size: 153, 233
+  orig: 153, 233
+  offset: 0, 0
+  index: -1
+images/outer copy 3
+  rotate: true
+  xy: 1770, 126
+  size: 193, 107
+  orig: 193, 107
+  offset: 0, 0
+  index: -1

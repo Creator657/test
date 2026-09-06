@@ -1,0 +1,703 @@
+<?xml version="1.0"?>
+<all>
+  <monsters>
+
+    <template>
+      <name></name>
+      <bio>
+        <organ>
+
+        </organ>
+        <cotton>
+
+        </cotton>
+        <farm>
+
+        </farm>
+      </bio>
+      <monster_author>b</monster_author>
+      <bio_author></bio_author>
+    </template>
+
+    <common>
+      <arg>
+        <name>Morgão</name>
+        <bio>
+          <organ>
+            Extroardinário não? Habitando apenas a mais original das casas está o generoso Morgão, o primeiro dos Monstros Orgânicos. Com seu órgão tocando a largura da mão e seu charme sorridente, este monstro tem um status muito alto entre os monstros - um encontro com um Morgão é sempre lembrado com carinho.
+          </organ>
+        </bio>
+        <monster_author>me</monster_author>
+        <bio_author>
+          <organ>azuran</organ>
+        </bio_author>
+      </arg>
+
+      <k>
+        <name>Cerebrother</name>
+        <bio>
+          <organ>
+          </organ>
+        </bio>
+        <monster_author>b</monster_author>
+        <bio_author>
+          <organ></organ>
+        </bio_author>
+      </k>
+
+      <wool>
+        <name>Lãovelha</name>
+        <bio>
+          <organ>
+
+          </organ>
+          <cotton>
+            O tão amado Lãovelha naturalmente encontrou este paraíso nublado durante uma busca por uma nova canção para se juntar a ela. Parece contente em ficar aqui enquanto seus pássaros tocam suavemente uma nova melodia, mas não consegue afastar a sensação de que algo está errado neste suspeito conto de fadas.
+          </cotton>
+          <farm>
+
+          </farm>
+        </bio>
+        <monster_author>b</monster_author>
+        <bio_author>
+          <cotton>azuran</cotton>
+        </bio_author>
+      </wool>
+
+      <hawlo>
+        <name>Oconco</name>
+        <bio>
+          <organ>
+
+          </organ>
+          <cotton>
+            De sua casa subterrânea nas cavernas escuras da Ilha dos Ossos, o curioso Oconco se viu em uma jornada por um novo mundo fora de seu habitat morto-vivo. Após um longo mês de exploração, Oconco deu de cara uma placa gigante, que o levava a um terreno de algodão semelhante a nuvens. Embora parecesse uma nova casa, Oconco não pôde evitar aquela sensação de que algo estava errado.
+          </cotton>
+          <farm>
+
+          </farm>
+        </bio>
+        <monster_author>b</monster_author>
+        <bio_author>
+          <cotton>Goose</cotton>
+        </bio_author>
+      </hawlo>
+
+      <floot>
+        <name>Mosca-da-Flauta</name>
+        <bio>
+          <organ>
+
+          </organ>
+          <cotton>
+            O Mosca-da-Flauta partiu em uma aventura para encontrar outro paraíso depois da Ilha das Fadas. E olha só, aqui está ele no Paraíso de Algodão e está adorando cada pedacinho dele, embora ache muito estranha aquela placa na entrada.
+          </cotton>
+          <farm>
+
+          </farm>
+        </bio>
+        <monster_author>b</monster_author>
+        <bio_author>
+          <cotton>hax_man</cotton>
+        </bio_author>
+      </floot>
+
+      <geyser>
+        <name>Espirrador</name>
+        <bio>
+          <organ>
+
+          </organ>
+          <cotton>
+            O Espirrador, um monstro de coração Forte, seguiu seu amigo de lã até os portões deste novo "oásis celestial" e ficou tão satisfeito que decidiu ficar! Ele passa a maior parte do tempo vagando entre seus sonhos, sem ao menos notar os arredores estranhos desse lugar.
+          </cotton>
+          <farm>
+
+          </farm>
+        </bio>
+        <monster_author>b</monster_author>
+        <bio_author>
+          <cotton>azuran</cotton>
+        </bio_author>
+      </geyser>
+
+      <jaw>
+        <name>Maxilafone</name>
+        <bio>
+          <organ>
+            Os maxilafones são monstros muito confusos de se olhar, à primeira vista parecem ser um monstro dentro de uma dentadura gigante, mas não é exatamente isso, o parafuso na lateral da dentadura é apenas para mantê-la aberta, isso permite que o maxilafone toque sem nenhum problema.
+          </organ>
+          <cotton>
+
+          </cotton>
+          <farm>
+
+          </farm>
+        </bio>
+        <monster_author>delta</monster_author>
+        <bio_author>
+          <organ>delta</organ>
+        </bio_author>
+      </jaw>
+
+      <sooza>
+        <name>Suza</name>
+        <bio>
+          <organ>
+
+          </organ>
+          <cotton>
+            Curiosa, a majestosa Suza viajou para esta ilha para desvendar seu mistério de uma vez por todas. Mas o que ela encontrou a gelou até a base de seu grande chifre. As rochas espalhadas pela região pareciam ser monstros, congelados no tempo. Ela espera encontrar uma maneira de libertá-los algum dia.
+          </cotton>
+          <farm>
+
+          </farm>
+        </bio>
+        <monster_author>b</monster_author>
+        <bio_author>
+          <cotton>azuran</cotton>
+        </bio_author>
+      </sooza>
+
+      <saw>
+        <name>Sakurra</name>
+        <bio>
+          <organ>
+
+          </organ>
+          <cotton>
+
+          </cotton>
+          <farm>
+
+          </farm>
+        </bio>
+        <monster_author>b</monster_author>
+        <bio_author></bio_author>
+      </saw>
+
+      <bdnr>
+        <name>Viscolho</name>
+        <bio>
+          <organ>
+            Viscolho é considerado o mais misterioso e forte de todos os Elementais Psíquicos. Pois com sua capacidade de induzir monstros, muitos deles ficam com o cérebro coçando.
+          </organ>
+          <cotton>
+
+          </cotton>
+          <farm>
+
+          </farm>
+        </bio>
+        <monster_author>b</monster_author>
+        <bio_author>
+          <organ>Shaunluke Green</organ>
+        </bio_author>
+      </bdnr>
+
+      <b>
+        <name>Perlhepito</name>
+        <bio>
+          <organ>
+          </organ>
+          <cotton>
+
+          </cotton>
+          <farm>
+
+          </farm>
+        </bio>
+        <monster_author>me</monster_author>
+        <bio_author>
+          <organ>azuran</organ>
+        </bio_author>
+      </b>
+
+      <banjo>
+        <name>Banjíbula</name>
+        <bio>
+          <organ>
+
+          </organ>
+          <cotton>
+
+          </cotton>
+          <farm>
+
+          </farm>
+        </bio>
+        <monster_author>b</monster_author>
+        <bio_author></bio_author>
+      </banjo>
+
+      <fungi>
+        <name>Clangthru</name>
+        <bio>
+          <organ>
+
+          </organ>
+          <cotton>
+
+          </cotton>
+          <farm>
+          </farm>
+        </bio>
+        <monster_author>mb</monster_author>
+        <bio_author></bio_author>
+      </fungi>
+
+      <smooch>
+        <name>Beijo-Bicota</name>
+        <bio>
+          <organ>
+
+          </organ>
+          <cotton>
+
+          </cotton>
+          <farm>
+
+          </farm>
+        </bio>
+        <monster_author>b</monster_author>
+        <bio_author></bio_author>
+      </smooch>
+
+      <en>
+        <name>Bicanco</name>
+        <bio>
+          <organ>
+
+          </organ>
+          <cotton>
+
+          </cotton>
+          <farm>
+
+          </farm>
+        </bio>
+        <monster_author>b</monster_author>
+        <bio_author></bio_author>
+      </en>
+
+      <bce>
+        <name>Rei-Do-Vinhedo</name>
+        <bio>
+          <organ>
+
+          </organ>
+          <cotton>
+
+          </cotton>
+          <farm>
+
+          </farm>
+        </bio>
+        <monster_author>b</monster_author>
+        <bio_author></bio_author>
+      </bce>
+
+      <ac>
+        <name>Cibop</name>
+        <bio>
+          <organ>
+
+          </organ>
+          <cotton>
+
+          </cotton>
+          <farm>
+
+          </farm>
+        </bio>
+        <monster_author>b</monster_author>
+        <bio_author></bio_author>
+      </ac>
+
+      <abcd>
+        <name>Bate-Carapaça</name>
+        <bio>
+          <organ>
+
+          </organ>
+          <cotton>
+
+          </cotton>
+          <farm>
+
+          </farm>
+        </bio>
+        <monster_author>b</monster_author>
+        <bio_author></bio_author>
+      </abcd>
+
+      <nr>
+        <name>Iogabarista</name>
+        <bio>
+          <organ>
+
+          </organ>
+          <cotton>
+
+          </cotton>
+          <farm>
+
+          </farm>
+        </bio>
+        <monster_author>b</monster_author>
+        <bio_author></bio_author>
+      </nr>
+
+      <U12>
+        <name>Blipirralho</name>
+        <bio>
+          <organ>
+
+          </organ>
+          <cotton>
+
+          </cotton>
+          <farm>
+
+          </farm>
+        </bio>
+        <monster_author>b</monster_author>
+        <bio_author></bio_author>
+      </U12>
+
+
+
+    </common>
+    <rare>
+      <wool>
+        <name>Lãovelha Rara</name>
+        <bio>
+          <organ>
+
+          </organ>
+          <cotton>
+            Este raro único veio para o exclusivo Paraíso de Algodão assim que soube de seu nome! Embora esteja um pouco decepcionado, sua variante comum também reside aqui, os dois ainda compartilham esse vínculo maravilhoso e tocam em maior harmonia do que nunca.
+          </cotton>
+          <farm>
+
+          </farm>
+        </bio>
+        <monster_author>b</monster_author>
+        <bio_author>
+          <cotton>azuran</cotton>
+
+        </bio_author>
+      </wool>
+      <geyser>
+        <name>Espirrador Raro</name>
+        <bio>
+          <organ>
+
+          </organ>
+          <cotton>
+            kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk o Espirrador raro é
+          </cotton>
+          <farm>
+
+          </farm>
+        </bio>
+        <monster_author>b</monster_author>
+        <bio_author>
+          <cotton>mk</cotton>
+        </bio_author>
+      </geyser>
+      <ziggurab>
+        <name>Zigurabu Raro</name>
+        <bio>
+          <organ>
+            Embora o Zigurabu raro gostasse de sua terra natal, ele queria uma aventura mais emocionante. e amigos mais estranhos e malucos! Assim como outros, ele foi confundido com um alimento, como muitos tinham o mesmo pensamento, um dia ele caiu de cabeça para baixo, e foi comido, confundido com um bolo, hummm. Quando ele entrou na Terra dos Órgãos, ele, assim como seu amigo, estavam com receio e com um "nó´na garganta". Mas logo perceberam que estava tudo bem, Ele nunca entendeu por que seu amigo, o Zigurabu normal, deixaria aquele lugar, mas, infelizmente, aqui estava ele, muita aventura o esperava, ao contrário do Paraíso de Algodão, e aos poucos ele percebeu que estava onde queria estar.
+          </organ>
+          <cotton>
+            O Zigurabu Raro pode parecer um bolo, ou talvez uma esponja, mas, na verdade, ele é um bolo feito de esponja! É isso não é? Bem, com aqueles olhos fofos, suas batidas e seu amigo para ajudá-lo, ele entrou no Paraíso de Algodão sem problemas, embora ele esteja se divertindo muito com novos amigos, ele agora está procurando por mais aventura e ação e, claro, por coisas mais fofas quanto ele.
+          </cotton>
+          <farm>
+
+          </farm>
+        </bio>
+        <monster_author>b</monster_author>
+        <bio_author>
+          <cotton>Eevee Lover</cotton>
+          <organ>Eevee Lover</organ>
+        </bio_author>
+      </ziggurab>
+      <jaw>
+        <name>Maxilafone Raro</name>
+        <bio>
+          <organ>
+            Existem muitos tipos de mandíbulas, desde as mandíbulas "Condilares" até as mandíbulas "esqueléticas", um par deles é diferente do outro. Apesar de sua natureza pequena, o Maxilofone Raro pode enxergar no escuro em um raio de 24km. Isso torna mais fácil para eles verem os muitos cristais e minérios nas misteriosas cavernas da Ilha do Osso, fácil para eles procurarem os seres dentro da Terra dos Órgãos. Apesar de sua aparência não natural, a avó da família Maxilafone estava com as mandíbulas ligeiramente penduradas para fora da boca e, mais cedo ou mais tarde, saltou para fora. As outras histórias do Maxilafone Raro continuam a ser um mito, mas podemos ter certeza de que o Maxilafone Raro é realmente o mais exclusivo de sua espécie.
+          </organ>
+          <cotton>
+
+          </cotton>
+          <farm>
+
+          </farm>
+        </bio>
+        <monster_author>me</monster_author>
+        <bio_author>
+          <organ>Charles the Lizzarb</organ>
+        </bio_author>
+      </jaw>
+      <dv>
+        <name>Gemolares Raro</name>
+        <bio>
+          <organ>
+            Tendo uma dentição primitiva com presas enormes e uma pelagem selvagem, Gemolares raros parecem verdadeiramente intimidantes. Você poderia pensar que eles não têm modos à mesa, mas é exatamente o contrário! E depois de uma refeição, eles escovam muito bem seus lindos dentes, ajudando uns aos outros em locais de difícil acesso. Isso é que eu chamo de trabalho em equipe!
+          </organ>
+          <cotton>
+
+          </cotton>
+          <farm>
+
+          </farm>
+        </bio>
+        <monster_author>rp</monster_author>
+        <bio_author>
+          <organ>rp</organ>
+        </bio_author>
+      </dv>
+
+      <template>
+        <name></name>
+        <bio>
+          <organ>
+
+          </organ>
+          <cotton>
+
+          </cotton>
+          <farm>
+
+          </farm>
+        </bio>
+        <monster_author>b</monster_author>
+        <bio_author></bio_author>
+      </template>
+
+    </rare>
+    <epic>
+
+    </epic>
+    <corrupt>
+
+    </corrupt>
+    <prismatic>
+      <r>
+        <gen_id>0</gen_id>
+        <name>Teremente Prismático :colour:</name>
+        <bio>
+          <organ>
+
+          </organ>
+          <cotton>
+
+          </cotton>
+          <farm>
+
+          </farm>
+        </bio>
+        <monster_author>b</monster_author>
+        <bio_author>
+          <organ></organ>
+        </bio_author>
+      </r>
+
+      <ziggurab>
+        <gen_id>0</gen_id>
+        <name>Zigurabu Prismático :colour:</name>
+        <bio>
+          <organ>
+
+          </organ>
+          <cotton>
+
+          </cotton>
+          <farm>
+
+          </farm>
+        </bio>
+        <monster_author>b</monster_author>
+        <bio_author>
+          <organ></organ>
+        </bio_author>
+      </ziggurab>
+    </prismatic>
+
+  </monsters>
+  <decorations>
+    <template>
+      <name></name>
+      <bio>
+        
+      </bio>
+      <monster_author>me</monster_author>
+      <bio_author></bio_author>
+    </template>
+
+    <common>
+      
+    <bowl>
+      <name>Tigela de Espíritos</name>
+      <bio>
+
+      </bio>
+      <monster_author>me</monster_author>
+      <bio_author></bio_author>
+    </bowl>
+
+    <dragon>
+      <name>Lanterna do Dragoon</name>
+      <bio>
+
+      </bio>
+      <monster_author>goose</monster_author>
+      <bio_author></bio_author>
+    </dragon>
+
+    <flower_eye>
+      <name>Florolhos</name>
+      <bio>
+
+      </bio>
+      <monster_author>wahoo</monster_author>
+      <bio_author></bio_author>
+    </flower_eye>
+
+    <mouth>
+      <name>Poço do Mau Hálito</name>
+      <bio>
+
+      </bio>
+      <monster_author>me</monster_author>
+      <bio_author></bio_author>
+    </mouth>
+
+    <tongue_tree>
+      <name>Palmeira de Língua</name>
+      <bio>
+
+      </bio>
+      <monster_author>me</monster_author>
+      <bio_author></bio_author>
+    </tongue_tree>
+
+    </common>
+  </decorations>
+  <additional>
+    <colour>
+    <g1>
+      <red>Vermelha</red>
+      <orange>Laranja</orange>
+      <yellow>Amarela</yellow>
+      <green>Verde</green>
+      <blue>Azul</blue>
+      <purple>Roxa</purple>
+    </g1>
+    <g0>
+      <red>Vermelho</red>
+      <orange>Laranja</orange>
+      <yellow>Amarelo</yellow>
+      <green>Verde</green>
+      <blue>Azul</blue>
+      <purple>Roxo</purple>
+    </g0>
+  </colour>
+    <bio_author>Essa bio foi escrita por:</bio_author>
+    <monster_author>Esse monstro foi criado por:</monster_author>
+    <deco_author>Essa decoração foi criada por:</deco_author>
+    <structure_author>Essa estrutura foi criada por:</structure_author>
+    <no_text>texto faltando</no_text>
+  </additional>
+  <ui>  
+  <buttons>
+    <play>Jogar</play>
+    <exit>Sair</exit>
+    <info>Info</info>
+    <move>Mover</move>
+    <place>Colocar</place>
+    <flip>Girar</flip>
+    <cancel>Cancelar</cancel>
+    <feed>Alimentar</feed>
+    <check_in_hotel>Check-in</check_in_hotel>
+    <hotel_occupants>Ocupantes</hotel_occupants>
+    <sell>Vender</sell>
+    <map>Mapa</map>
+    <buy_another_one>Comprar Outro</buy_another_one>
+    <shop>Loja</shop>
+    <buy>Comprar</buy>
+    <options>Opções</options>
+    <language>Idioma</language>
+    <time_change>Alterar Tempo</time_change>
+    <confirm>Confirmar</confirm>
+    <ui_shop_button_monsters>Monstros</ui_shop_button_monsters>
+    <ui_shop_button_decos>Decorações</ui_shop_button_decos>
+    <ui_shop_button_strucs>Estruturas</ui_shop_button_strucs>
+    <mute>Mutar</mute>
+    <unmute>Desmutar</unmute>
+    <lvl>Nível:</lvl>
+    <lvl_max>Max</lvl_max>
+    <breed>Crie</breed>
+    <hatch>Chocar</hatch>
+    <accelerate>Acelere</accelerate>
+    <yes>Sim</yes>
+    <no>Não</no>
+  </buttons>
+  <map>
+        <cotton>
+          <name>Paraíso de Algodão</name>
+          <bio></bio>
+        </cotton>
+        <organ>
+          <name>Terra dos Orgãos</name>
+          <bio></bio>
+        </organ>
+        <farm>
+          <name>Fazenda Suspensa</name>
+          <bio></bio>
+        </farm>
+        <idk>
+          <name>???</name>
+          <bio></bio>
+        </idk>
+    </map>
+    <text>
+      <sell_text>Tem certeza? Ao vender este item você não será capaz de recuperá-lo.</sell_text>
+      <accelerate_text>Tem certeza que deseja acelerar este monstro?</accelerate_text>
+      <language_tooltip>Depois de mudar o idioma, por favor entre novamente na ilha ou reabra o jogo para que as mudanças sejam aplicadas.
+Obrigado.</language_tooltip>
+      <offline>Você está offline!
+Conecte-se à internet e reabra o jogo.
+      </offline>
+      <organ_cutscene_talk_1>Ah</organ_cutscene_talk_1>
+      <organ_cutscene_talk_2>To terra ton organon.</organ_cutscene_talk_2>
+      <organ_cutscene_talk_3>Lugar lindo</organ_cutscene_talk_3>
+      <organ_cutscene_talk_4>Superprotegido, mas continua sendo charmoso.</organ_cutscene_talk_4>
+      <organ_cutscene_talk_5>Alguem irá dizer que isso talvez seja nojento... E eu concordo plenamente com essa pessoa</organ_cutscene_talk_5>
+      <organ_cutscene_talk_6>MAS QUE DROG...</organ_cutscene_talk_6>
+      <organ_cutscene_talk_7>Ninguem nunca sobreviveu aqui.</organ_cutscene_talk_7>
+      <organ_cutscene_talk_8>Apenas os monstros mais fortes e inflexíveis podem sobreviver.</organ_cutscene_talk_8>
+      <organ_cutscene_talk_9>Como o Morgão</organ_cutscene_talk_9>
+      <organ_cutscene_talk_10>Ele é persistente...</organ_cutscene_talk_10>
+      <organ_cutscene_talk_11>Ele até perdeu aasua pele vivendo aqui...</organ_cutscene_talk_11>
+      <organ_cutscene_talk_12>mas mesmo assim sobreviveu.</organ_cutscene_talk_12>
+      <organ_cutscene_talk_13>Droga! Ele está mais feliz que antes!</organ_cutscene_talk_13>
+      <organ_cutscene_talk_14>E ele quer te mostrar algo. </organ_cutscene_talk_14>
+
+
+      <language>Língua:</language>
+      <loading>Carregando...</loading>
+      <skip>Pular</skip>
+      <warning>Atenção!</warning>
+      <msm_fangame>Não aprovado pela Big Blue Bubble, Inc.</msm_fangame>
+      <fangame_warning>Parte dos materiais usados são marcas registradas e/ou obras com direitos autorais da Big Blue Bubble. todos os direitos reservados para a Big Blue Bubble. Este material não é oficial e não é endossado pela Big Blue Bubble.</fangame_warning>
+
+
+    </text>
+  </ui>
+
+</all>

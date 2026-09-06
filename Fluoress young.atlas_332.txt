@@ -1,0 +1,314 @@
+
+Fluoress young.png
+size: 2047,795
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_left
+  rotate: true
+  xy: 98, 20
+  size: 110, 136
+  orig: 110, 136
+  offset: 0, 0
+  index: -1
+Arm_right_lower
+  rotate: true
+  xy: 377, 9
+  size: 107, 114
+  orig: 107, 114
+  offset: 0, 0
+  index: -1
+Arm_right_upper
+  rotate: false
+  xy: 1727, 18
+  size: 71, 51
+  orig: 71, 51
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 334, 43
+  size: 95, 74
+  orig: 95, 74
+  offset: 0, 0
+  index: -1
+Dress1
+  rotate: true
+  xy: 528, 2
+  size: 153, 250
+  orig: 155, 251
+  offset: 1, 0
+  index: -1
+Dress1_glow0001
+  rotate: true
+  xy: 316, 620
+  size: 173, 269
+  orig: 189, 286
+  offset: 6, 10
+  index: -1
+Dress1_glow0002
+  rotate: true
+  xy: 587, 620
+  size: 173, 269
+  orig: 189, 286
+  offset: 6, 10
+  index: -1
+Dress1_glow0003
+  rotate: true
+  xy: 858, 620
+  size: 173, 269
+  orig: 189, 286
+  offset: 6, 10
+  index: -1
+Dress1_glow0004
+  rotate: true
+  xy: 1129, 620
+  size: 173, 269
+  orig: 189, 286
+  offset: 6, 10
+  index: -1
+Dress1_glow0005
+  rotate: true
+  xy: 1400, 620
+  size: 173, 269
+  orig: 189, 286
+  offset: 6, 10
+  index: -1
+Dress1_glow0006
+  rotate: true
+  xy: 1671, 620
+  size: 173, 269
+  orig: 189, 286
+  offset: 6, 10
+  index: -1
+Dress1_glow0007
+  rotate: true
+  xy: 2, 450
+  size: 173, 269
+  orig: 189, 286
+  offset: 6, 10
+  index: -1
+Dress1_glow0008
+  rotate: true
+  xy: 273, 445
+  size: 173, 269
+  orig: 189, 286
+  offset: 6, 10
+  index: -1
+Dress1_glow0009
+  rotate: true
+  xy: 544, 445
+  size: 173, 269
+  orig: 189, 286
+  offset: 6, 10
+  index: -1
+Dress2
+  rotate: true
+  xy: 780, 33
+  size: 122, 291
+  orig: 123, 291
+  offset: 0, 0
+  index: -1
+Dress2_glow0001
+  rotate: true
+  xy: 815, 470
+  size: 148, 306
+  orig: 163, 321
+  offset: 6, 9
+  index: -1
+Dress2_glow0002
+  rotate: true
+  xy: 1123, 470
+  size: 148, 306
+  orig: 163, 321
+  offset: 6, 9
+  index: -1
+Dress2_glow0003
+  rotate: true
+  xy: 1431, 470
+  size: 148, 306
+  orig: 163, 321
+  offset: 6, 9
+  index: -1
+Dress2_glow0004
+  rotate: true
+  xy: 1739, 470
+  size: 148, 306
+  orig: 163, 321
+  offset: 6, 9
+  index: -1
+Dress2_glow0005
+  rotate: true
+  xy: 815, 320
+  size: 148, 306
+  orig: 163, 321
+  offset: 6, 9
+  index: -1
+Dress2_glow0006
+  rotate: true
+  xy: 1123, 320
+  size: 148, 306
+  orig: 163, 321
+  offset: 6, 9
+  index: -1
+Dress2_glow0007
+  rotate: true
+  xy: 1431, 320
+  size: 148, 306
+  orig: 163, 321
+  offset: 6, 9
+  index: -1
+Dress2_glow0008
+  rotate: true
+  xy: 1739, 320
+  size: 148, 306
+  orig: 163, 321
+  offset: 6, 9
+  index: -1
+Dress2_glow0009
+  rotate: true
+  xy: 2, 295
+  size: 148, 306
+  orig: 163, 321
+  offset: 6, 9
+  index: -1
+Dress3
+  rotate: true
+  xy: 1073, 15
+  size: 140, 246
+  orig: 142, 247
+  offset: 1, 0
+  index: -1
+Dress3_glow0001
+  rotate: true
+  xy: 310, 282
+  size: 161, 261
+  orig: 176, 277
+  offset: 5, 9
+  index: -1
+Dress3_glow0002
+  rotate: false
+  xy: 573, 182
+  size: 161, 261
+  orig: 176, 277
+  offset: 5, 9
+  index: -1
+Dress3_glow0003
+  rotate: true
+  xy: 736, 157
+  size: 161, 261
+  orig: 176, 277
+  offset: 5, 9
+  index: -1
+Dress3_glow0004
+  rotate: true
+  xy: 999, 157
+  size: 161, 261
+  orig: 176, 277
+  offset: 5, 9
+  index: -1
+Dress3_glow0005
+  rotate: true
+  xy: 1262, 157
+  size: 161, 261
+  orig: 176, 277
+  offset: 5, 9
+  index: -1
+Dress3_glow0006
+  rotate: true
+  xy: 1525, 157
+  size: 161, 261
+  orig: 176, 277
+  offset: 5, 9
+  index: -1
+Dress3_glow0007
+  rotate: true
+  xy: 2, 132
+  size: 161, 261
+  orig: 176, 277
+  offset: 5, 9
+  index: -1
+Dress3_glow0008
+  rotate: true
+  xy: 265, 119
+  size: 161, 261
+  orig: 176, 277
+  offset: 5, 9
+  index: -1
+Dress3_glow0009
+  rotate: false
+  xy: 1788, 57
+  size: 161, 261
+  orig: 176, 277
+  offset: 5, 9
+  index: -1
+Hair1
+  rotate: false
+  xy: 1483, 16
+  size: 125, 139
+  orig: 125, 139
+  offset: 0, 0
+  index: -1
+Hair1_glow
+  rotate: true
+  xy: 1321, 6
+  size: 149, 160
+  orig: 165, 174
+  offset: 6, 9
+  index: -1
+Hair2
+  rotate: false
+  xy: 2, 11
+  size: 94, 119
+  orig: 95, 119
+  offset: 1, 0
+  index: -1
+Hair2_glow
+  rotate: false
+  xy: 1610, 14
+  size: 115, 141
+  orig: 132, 156
+  offset: 6, 9
+  index: -1
+Head
+  rotate: false
+  xy: 236, 38
+  size: 96, 79
+  orig: 97, 79
+  offset: 1, 0
+  index: -1
+Lips
+  rotate: false
+  xy: 186, 105
+  size: 32, 25
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+Mouth_closed
+  rotate: false
+  xy: 265, 285
+  size: 18, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+Mouth_half
+  rotate: false
+  xy: 98, 118
+  size: 20, 12
+  orig: 21, 12
+  offset: 1, 0
+  index: -1
+Mouth_open
+  rotate: false
+  xy: 528, 265
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 2, 625
+  size: 312, 168
+  orig: 314, 171
+  offset: 1, 1
+  index: -1

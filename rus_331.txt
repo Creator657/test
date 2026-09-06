@@ -1,0 +1,812 @@
+<?xml version="1.0"?>
+<all>
+  <monsters>
+    
+  <template>
+    <name></name>
+    <bio>
+      <organ>
+        
+      </organ>
+      <cotton>
+
+      </cotton>
+      <farm>
+        
+      </farm>
+    </bio>
+    <monster_author>b</monster_author>
+    <bio_author></bio_author>
+  </template>
+
+  <common>
+    <balloon>
+      <name>Причуды</name>
+      <bio>Причуды это необычные монстры. Они прекрасно поют все вместе. От их великолепного тонкого пения разбиваются все стёкла в радиусе 10 метров. Так что монстры строят свои дома подальше от них, потому что, они ещё полностью не знают какова их полная сила пения. Иногда от огромной  радости их костюмы трещат по швам. Поэтому они все зашиты. Так же под их костюмами скрываются  их таинственные тела, мы не знаем почему они их не показывают.... А в почем и не важно! Эти монстры очень трудолюбивы и всегда поддержат, хоть иногда и со своими причудами.</bio>
+      <monster_author>b</monster_author>
+      <bio_author>gob</bio_author>
+    </balloon>
+
+    <frogge>
+      <name>Лягашка</name>
+      <bio>Лягашка обладает необычной способностью издавать гипнотический зов, в надежде найти себе пару, но своим кваканьем она лишь гипнотизирует ничего не подозревающих монстров. Кристаллы на голове Лягашки помогают ей ориентироваться в местности, если она потерялась. А ещё они представляют большую ценность для коллекционеров. Но в скором времени эти кристаллы стали им не нужны из-за ожогов которые остались после лап Лягашки. Выяснилось что здороваться с ней не желательно, потому что, в её лапках содержится опасный токсин.</bio>
+      <monster_author>b</monster_author>
+      <bio_author>gob</bio_author>
+    </frogge>
+
+    <r>
+      <name>Терменум</name>
+      <bio>Терменум это очень могущественное создание! Своей магией псионики он может воздействовать даже на гигантский мозг. Терменум очень много знает обо всём, он может поведать тебе о тайнах мира монстров! Если конечно он не свяжется с кем-нибудь через мозговые волны. Его магические рты прямиком из параллельных вселенных. Они могут рассказать вам гораздо больше пока Терменум увлечённо читает мысли других монстров. Больше о его ртах ничего не известно... но мы выяснили что Терменум это очень умный, начитанный, и скромный монстр. А рты которые он вызывает приукрасят композицию чудным вокалом.</bio>
+      <monster_author>b</monster_author>
+      <bio_author>gob</bio_author>
+    </r>
+    
+    <plasmacat>
+      <name>Ghazt</name>
+      <bio>Так как Вужас может становится невидимым, то он часто любит уединятся во всех местах острова не боясь что его кто-нибудь по беспокоит. Его невидимость даёт ему безграничные возможности, но он использует свою способность очень редко. А говоря о магических сферах плазмы которые вертятся возле него, то в них содержится большая сила. При прикосновении к этим сферам они содрогаются и издают космические звуки. К сожалению Вужас до сих пор скрывает большенство фактов о себе. Так что более информации о нём нету...</bio>
+      <monster_author>b</monster_author>
+      <bio_author>gob</bio_author>
+    </plasmacat>
+
+    <gnat>
+      <name>Клавижук</name>
+      <bio>Вы можете быть удивлены обилием мест, где можно выращивать Клавиград, но все это благодаря Клавижуку. Это маленькое создание действительно может производить питательные вещества, чтобы отдать их своему партнёру по имени, с помощью ранее неизвестного метода распространения через сферы клавиградной лозы, освещения и создания прекрасного звука во время захватывающего зрелища кормления! Иногда Клавижук чувствует себя слишком активным и начинает перекармливать растение, что не желательно для него.</bio>
+      <monster_author>b</monster_author>
+      <bio_author>azuran</bio_author>
+    </gnat>
+    
+    <ziggurab>
+      <name>Зиггураб</name>
+      <bio>Клешни Зигураба нужны ему не только для того чтобы ими щёлкать, но ещё они подойдут для нарезки овощей, рубки деревьев и разрывания подарочной обёртки на фестиваль Ура. В свободное время от щёлканья он любит вздремнуть укрывшись в своём звукоизолирующем панцире. А он в свою очередь ещё и очень прочный. Благодаря специальному строению тела Зигураба, он может вертеть головой издавая трещащий или сыпучий звук. Этим он особенно удивляет всех вокруг!</bio>
+      <monster_author>b</monster_author>
+      <bio_author>gob</bio_author>
+    </ziggurab>
+
+    <arg>
+      <name>Безъобраз</name>
+      <bio>
+        <organ>
+          Вот это необычно! Обитающий в самом из уникальных из своих домов, добросердечный Безъобраз, первый из органических монстров, с очаровывающей улыбкой, встречает остальных монстров в ноый остров. С органом, играющим в его ладони, этот монстр создаёт наичудеснейшие мелодий и неслыханные аккорды! Имеея очень высокий статус среди монстров - встреча с Безъобразом всегда вспоминается с улыбкой.
+        </organ>
+      </bio>
+      <monster_author>me</monster_author>
+      <bio_author>
+        <organ>azuran</organ>
+      </bio_author>
+    </arg>
+
+    <k>
+      <name>Церебро</name>
+      <bio>
+        <organ>
+        </organ>
+      </bio>
+      <monster_author>b</monster_author>
+      <bio_author>
+        <organ></organ>
+      </bio_author>
+    </k>
+
+    <bd>
+      <name>Осьмедуб</name>
+      <bio>
+        <organ>The woody Oaktapus may not seem the best fit for such a landscape, but you’d be surprised! Letting go of its rigidity, the Oaktapus embraces its true self, moving in new more vivid ways to express itself!
+        </organ>
+        <cotton>
+
+        </cotton>
+        <farm>
+
+        </farm>
+      </bio>
+      <monster_author>b</monster_author>
+      <bio_author>
+        <organ>azuran</organ>
+        </bio_author>
+    </bd>
+
+    <smooch>
+      <name>Поцельщик</name>
+      <bio>
+        <organ>
+
+        </organ>
+        <cotton>
+
+        </cotton>
+        <farm>
+
+        </farm>
+      </bio>
+      <monster_author>b</monster_author>
+      <bio_author></bio_author>
+    </smooch>
+
+    <en>
+      <name>Шнобель</name>
+      <bio>
+        <organ>
+
+        </organ>
+        <cotton>
+
+        </cotton>
+        <farm>
+
+        </farm>
+      </bio>
+      <monster_author>b</monster_author>
+      <bio_author></bio_author>
+    </en>
+
+    <bce>
+      <name>Раковица</name>
+      <bio>
+        <organ>
+
+        </organ>
+        <cotton>
+
+        </cotton>
+        <farm>
+
+        </farm>
+      </bio>
+      <monster_author>b</monster_author>
+      <bio_author></bio_author>
+    </bce>
+
+    <ac>
+      <name>Пропеборг</name>
+      <bio>
+        <organ>
+
+        </organ>
+        <cotton>
+
+        </cotton>
+        <farm>
+
+        </farm>
+      </bio>
+      <monster_author>b</monster_author>
+      <bio_author></bio_author>
+    </ac>
+
+    <abcd>
+      <name>Ракотакт</name>
+      <bio>
+        <organ>
+
+        </organ>
+        <cotton>
+
+        </cotton>
+        <farm>
+
+        </farm>
+      </bio>
+      <monster_author>b</monster_author>
+      <bio_author></bio_author>
+    </abcd>
+
+    <nr>
+      <name>Йоглер</name>
+      <bio>Иногда Йоглер проводит курсы ме-дзинь-тации. Монстры которые хотя бы 1 раз сходят на курсы, становятся мудрыми и спокойными. Всё благодаря жонглёрным шарикам Йоглера. Они взлетают и стукаются друг об друга, тем самым вырабатывая волшебную силу! А ещё они создают успокаивающие звуки. Так же Йоглер устраивает цирковые представления с самыми интригующими номерами жонглирования. Монстры очень любят Йоглера за за его спокойствие, терпимость и за его непоколебимую силу духа.</bio>
+      <monster_author>b</monster_author>
+      <bio_author>gob</bio_author>
+    </nr>
+
+    <U12>
+      <name>Импульспрыг</name>
+      <bio>
+        <organ>
+
+        </organ>
+        <cotton>
+
+        </cotton>
+        <farm>
+
+        </farm>
+      </bio>
+      <monster_author>b</monster_author>
+      <bio_author></bio_author>
+    </U12>
+
+    <wool>
+      <name>Шерстибель</name>
+      <bio>
+        <organ>
+
+        </organ>
+        <cotton>
+          The shaggy woolabee naturally found this cloudy paradise during a search for a new song to join in. It seems content to stay here while it’s birds gently play a new tune, but it can’t shake the feeling that something is off about this fairytale of a home.
+        </cotton>
+        <farm>
+
+        </farm>
+      </bio>
+      <monster_author>b</monster_author>
+      <bio_author>
+        <cotton>azuran</cotton>
+        </bio_author>
+    </wool>
+
+    <hawlo>
+      <name>Пустал</name>
+      <bio>
+        <organ>
+
+        </organ>
+        <cotton>
+          From it’s underground home in the dark caverns of Bone Island, the curious Hawlo found itself on an journey of a new world outside it’s undead habitat. After a long month of exploration, Hawlo stumbled upon a giant sign, which lead it to a terrain of cloud-like cotton. Though it felt like a new home, the Hawlo couldn’t help but feel as if something was off.
+        </cotton>
+        <farm>
+
+        </farm>
+      </bio>
+      <monster_author>b</monster_author>
+      <bio_author>
+        <cotton>Goose</cotton>
+        </bio_author>
+    </hawlo>
+
+    <floot>
+      <name>Мухофлейт</name>
+      <bio>
+        <organ>
+
+        </organ>
+        <cotton>
+          The green Floot Fly set out on an adventure to find another paradise after Faerie Island. It stumbled upon Cotton Paradise and is loving every bit of it, though it feels weirded out by the sign at the entrance.
+        </cotton>
+        <farm>
+
+        </farm>
+      </bio>
+      <monster_author>b</monster_author>
+      <bio_author>
+        <cotton>hax</cotton>
+      </bio_author>
+    </floot>
+
+    <geyser>
+      <name>Чихорда</name>
+      <bio>
+        <organ>
+
+        </organ>
+        <cotton>
+          The Strong-Hearted Snyser followed it’s woolen friend to the gates of this new, heavenly oasis, and was so pleased it decided to stay! It spends most of it’s time drifting amongst its dreams, not noticing much about its odd surroundings.
+        </cotton>
+        <farm>
+
+        </farm>
+      </bio>
+      <monster_author>b</monster_author>
+      <bio_author>
+        <cotton>azuran</cotton>
+        </bio_author>
+    </geyser>
+
+    <jaw>
+      <name>Челюфон</name>
+      <bio>
+        <organ>
+          Maxillaphones are very confusing monsters to look at, at first glance they seem to be a monster inside a giant denture, but not exactly like that, the screw on the side of the denture is just to keep it open, this allows maxillaphone to play without any problem.
+        </organ>
+        <cotton>
+
+        </cotton>
+        <farm>
+
+        </farm>
+      </bio>
+      <monster_author>delta</monster_author>
+      <bio_author>
+        <organ>delta</organ> 
+      </bio_author>
+    </jaw>
+
+    <sooza>
+      <name>Суза</name>
+      <bio>
+        <organ>
+
+        </organ>
+        <cotton>
+          Curious, the majestic Sooza traveled to this island to uncover it’s mystery once and for all. But what she found chilled her to the base of her great horn. The rocks dotted around the region seemed to be monsters, frozen in time. She stayed- hoping to find a way to free them.
+        </cotton>
+        <farm>
+
+        </farm>
+      </bio>
+      <monster_author>b</monster_author>
+      <bio_author>
+      <cotton>azuran</cotton>
+      </bio_author>
+    </sooza>
+
+    <saw>
+      <name>Сакурра</name>
+      <bio>
+        <organ>
+
+        </organ>
+        <cotton>
+
+        </cotton>
+        <farm>
+
+        </farm>
+      </bio>
+      <monster_author>b</monster_author>
+      <bio_author></bio_author>
+    </saw>
+
+    <bdnr>
+      <name>Клейкоглаз</name>
+      <bio>
+        <organ>Gloptic is thought to be the most mysterious and strongest out of all the Psychic Elementals. Because of its ability to induse monsters, many of them are left with very itchy brains.
+        </organ>
+        <cotton>
+
+        </cotton>
+        <farm>
+
+        </farm>
+      </bio>
+      <monster_author>b</monster_author>
+      <bio_author>
+        <organ>Shaunluke Green</organ>
+      </bio_author>
+    </bdnr>
+
+    <volleyball>
+      <name>Синтэлет</name>
+      <bio>
+        <organ>The once magical synthfly didn’t feel at home on psychic island.
+          After hearing the organics started filling an island synthfly decided to join too, thus now still a magical but with a new identity and new elements.
+        </organ>
+        <cotton>
+
+        </cotton>
+        <farm>
+
+        </farm>
+      </bio>
+      <monster_author>volley</monster_author>
+      <bio_author>
+        <organ>volley</organ>
+      </bio_author>
+    </volleyball>
+
+
+    <b>
+      <name>Свистоглаз</name>
+      <bio>
+        <organ>A Whimstlop is a simple creature- the average specimen doesn’t do much but play its signature tune, though some others have dreams of grandeur. All Whimstlops complain about migraines.
+        </organ>
+        <cotton>
+
+        </cotton>
+        <farm>
+
+        </farm>
+      </bio>
+      <monster_author>me</monster_author>
+      <bio_author>
+        <organ>azuran</organ>
+      </bio_author>
+    </b>
+
+    <banjo>
+      <name>Банджуй</name>
+      <bio>Чтобы основное сухожилие банджуя было тонким, ровным и эластичным. Он натачивает его о большие камни. Если Банджуй не будет ухаживать за ним, то в скором времени оно ослабеет и сломается. А звук который они издают привлекает монстров, и из-за этого они устраивают концерты с его участием. Поэтому Банджуй сильнее мотивируется точить сухожилие. А так он скрасит любое исполнение своими банджообразными звуками, а ещё он отличный друг. Только надо быть осторожнее и не приближаться к его зубам!</bio>
+      <monster_author>b</monster_author>
+      <bio_author>Комок</bio_author>
+    </banjo>
+
+    <fungi>
+      <name>Грибосвет</name>
+      <bio>
+        <organ>
+
+        </organ>
+        <cotton>
+
+        </cotton>
+        <farm>
+          No bio yet
+        </farm>
+      </bio>
+      <monster_author>mb</monster_author>
+      <bio_author></bio_author>
+    </fungi>
+  </common>
+  <rare>
+    <wool>
+      <name>Редкая Шерстибель</name>
+      <bio>
+        <organ>
+
+        </organ>
+        <cotton>This one of a kind Rare came to the exclusive Cotton Paradise as soon as it heard of it's name! Though slightly disappointed its Common variant also resides here, the two still share that wonderful bond, and they play in greater harmony than ever before.
+        </cotton>
+        <farm>
+
+        </farm>
+      </bio>
+      <monster_author>b</monster_author>
+      <bio_author>
+        <cotton>azuran</cotton>
+        
+      </bio_author>
+    </wool>
+    <geyser>
+      <name>Редкая Чихорда</name>
+      <bio>
+        <organ>
+
+        </organ>
+        <cotton>ъуъъуъуъуъуъуъуъуъуъуъуъуъуъуъуъуъуъуъуъуъ                                                               ъуъ
+        </cotton>
+        <farm>
+
+        </farm>
+      </bio>
+      <monster_author>b</monster_author>
+      <bio_author>
+        <cotton>mk</cotton>
+        </bio_author>
+    </geyser>
+    <ziggurab>
+      <name>Радкий Зиггураб</name>
+      <bio>
+        <organ>Although the rare Ziggurab liked his homeland, he wanted more exciting adventure. and more weird, wacky friends! Just like many, he was mistaken for a food as many had the same, he fell upside down, and was eaten, mistaken as a dessert like him, a cupcake, Yum. When he entered the terra of organs, he, like his friend, hanged on the throat. Then realized it was completely fine, He never understood why his friend, the regular Ziggurab would leave such place, but alas, here he stood, much adventure awaited him, unlike cotton paradise, and he slowly realized he was at where he wanted to be.
+        </organ>
+        <cotton>The rare Ziggurab may look like a cake, or maybe a sponge, but really, he’s of course a cake made of sponge! Nice ain’t it? Well, those cute eyes, his beats, and his friend to help him, he got into the cotton paradise smoothly, although he is having a great time with new friends, he is now currently looking for more adventure and action, and of course, things as squishy and squashy as Him.
+        </cotton>
+        <farm>
+
+        </farm>
+      </bio>
+      <monster_author>b</monster_author>
+      <bio_author>
+        <cotton>Eevee Lover</cotton>
+        <organ>Eevee Lover</organ>
+      </bio_author>
+    </ziggurab>
+    <jaw>
+      <name>Редкий Челюфон</name>
+      <bio>
+        <organ>
+          There are many types of jaws, ranging from the "arosse" jaws, to the "skeletull" jaws, one pair of them is different to the other one. Despite it's small nature, the Rare Maxillophone can see in the dark with in a 15 mile radius. This makes it easy for them to see the many crystals and ores in the mysterious caves of Bone island, easy for them to search for the beings inside the Terra of Organs. Despite it's unnatural look, the grandma of the Maxillophone family had their jaws slightly hanging out of her mouth and then it lunged out sooner or later. The Rare Maxillophone's other stories remain a myth, but we can be sure that the Rare Maxillophone is truly the most unique of their kind.
+        </organ>
+        <cotton>
+
+        </cotton>
+        <farm>
+
+        </farm>
+      </bio>
+      <monster_author>me</monster_author>
+      <bio_author>
+        <organ>Charles the Lizzarb</organ>
+      </bio_author>
+    </jaw>
+    <dv>
+      <name>Редкие Челюстяги</name>
+      <bio>
+        <organ>Having a primal set of teeth with tusk-like fangs, and a wild coat of fur, these rare variants look truly intimidating. You would think that Rare Denchuhs lack table manners, but that's quite the contrary! And after a meal, they make sure to clean their teeth thoroughly, helping one another with hard to reach places. Now that's teamwork!
+        </organ>
+        <cotton>
+
+        </cotton>
+        <farm>
+
+        </farm>
+      </bio>
+      <monster_author>rp</monster_author>
+      <bio_author>
+        <organ>rp</organ>
+      </bio_author>
+    </dv>
+
+    <b>
+      <name>Редкий Свистоглаз</name>
+      <bio>
+        <organ>The eccentric Rare Whimstlop easily stands out in a crowd. With its blue tufts of hair, and it’s thin, twig-like arms, it is believed it is the product of a genius Whimstlop’s experiment gone wrong.
+        </organ>
+        <cotton>
+
+        </cotton>
+        <farm>
+
+        </farm>
+      </bio>
+      <monster_author>me</monster_author>
+      <bio_author>
+        <organ>azuran</organ>
+      </bio_author>
+    </b>
+
+    <floot>
+      <name>Редкий Мухофлейт</name>
+      <bio>
+        <organ>
+
+        </organ>
+        <cotton>The Rare Floot Fly is very proud of its signature red markings, but nobody knows where they came from. Legend has it that they originate from the earliest days of Faerie island, when the Rare Floot Fly was bright blue. Stories tell of how some unused paint from when the Wimmzies were painting their garments spilled onto the rare creature, changing it forever.
+        </cotton>
+        <farm>
+
+        </farm>
+      </bio>
+      <monster_author>b</monster_author>
+      <bio_author>
+        <cotton>hax</cotton>
+      </bio_author>
+    </floot>
+    
+    <template>
+      <name></name>
+      <bio>
+        <organ>
+
+        </organ>
+        <cotton>
+
+        </cotton>
+        <farm>
+
+        </farm>
+      </bio>
+      <monster_author>b</monster_author>
+      <bio_author></bio_author>
+    </template>
+    
+  </rare>
+  <epic>
+    
+  </epic>
+  <corrupt>
+    
+  </corrupt>
+  <prismatic>
+    <r>
+      <gen_id>0</gen_id>
+      <name>:colour: призматический Терменум</name>
+      <bio>
+        <organ>
+          
+        </organ>
+        <cotton>
+
+        </cotton>
+        <farm>
+
+        </farm>
+      </bio>
+      <monster_author>b</monster_author>
+      <bio_author>
+        <organ></organ>
+      </bio_author>
+    </r>
+
+    <ziggurab>
+      <gen_id>0</gen_id>
+      <name> :colour: призматический Зиггураб</name>
+      <bio>
+        <organ>
+
+        </organ>
+        <cotton>
+
+        </cotton>
+        <farm>
+
+        </farm>
+      </bio>
+      <monster_author>b</monster_author>
+      <bio_author>
+        <organ></organ>
+      </bio_author>
+    </ziggurab>
+  </prismatic>
+    
+  </monsters>
+  <decorations>
+    
+    <template>
+      <name></name>
+      <bio>
+        
+      </bio>
+      <monster_author>me</monster_author>
+      <bio_author></bio_author>
+    </template>
+
+    <bowl>
+      <name>Чашка с душами</name>
+      <bio>
+
+      </bio>
+      <monster_author>me</monster_author>
+      <bio_author></bio_author>
+    </bowl>
+
+    <dragon>
+      <name>Лампа Драгуна</name>
+      <bio>
+
+      </bio>
+      <monster_author>goose</monster_author>
+      <bio_author></bio_author>
+    </dragon>
+
+    <flower_eye>
+      <name>Гипноцвет</name>
+      <bio>
+
+      </bio>
+      <monster_author>wahoo</monster_author>
+      <bio_author></bio_author>
+    </flower_eye>
+
+    <mouth>
+      <name>Яма Вонючка</name>
+      <bio>
+
+      </bio>
+      <monster_author>me</monster_author>
+      <bio_author></bio_author>
+    </mouth>
+
+    <tongue_tree>
+      <name>Языковая пальма</name>
+      <bio>
+
+      </bio>
+      <monster_author>me</monster_author>
+      <bio_author></bio_author>
+    </tongue_tree>
+
+    <placeable>
+      <name>Грибостойка</name>
+      <bio>
+
+      </bio>
+      <monster_author>me</monster_author>
+      <bio_author></bio_author>
+    </placeable>
+
+
+
+
+
+
+
+  </decorations>
+  <additional>
+    <colour>
+     <g1>
+       <red>Красная</red>
+       <orange>Оранджевая</orange>
+       <yellow>Желтая</yellow>
+       <green>Зеленая</green>
+       <blue>Голубая</blue>
+       <purple>Фиолетовая</purple>
+     </g1>
+     <g0>
+      <red>Красный</red>
+      <orange>Оранджевый</orange>
+      <yellow>Желтый</yellow>
+      <green>Зеленый</green>
+      <blue>Голубой</blue>
+      <purple>Фиолетовый</purple>
+     </g0>
+  </colour>
+    <bio_author>Эту биографию написал:</bio_author>
+    <monster_author>Этот монстр был разработан:</monster_author>
+    <deco_author>Это украшение было разработано:</deco_author>
+    <structure_author>Это Здание было разработано:</structure_author>
+    <no_text>отсутствующий текст</no_text>
+  </additional>
+  <ui>  
+    <buttons>
+    <play>Играть</play>
+    <exit>Выход</exit>
+    <info>Инфо</info>
+    <move>Двигать</move>
+    <place>Разместить</place>
+    <flip>Повернуть</flip>
+    <cancel>Отмена</cancel>
+    <feed>Кормить</feed>
+    <check_in_hotel>Записать в отель</check_in_hotel>
+    <hotel_occupants>Жители</hotel_occupants>
+    <sell>Продать</sell>
+    <map>Карта</map>
+    <buy_another_one>Купить еще</buy_another_one>
+    <shop>Магазин</shop>
+    <buy>Купить</buy>
+    <options>Настройки</options>
+    <language>Язык:</language>
+    <time_change>Поменять Время</time_change>
+    <confirm>Подтвердить</confirm>
+    <ui_shop_button_monsters>Монстры</ui_shop_button_monsters>
+    <ui_shop_button_decos>Деккорации</ui_shop_button_decos>
+    <ui_shop_button_strucs>Здания</ui_shop_button_strucs>
+    <mute>Выкл. звук</mute>
+    <unmute>Вкл. звук</unmute>
+    <lvl>Уровень:</lvl>
+      <lvl_max>Макс</lvl_max>
+  </buttons>
+ 
+    <map>
+        <cotton>
+          <name>Хлопковый Рай</name>
+          <bio></bio>
+        </cotton>
+        <organ>
+          <name>Остров Органов</name>
+          <bio></bio>
+        </organ>
+        <farm>
+          <name>Ферма на плаву</name>
+          <bio></bio>
+        </farm>
+        <idk>
+          <name>???</name>
+          <bio></bio>
+        </idk>
+    </map>
+ 
+    <text>
+      <language_tooltip>После смены языка повторно войдите на остров или повторно откройте игру, чтобы изменения вступили в силу.
+Cпасибо.</language_tooltip>
+      <offline>Вы не в сети!
+Пожалуйста, подключитесь к Интернету и перезапустите игру.
+      </offline>
+
+
+
+      <organ_cutscene_talk_1>Эхх</organ_cutscene_talk_1>
+      <organ_cutscene_talk_2>Вот красота</organ_cutscene_talk_2>
+      <organ_cutscene_talk_3>То терра тот органон</organ_cutscene_talk_3>
+      <organ_cutscene_talk_4>Уж слишком защищен правда... Ну не суть</organ_cutscene_talk_4>
+      <organ_cutscene_talk_5>Может внешнии вид кому-то и не понравится ....например мне!</organ_cutscene_talk_5>
+      <organ_cutscene_talk_6>Что это за убожеств...</organ_cutscene_talk_6>
+      <organ_cutscene_talk_7>Никто отсюда живим не уходил</organ_cutscene_talk_7>
+      <organ_cutscene_talk_8>Только самые крепкие могут выстоять такую среду.</organ_cutscene_talk_8>
+      <organ_cutscene_talk_9>На пример Безъобраз</organ_cutscene_talk_9>
+      <organ_cutscene_talk_10>Закаленный! Как Бык!</organ_cutscene_talk_10>
+      <organ_cutscene_talk_11>Кожы лешился и не вздрогнул.</organ_cutscene_talk_11>
+      <organ_cutscene_talk_12>Ему даже нравится</organ_cutscene_talk_12>
+      <organ_cutscene_talk_13>Боже да он же прямо... МОНСТР!</organ_cutscene_talk_13>
+      <organ_cutscene_talk_14>Кстати у него для вас сюрприз. </organ_cutscene_talk_14>
+      <organ_cutscene_talk_15>  </organ_cutscene_talk_15>
+
+      <language>Язык:</language>
+      <loading>Загрузка...</loading>
+      <skip>Пропустить</skip>
+      <warning>Внимание!</warning>
+      <msm_fangame>Не одобрено Big Blue Bubble, Inc.</msm_fangame>
+      <fangame_warning>Части используемых материалов являются товарными знаками и/или произведениями Big Blue Bubble, защищенными авторским правом. Все права защищены Big Blue Bubble. Этот материал не является официальным и не одобрен Big Blue Bubble. </fangame_warning>
+
+    </text>
+  </ui>
+  <credits>
+    <title>My Singing Monsters, The lost landscapes</title>
+    <credits_text>Animation,Raw Zebra
+    Music
+    Raw Zebra,Mantisboi
+    Translations
+    Portuguese translated by:, Kaww, Delta
+    English translated by: (no translations lol it was english)
+    Special thanks to:,Drewwa,Kaww,Delta,Roggepoch,Mantisboi,Gtarrby,Xanderrock98,Galaxy_Volleyball,DustyJuice,am3lali,!demon-spawn!,Firey the Maw,DiscordFBI,Azuran_SHadow,DaylenGG,GabrielHaxxorer,Trash,flutter,【ＬＥＡＦＹ！】,wahoo,TheRogueGem,Le Peepboi,TaterTotThe1st,YawYEET,⚔Phantom⚔
+    </credits_text>
+
+  </credits>
+</all>

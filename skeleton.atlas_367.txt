@@ -1,0 +1,118 @@
+
+skeleton.png
+size: 324,1942
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Images/Group 20
+  rotate: true
+  xy: 2, 112
+  size: 126, 169
+  orig: 126, 169
+  offset: 0, 0
+  index: -1
+Images/Group 21
+  rotate: true
+  xy: 173, 79
+  size: 159, 101
+  orig: 159, 101
+  offset: 0, 0
+  index: -1
+Images/Group 22
+  rotate: false
+  xy: 2, 3
+  size: 130, 107
+  orig: 130, 107
+  offset: 0, 0
+  index: -1
+Images/Group 23
+  rotate: false
+  xy: 233, 240
+  size: 81, 143
+  orig: 81, 143
+  offset: 0, 0
+  index: -1
+Images/Group 24
+  rotate: false
+  xy: 211, 37
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+Images/Group 25
+  rotate: false
+  xy: 261, 39
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+Images/Head
+  rotate: false
+  xy: 2, 1367
+  size: 320, 279
+  orig: 320, 279
+  offset: 0, 0
+  index: -1
+Images/Mask
+  rotate: false
+  xy: 2, 1648
+  size: 312, 292
+  orig: 312, 292
+  offset: 0, 0
+  index: -1
+Images/Shadow
+  rotate: false
+  xy: 2, 935
+  size: 314, 171
+  orig: 314, 171
+  offset: 0, 0
+  index: -1
+Images/eyelids
+  rotate: false
+  xy: 2, 796
+  size: 229, 137
+  orig: 229, 137
+  offset: 0, 0
+  index: -1
+Images/eyelids copy
+  rotate: false
+  xy: 2, 657
+  size: 229, 137
+  orig: 229, 137
+  offset: 0, 0
+  index: -1
+Images/eyelids copy 2
+  rotate: false
+  xy: 2, 518
+  size: 229, 137
+  orig: 229, 137
+  offset: 0, 0
+  index: -1
+Images/eyelids copy 3
+  rotate: false
+  xy: 2, 379
+  size: 229, 137
+  orig: 229, 137
+  offset: 0, 0
+  index: -1
+Images/eyelids copy 4
+  rotate: false
+  xy: 2, 240
+  size: 229, 137
+  orig: 229, 137
+  offset: 0, 0
+  index: -1
+Images/pupil
+  rotate: false
+  xy: 134, 3
+  size: 75, 74
+  orig: 75, 74
+  offset: 0, 0
+  index: -1
+Images/wing
+  rotate: true
+  xy: 2, 1108
+  size: 257, 293
+  orig: 257, 293
+  offset: 0, 0
+  index: -1

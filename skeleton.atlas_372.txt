@@ -1,0 +1,111 @@
+
+skeleton.png
+size: 2031,1369
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Big_facepattern
+  rotate: true
+  xy: 1382, 704
+  size: 663, 562
+  orig: 663, 562
+  offset: 0, 0
+  index: -1
+Big_head
+  rotate: false
+  xy: 3, 639
+  size: 835, 728
+  orig: 835, 728
+  offset: 0, 0
+  index: -1
+Big_inside
+  rotate: true
+  xy: 545, 88
+  size: 173, 264
+  orig: 173, 264
+  offset: 0, 0
+  index: -1
+Big_jaw
+  rotate: false
+  xy: 3, 263
+  size: 861, 289
+  orig: 861, 289
+  offset: 0, 0
+  index: -1
+Big_mouth
+  rotate: true
+  xy: 866, 218
+  size: 334, 450
+  orig: 334, 450
+  offset: 0, 0
+  index: -1
+Eyeball
+  rotate: false
+  xy: 811, 109
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+Eyehole
+  rotate: false
+  xy: 317, 34
+  size: 226, 227
+  orig: 236, 239
+  offset: 5, 6
+  index: -1
+Shadow
+  rotate: false
+  xy: 3, 93
+  size: 312, 168
+  orig: 314, 171
+  offset: 1, 1
+  index: -1
+Small_Facepattern
+  rotate: false
+  xy: 1946, 942
+  size: 34, 425
+  orig: 34, 425
+  offset: 0, 0
+  index: -1
+Small_circle
+  rotate: false
+  xy: 840, 554
+  size: 540, 813
+  orig: 541, 813
+  offset: 1, 0
+  index: -1
+Small_head
+  rotate: false
+  xy: 1382, 301
+  size: 462, 401
+  orig: 462, 401
+  offset: 0, 0
+  index: -1
+Small_jaw
+  rotate: false
+  xy: 1318, 3
+  size: 506, 296
+  orig: 506, 296
+  offset: 0, 0
+  index: -1
+Small_mouth1
+  rotate: false
+  xy: 1826, 81
+  size: 203, 218
+  orig: 203, 218
+  offset: 0, 0
+  index: -1
+Small_mouth2
+  rotate: false
+  xy: 1846, 550
+  size: 166, 152
+  orig: 172, 164
+  offset: 0, 6
+  index: -1
+Void
+  rotate: false
+  xy: 1846, 407
+  size: 140, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1

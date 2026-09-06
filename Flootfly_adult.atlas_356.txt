@@ -1,0 +1,139 @@
+
+Flootfly_adult.png
+size: 1942,1207
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_lower
+  rotate: true
+  xy: 2, 109
+  size: 189, 437
+  orig: 189, 437
+  offset: 0, 0
+  index: -1
+Arm_upper
+  rotate: false
+  xy: 1358, 78
+  size: 386, 108
+  orig: 386, 108
+  offset: 0, 0
+  index: -1
+Berry
+  rotate: false
+  xy: 1377, 593
+  size: 562, 612
+  orig: 562, 612
+  offset: 0, 0
+  index: -1
+Costume_Flute
+  rotate: false
+  xy: 758, 316
+  size: 598, 199
+  orig: 598, 199
+  offset: 0, 0
+  index: -1
+Eyelid
+  rotate: false
+  xy: 441, 14
+  size: 162, 111
+  orig: 162, 111
+  offset: 0, 0
+  index: -1
+Eyelid1
+  rotate: false
+  xy: 605, 2
+  size: 162, 111
+  orig: 162, 111
+  offset: 0, 0
+  index: -1
+Eyelid2
+  rotate: false
+  xy: 769, 2
+  size: 162, 111
+  orig: 162, 111
+  offset: 0, 0
+  index: -1
+Eyelid3
+  rotate: false
+  xy: 933, 2
+  size: 162, 111
+  orig: 162, 111
+  offset: 0, 0
+  index: -1
+Finger
+  rotate: false
+  xy: 1097, 49
+  size: 218, 64
+  orig: 218, 64
+  offset: 0, 0
+  index: -1
+Flute
+  rotate: false
+  xy: 758, 115
+  size: 598, 199
+  orig: 598, 199
+  offset: 0, 0
+  index: -1
+Flute_top
+  rotate: true
+  xy: 2, 340
+  size: 147, 212
+  orig: 147, 212
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: false
+  xy: 1746, 42
+  size: 194, 144
+  orig: 194, 144
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 758, 517
+  size: 617, 688
+  orig: 617, 688
+  offset: 0, 0
+  index: -1
+Iris
+  rotate: false
+  xy: 2, 1140
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+Mask
+  rotate: false
+  xy: 1377, 188
+  size: 507, 403
+  orig: 507, 403
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 441, 127
+  size: 314, 171
+  orig: 314, 171
+  offset: 0, 0
+  index: -1
+Wing
+  rotate: false
+  xy: 2, 300
+  size: 754, 905
+  orig: 754, 905
+  offset: 0, 0
+  index: -1
+Wing_lower
+  rotate: false
+  xy: 572, 927
+  size: 176, 278
+  orig: 176, 278
+  offset: 0, 0
+  index: -1
+costume_Iris
+  rotate: false
+  xy: 273, 1153
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1

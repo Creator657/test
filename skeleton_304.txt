@@ -1,0 +1,1035 @@
+{
+"skeleton": {
+	"hash": "yffT/P/kFcFHKDi3YepOHrFxAP4",
+	"spine": "3.8",
+	"x": -305.77,
+	"y": -166.73,
+	"width": 662.75,
+	"height": 568.02,
+	"images": "",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root", "x": -2.95 },
+	{ "name": "Body", "parent": "root", "length": 129.24, "rotation": 119.74, "x": 152.74, "y": -14.74 },
+	{
+		"name": "Head",
+		"parent": "Body",
+		"length": 196.2,
+		"rotation": 32.04,
+		"x": 136.62,
+		"y": 3.69,
+		"transform": "noScale"
+	},
+	{ "name": "Furcorn egg", "parent": "Head", "length": 60.01, "rotation": -145, "x": 230.79, "y": -109.38 },
+	{
+		"name": "Furcorn egg stem",
+		"parent": "Furcorn egg",
+		"length": 32.25,
+		"rotation": 120.7,
+		"x": 2.6,
+		"y": 24.05,
+		"transform": "noScale"
+	},
+	{ "name": "Furcorn egg2", "parent": "Head", "length": 60.01, "rotation": -162.35, "x": 76.27, "y": -87.87 },
+	{
+		"name": "Furcorn egg stem2",
+		"parent": "Furcorn egg2",
+		"length": 32.25,
+		"rotation": 120.7,
+		"x": 2.6,
+		"y": 24.05,
+		"transform": "noScale"
+	},
+	{ "name": "Furcorn egg3", "parent": "Head", "length": 60.01, "rotation": -127, "x": 279.61, "y": -33.26 },
+	{
+		"name": "Furcorn egg stem3",
+		"parent": "Furcorn egg3",
+		"length": 32.25,
+		"rotation": 120.7,
+		"x": 2.6,
+		"y": 24.05,
+		"transform": "noScale"
+	},
+	{ "name": "Furcorn egg4", "parent": "Head", "length": 60.01, "rotation": -172.69, "x": 135.73, "y": -179.67 },
+	{
+		"name": "Furcorn egg stem4",
+		"parent": "Furcorn egg4",
+		"length": 32.25,
+		"rotation": 120.7,
+		"x": 1.59,
+		"y": 27.53,
+		"transform": "noScale"
+	},
+	{
+		"name": "Furcorn egg5",
+		"parent": "Body",
+		"length": 60.01,
+		"rotation": -173.41,
+		"x": 208.8,
+		"y": -135.74,
+		"transform": "noScale"
+	},
+	{
+		"name": "Furcorn egg stem5",
+		"parent": "Furcorn egg5",
+		"length": 32.25,
+		"rotation": 114.67,
+		"x": 0.56,
+		"y": 28.03,
+		"transform": "noScale"
+	},
+	{ "name": "Mouth", "parent": "Head", "length": 89.1, "rotation": 2.3, "x": 215.13, "y": 54.33 },
+	{
+		"name": "Tail",
+		"parent": "Body",
+		"length": 147.24,
+		"rotation": -144.93,
+		"x": 76.3,
+		"y": -97.8,
+		"transform": "noScale"
+	},
+	{ "name": "Left leg upper", "parent": "root", "length": 76.38, "rotation": -164.96, "x": 178.51, "y": 39.38 },
+	{ "name": "left leg lower", "parent": "Left leg upper", "length": 118.9, "rotation": 92.65, "x": 76.64, "y": 1.12 },
+	{ "name": "Right leg upper", "parent": "root", "length": 119.04, "rotation": -134.12, "x": -78.6, "y": 95.64 },
+	{ "name": "Right leg lower", "parent": "Right leg upper", "length": 51.74, "rotation": -68.69, "x": 119.04 },
+	{ "name": "Body ik1", "parent": "root", "length": 124.81, "rotation": 91.1, "x": 206.42, "y": 31.45 },
+	{ "name": "Body ik2", "parent": "Body ik1", "length": 116.91, "rotation": 76.35, "x": 124.81 },
+	{ "name": "Body ik3", "parent": "root", "length": 124.24, "rotation": 161.68, "x": 60.81, "y": -44.84 },
+	{ "name": "Body ik4", "parent": "Body ik3", "length": 97.87, "rotation": -76.11, "x": 124.24 },
+	{ "name": "Body ik main", "parent": "root", "rotation": 2.95, "x": 80.42, "y": 102.82, "color": "ff3f00ff" },
+	{ "name": "Body ik1 target", "parent": "Head", "rotation": -153.41, "x": 29.11, "y": -74.47, "color": "ff3f00ff" },
+	{ "name": "Body ik transform target", "parent": "Body", "rotation": -121.37, "x": 10.42, "y": -68.08, "color": "abe323ff" },
+	{ "name": "Body ik5", "parent": "Head", "rotation": -153.84, "x": 112.88, "y": 63.62, "color": "ff3f00ff" },
+	{ "name": "Body ik2 transform target", "parent": "Body", "rotation": -121.79, "x": 19.16, "y": 94.22, "color": "abe323ff" },
+	{ "name": "Foot left", "parent": "root", "length": 90.16, "rotation": 79.3, "x": 105.81, "y": -88.09 },
+	{ "name": "Leg left ik", "parent": "Foot left", "rotation": -79.3, "x": 9, "y": -42.83, "color": "ff3f00ff" },
+	{ "name": "Foot right", "parent": "root", "length": 99.02, "rotation": 90.89, "x": -213.01, "y": 42.18 },
+	{ "name": "Leg left transform", "parent": "Body", "rotation": -121.79, "x": 32.36, "y": -50.74, "color": "abe323ff" },
+	{ "name": "Body ik6", "parent": "Body ik2", "rotation": -350.01, "x": -2.93, "y": -13.81 },
+	{ "name": "Body ik7", "parent": "Body ik4", "rotation": -8, "x": -1.14, "y": 6.15 },
+	{ "name": "Leg right ik", "parent": "Foot right", "rotation": -91.04, "x": -1.95, "y": -10.69, "color": "ff3f00ff" },
+	{ "name": "Leg right transform", "parent": "Body", "rotation": -121.6, "x": 231.72, "y": 123.98, "color": "abe323ff" },
+	{ "name": "Shadow", "parent": "root", "length": 138.42, "rotation": -179.51, "x": -2.68, "y": 2.58 }
+],
+"slots": [
+	{ "name": "images/Shadow", "bone": "Shadow", "attachment": "images/Shadow" },
+	{ "name": "images/Tail", "bone": "Tail", "attachment": "images/Tail" },
+	{ "name": "Foot right", "bone": "Foot right", "attachment": "images/Foot right" },
+	{ "name": "images/Leg right2", "bone": "Right leg lower", "attachment": "images/Leg right2" },
+	{ "name": "images/Leg right1", "bone": "Right leg upper", "attachment": "images/Leg right1" },
+	{ "name": "Furcorn egg stem5", "bone": "Furcorn egg stem5", "attachment": "images/Furcorn egg stem" },
+	{ "name": "Furcorn egg5", "bone": "Furcorn egg5", "attachment": "images/Furcorn egg" },
+	{ "name": "Furcorn egg4", "bone": "Furcorn egg4", "attachment": "images/Furcorn egg" },
+	{ "name": "Furcorn egg stem4", "bone": "Furcorn egg stem4", "attachment": "images/Furcorn egg stem" },
+	{ "name": "Furcorn egg stem3", "bone": "Furcorn egg stem3", "attachment": "images/Furcorn egg stem" },
+	{ "name": "Furcorn egg3", "bone": "Furcorn egg3", "attachment": "images/Furcorn egg" },
+	{ "name": "Body", "bone": "root", "attachment": "images/Body" },
+	{ "name": "Head", "bone": "Head", "attachment": "images/Head" },
+	{ "name": "Mouth", "bone": "Mouth", "attachment": "images/Mouth0001" },
+	{ "name": "images/Leg left1", "bone": "Left leg upper", "attachment": "images/Leg left1" },
+	{ "name": "images/Leg left2", "bone": "left leg lower", "attachment": "images/Leg left2" },
+	{ "name": "Foot left", "bone": "Foot left", "attachment": "images/Foot left" },
+	{ "name": "Furcorn egg", "bone": "Furcorn egg", "attachment": "images/Furcorn egg" },
+	{ "name": "Furcorn egg stem", "bone": "Furcorn egg stem", "attachment": "images/Furcorn egg stem" },
+	{ "name": "Furcorn egg2", "bone": "Furcorn egg2", "attachment": "images/Furcorn egg" },
+	{ "name": "Furcorn egg stem2", "bone": "Furcorn egg stem2", "attachment": "images/Furcorn egg stem" }
+],
+"ik": [
+	{
+		"name": "Body ik1",
+		"order": 2,
+		"bones": [ "Body ik1", "Body ik2" ],
+		"target": "Body ik1 target",
+		"softness": 157.7
+	},
+	{
+		"name": "Body ik2",
+		"order": 4,
+		"bones": [ "Body ik3", "Body ik4" ],
+		"target": "Body ik5",
+		"softness": 161.8,
+		"bendPositive": false
+	},
+	{
+		"name": "Body ik main",
+		"bones": [ "Body" ],
+		"target": "Body ik main",
+		"compress": true,
+		"stretch": true
+	},
+	{
+		"name": "Leg left ik",
+		"order": 6,
+		"bones": [ "Left leg upper", "left leg lower" ],
+		"target": "Leg left ik",
+		"softness": 64.5
+	},
+	{
+		"name": "Leg right ik",
+		"order": 8,
+		"bones": [ "Right leg upper", "Right leg lower" ],
+		"target": "Leg right ik",
+		"softness": 34.1,
+		"bendPositive": false
+	}
+],
+"transform": [
+	{
+		"name": "Body ik2 transform target",
+		"order": 3,
+		"bones": [ "Body ik3" ],
+		"target": "Body ik2 transform target",
+		"rotateMix": 0,
+		"scaleMix": 0,
+		"shearMix": 0
+	},
+	{
+		"name": "Body ik transform target",
+		"order": 1,
+		"bones": [ "Body ik1" ],
+		"target": "Body ik transform target",
+		"rotation": 86.62,
+		"x": 0.97,
+		"y": 1.86,
+		"rotateMix": -0.395,
+		"scaleMix": 0,
+		"shearMix": 0
+	},
+	{
+		"name": "Leg left transform",
+		"order": 5,
+		"bones": [ "Left leg upper" ],
+		"target": "Leg left transform",
+		"rotateMix": 0,
+		"scaleMix": 0,
+		"shearMix": 0
+	},
+	{
+		"name": "Leg right transform",
+		"order": 7,
+		"bones": [ "Right leg upper" ],
+		"target": "Leg right transform",
+		"rotateMix": 0,
+		"scaleMix": 0,
+		"shearMix": 0
+	}
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Head": {
+				"images/Head": { "x": 128.8, "y": -16.06, "rotation": -151.79, "width": 389, "height": 345 }
+			},
+			"Mouth": {
+				"images/Mouth0001": { "x": -40.03, "y": 1.49, "rotation": -154.09, "width": 326, "height": 253 },
+				"images/Mouth0002": { "x": -40.03, "y": 1.49, "rotation": -154.09, "width": 326, "height": 253 },
+				"images/Mouth0003": { "x": -40.03, "y": 1.49, "rotation": -154.09, "width": 326, "height": 253 },
+				"images/Mouth0004": { "x": -40.03, "y": 1.49, "rotation": -154.09, "width": 326, "height": 253 },
+				"images/Mouth0005": { "x": -40.03, "y": 1.49, "rotation": -154.09, "width": 326, "height": 253 },
+				"images/Mouth0006": { "x": -40.03, "y": 1.49, "rotation": -154.09, "width": 326, "height": 253 },
+				"images/Mouth0007": { "x": -40.03, "y": 1.49, "rotation": -154.09, "width": 326, "height": 253 },
+				"images/Mouth0008": { "x": -40.03, "y": 1.49, "rotation": -154.09, "width": 326, "height": 253 },
+				"images/Mouth0009": { "x": -40.03, "y": 1.49, "rotation": -154.09, "width": 326, "height": 253 },
+				"images/Mouth0010": { "x": -40.03, "y": 1.49, "rotation": -154.09, "width": 326, "height": 253 },
+				"images/Mouth0011": { "x": -40.03, "y": 1.49, "rotation": -154.09, "width": 326, "height": 253 },
+				"images/Mouth0012": { "x": -40.03, "y": 1.49, "rotation": -154.09, "width": 326, "height": 253 }
+			},
+			"Body": {
+				"images/Body": {
+					"type": "mesh",
+					"uvs": [ 0, 0.6964, 0.19808, 1, 0.99999, 0.99999, 1, 0.41778, 0.82665, 0, 0, 0 ],
+					"triangles": [ 3, 1, 0, 0, 4, 3, 2, 1, 3, 0, 5, 4 ],
+					"vertices": [ 1, 33, 37.63, 113.49, 1, 1, 33, -59.92, 12.97, 1, 1, 1, -93.7, -51.4, 1, 1, 1, 80.51, -167.3, 1, 1, 32, 47.89, -141.44, 1, 1, 1, 411.43, 98.7, 1 ],
+					"hull": 6,
+					"edges": [ 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 0, 10 ],
+					"width": 412,
+					"height": 375
+				}
+			},
+			"Furcorn egg3": {
+				"images/Furcorn egg": { "color": "c5c5c5ff", "x": -1.67, "y": -16.96, "rotation": 0.95, "width": 170, "height": 138 }
+			},
+			"Furcorn egg4": {
+				"images/Furcorn egg": {
+					"type": "mesh",
+					"color": "b1b1b1ff",
+					"uvs": [ 1, 0.28913, 1, 1, 0, 1, 0, 0.381, 0, 0, 0.39506, 0, 0.75257, 0, 1, 0, 0.27836, 0.35325, 0.66883, 0.31956 ],
+					"triangles": [ 6, 7, 0, 9, 5, 6, 9, 6, 0, 8, 4, 5, 8, 5, 9, 3, 4, 8, 2, 3, 8, 9, 0, 1, 8, 9, 1, 2, 8, 1 ],
+					"vertices": [ 71.85, 19.72, 72.05, -97.25, -77.12, -99.73, -77.1, 4.56, -56.67, 40.14, -15.16, 41.35, 22.41, 42.44, 48.41, 43.2, -34.46, 15.27, 23.73, 21.21 ],
+					"hull": 8,
+					"edges": [ 2, 4, 4, 6, 6, 8, 2, 0, 0, 14, 16, 6, 8, 10, 16, 10, 0, 18, 18, 16, 10, 12, 12, 14, 18, 12 ],
+					"width": 170,
+					"height": 138
+				}
+			},
+			"Furcorn egg5": {
+				"images/Furcorn egg": { "color": "bbbbbbff", "x": -1.67, "y": -16.96, "rotation": 0.95, "width": 170, "height": 138 }
+			},
+			"Foot right": {
+				"images/Foot right": { "color": "cfcfcfff", "x": 60.87, "y": 15.72, "rotation": -90.89, "width": 132, "height": 194 }
+			},
+			"Furcorn egg2": {
+				"images/Furcorn egg": { "x": -1.67, "y": -16.96, "rotation": 0.95, "width": 170, "height": 138 }
+			},
+			"Furcorn egg stem2": {
+				"images/Furcorn egg stem": { "x": 12.96, "y": -17.49, "rotation": -119.74, "width": 43, "height": 49 }
+			},
+			"Foot left": {
+				"images/Foot left": { "x": 49.56, "y": 1.25, "rotation": -79.3, "width": 212, "height": 239 }
+			},
+			"Furcorn egg stem3": {
+				"images/Furcorn egg stem": { "color": "b0b0b0ff", "x": 12.96, "y": -17.49, "rotation": -119.74, "width": 43, "height": 49 }
+			},
+			"Furcorn egg stem4": {
+				"images/Furcorn egg stem": { "color": "b1b1b1ff", "x": 12.96, "y": -17.49, "rotation": -119.74, "width": 43, "height": 49 }
+			},
+			"Furcorn egg stem5": {
+				"images/Furcorn egg stem": { "color": "adadadff", "x": 12.96, "y": -17.49, "rotation": -119.74, "width": 43, "height": 49 }
+			},
+			"images/Leg left2": {
+				"images/Leg left2": { "x": 57.04, "y": -8.44, "rotation": 61.79, "width": 107, "height": 158 }
+			},
+			"images/Tail": {
+				"images/Tail": { "color": "f2f2f2ff", "x": 50.51, "y": 6.67, "rotation": 15.15, "width": 213, "height": 152 }
+			},
+			"images/Leg left1": {
+				"images/Leg left1": { "x": 28.47, "y": 10.97, "rotation": 168.3, "width": 120, "height": 86 }
+			},
+			"Furcorn egg": {
+				"images/Furcorn egg": { "x": -1.67, "y": -16.96, "rotation": 0.95, "width": 170, "height": 138 }
+			},
+			"images/Shadow": {
+				"images/Shadow": {
+					"color": "ffffff36",
+					"x": -12.91,
+					"y": -1.06,
+					"scaleX": 1.9939,
+					"scaleY": 1.9939,
+					"rotation": 179.51,
+					"width": 314,
+					"height": 171
+				}
+			},
+			"Furcorn egg stem": {
+				"images/Furcorn egg stem": { "x": 12.96, "y": -17.49, "rotation": -119.74, "width": 43, "height": 49 }
+			},
+			"images/Leg right1": {
+				"images/Leg right1": {
+					"type": "mesh",
+					"color": "b3b3b3ff",
+					"uvs": [ 0.72085, 0.66926, 0.50351, 1, 0, 0.97398, 1.0E-5, 0.52399, 0.42236, 0.03345 ],
+					"triangles": [ 1, 2, 3, 3, 4, 0, 0, 1, 3 ],
+					"vertices": [ 1, 17, 28.99, 56.85, 1, 1, 17, 94.26, 59.43, 1, 1, 18, 12.54, 36.61, 1, 1, 18, 53.77, -29.58, 1, 2, 17, 2.06, -51.12, 0.99537, 18, 28.84, -124.37, 0.00463 ],
+					"hull": 5,
+					"edges": [ 4, 6, 6, 8, 0, 8, 0, 2, 2, 4 ],
+					"width": 199,
+					"height": 148
+				}
+			},
+			"images/Leg right2": {
+				"images/Leg right2": {
+					"type": "mesh",
+					"color": "d6d6d6ff",
+					"uvs": [ 1, 1, 1.0E-5, 0.99999, 0.08873, 4.4E-4, 0.99999, 0.26975 ],
+					"triangles": [ 1, 3, 0, 1, 2, 3 ],
+					"vertices": [ 1, 17, 109.17, 42.6, 1, 1, 18, 45.73, 47.42, 1, 1, 18, 78.38, -18.41, 1, 1, 17, 69.5, -11.24, 1 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 98,
+					"height": 73
+				}
+			}
+		}
+	}
+],
+"animations": {
+	"Idle": {
+		"slots": {
+			"Mouth": {
+				"attachment": [
+					{ "name": "images/Mouth0001" },
+					{ "time": 0.5333, "name": "images/Mouth0010" },
+					{ "time": 0.6, "name": "images/Mouth0011" },
+					{ "time": 1.0667, "name": "images/Mouth0010" },
+					{ "time": 1.1333, "name": "images/Mouth0001" },
+					{ "time": 1.8667, "name": "images/Mouth0009" },
+					{ "time": 1.9333, "name": "images/Mouth0008" },
+					{ "time": 2.3667, "name": "images/Mouth0009" },
+					{ "time": 2.4333, "name": "images/Mouth0001" }
+				]
+			}
+		},
+		"bones": {
+			"Body ik main": {
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3333, "x": 15.25, "y": -11.73, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "x": 14.08, "y": 8.21, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "x": 23.46, "y": -1.76, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "x": 15.25, "y": 19.94, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.6667, "x": 9.38, "y": 3.52, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2, "x": -4.69, "y": 15.25, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.3333, "x": 11.13, "y": -4.81, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667 }
+				]
+			},
+			"Head": {
+				"rotate": [
+					{ "angle": 4.84, "curve": 0.375, "c2": 0.5, "c3": 0.75 },
+					{ "time": 0.1667, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5, "angle": 9.88, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8333, "angle": -3.7, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.1667, "angle": 8.72, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.5, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.8333, "angle": 10.39, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.1667, "angle": 0.4, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.5, "angle": 9.67, "curve": 0.25, "c3": 0.625, "c4": 0.5 },
+					{ "time": 2.6667, "angle": 4.84 }
+				]
+			},
+			"Tail": {
+				"rotate": [
+					{ "angle": 2.77, "curve": 0.382, "c2": 0.58, "c3": 0.731 },
+					{ "time": 0.1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4333, "angle": 6.5, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.7667, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.1, "angle": 10.67, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.4333, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.7667, "angle": 7.03, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.4333, "angle": 11.42, "curve": 0.243, "c3": 0.655, "c4": 0.63 },
+					{ "time": 2.6667, "angle": 2.77 }
+				]
+			},
+			"Foot right": {
+				"rotate": [
+					{},
+					{ "time": 0.3333, "angle": 10.56, "curve": 0.25, "c3": 0.625, "c4": 0.5 },
+					{ "time": 0.5, "angle": 10.08, "curve": 0.375, "c2": 0.5, "c3": 0.75 },
+					{ "time": 0.6667, "angle": -15.4, "curve": 0.25, "c3": 0.625, "c4": 0.5 },
+					{ "time": 0.8333, "angle": -19.93, "curve": 0.375, "c2": 0.5, "c3": 0.75 },
+					{ "time": 1, "curve": 0.327, "c3": 0.66, "c4": 0.34 },
+					{ "time": 1.1667, "angle": 12.81, "curve": 0.326, "c2": 0.21, "c3": 0.66, "c4": 0.55 },
+					{ "time": 1.3667, "angle": 29.49, "curve": 0.326, "c2": 0.26, "c3": 0.659, "c4": 0.59 },
+					{ "time": 1.6, "angle": 15.38, "curve": 0.327, "c2": 0.28, "c3": 0.66, "c4": 0.62 },
+					{ "time": 1.8333, "angle": 13.56, "curve": 0.331, "c2": 0.32, "c3": 0.664, "c4": 0.65 },
+					{ "time": 1.9333, "angle": 10.67, "curve": 0.332, "c2": 0.32, "c3": 0.665, "c4": 0.66 },
+					{ "time": 2, "angle": 6.27, "curve": 0.328, "c2": 0.31, "c3": 0.662, "c4": 0.64 },
+					{ "time": 2.2, "angle": 1.47, "curve": 0.33, "c2": 0.32, "c3": 0.663, "c4": 0.65 },
+					{ "time": 2.3667, "angle": -1.95, "curve": 0.329, "c2": 0.32, "c3": 0.663, "c4": 0.65 },
+					{ "time": 2.5667, "angle": 1.39, "curve": 0.331, "c2": 0.33, "c3": 0.665, "c4": 0.66 },
+					{ "time": 2.6667 }
+				],
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 0.3333, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "x": 12.08, "y": 35.14, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "curve": 0.32, "c3": 0.653, "c4": 0.34 },
+					{
+						"time": 1.3667,
+						"x": 8.67,
+						"y": 4.34,
+						"curve": 0.299,
+						"c2": 0.13,
+						"c3": 0.636,
+						"c4": 0.49
+					},
+					{ "time": 2.6667 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 0.3333, "curve": 0.25, "c3": 0.625, "c4": 0.5 },
+					{ "time": 0.5, "x": 0.967, "y": 1.042, "curve": 0.375, "c2": 0.5, "c3": 0.75 },
+					{ "time": 0.6667, "x": 1.068, "y": 0.972, "curve": 0.25, "c3": 0.625, "c4": 0.5 },
+					{ "time": 0.8333, "x": 1.036, "y": 0.909, "curve": 0.375, "c2": 0.5, "c3": 0.75 },
+					{ "time": 1, "curve": "stepped" },
+					{ "time": 2.6667 }
+				]
+			},
+			"Foot left": {
+				"rotate": [
+					{},
+					{ "time": 0.1333, "angle": 3.28 },
+					{ "time": 0.2667, "angle": 5.06 },
+					{ "time": 0.3333, "angle": 4.57 },
+					{ "time": 0.6, "angle": -5.63 },
+					{ "time": 0.8333, "angle": -13.26 },
+					{ "time": 1.1, "angle": -19.22 },
+					{ "time": 1.1667, "angle": -18.43 },
+					{ "time": 1.3333, "angle": -15.43 },
+					{ "time": 1.5333, "angle": -3.74 },
+					{ "time": 1.6667, "curve": 0.25, "c3": 0.625, "c4": 0.5 },
+					{ "time": 1.8333, "angle": 4.29, "curve": 0.375, "c2": 0.5, "c3": 0.75 },
+					{ "time": 2, "angle": 6.58, "curve": 0.25, "c3": 0.625, "c4": 0.5 },
+					{ "time": 2.1667, "angle": 1.73, "curve": 0.375, "c2": 0.5, "c3": 0.75 },
+					{ "time": 2.3333, "angle": -2.96, "curve": 0.269, "c3": 0.618, "c4": 0.42 },
+					{ "time": 2.4333, "angle": -5.22, "curve": 0.321, "c2": 0.3, "c3": 0.661, "c4": 0.65 },
+					{ "time": 2.5, "angle": -7.02, "curve": 0.347, "c2": 0.38, "c3": 0.694, "c4": 0.76 },
+					{ "time": 2.6667 }
+				],
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 1.6667, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2, "x": 8.53, "y": 35.52, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.3333, "curve": "stepped" },
+					{ "time": 2.6667 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 1.6667, "curve": 0.25, "c3": 0.625, "c4": 0.5 },
+					{ "time": 1.8333, "x": 0.93, "y": 1.05, "curve": 0.375, "c2": 0.5, "c3": 0.75 },
+					{ "time": 2, "x": 1.014, "y": 0.968, "curve": 0.25, "c3": 0.625, "c4": 0.5 },
+					{ "time": 2.1667, "x": 1.059, "y": 0.912, "curve": 0.375, "c2": 0.5, "c3": 0.75 },
+					{ "time": 2.3333 },
+					{ "time": 2.5, "x": 0.969, "y": 1.031 },
+					{ "time": 2.6667 }
+				]
+			},
+			"Furcorn egg stem2": {
+				"rotate": [
+					{ "angle": 9.13 },
+					{ "time": 0.1667 },
+					{ "time": 0.5, "angle": 14.59 },
+					{ "time": 1, "angle": -11.46 },
+					{ "time": 1.3333, "angle": 5.58 },
+					{ "time": 1.6667, "angle": -16.85 },
+					{ "time": 2, "angle": 9.27 },
+					{ "time": 2.3333, "angle": -13.01 },
+					{ "time": 2.6667, "angle": 9.13 }
+				]
+			},
+			"Furcorn egg stem5": {
+				"rotate": [
+					{ "angle": 5.25 },
+					{ "time": 0.0667, "angle": 10.5 },
+					{ "time": 0.2667, "angle": -3.88 },
+					{ "time": 0.4667, "angle": -7.73 },
+					{ "time": 0.6, "angle": -3.73 },
+					{ "time": 0.7667, "angle": 4.24 },
+					{ "time": 1.1, "angle": 7.68 },
+					{ "time": 1.3333, "angle": -21.02 },
+					{ "time": 1.4333, "angle": -15.53 },
+					{ "time": 1.7333, "angle": -2.91 },
+					{ "time": 1.9333, "angle": -21.61 },
+					{ "time": 2.2, "angle": 2.18 },
+					{ "time": 2.4, "angle": 4.13 },
+					{ "time": 2.6 },
+					{ "time": 2.6667, "angle": 5.25 }
+				]
+			},
+			"Furcorn egg stem4": {
+				"rotate": [
+					{ "angle": 6.92 },
+					{ "time": 0.0333, "angle": 9.13 },
+					{ "time": 0.2 },
+					{ "time": 0.5333, "angle": 14.59 },
+					{ "time": 1.0333, "angle": -11.46 },
+					{ "time": 1.3667, "angle": 5.58 },
+					{ "time": 1.7, "angle": -16.85 },
+					{ "time": 2.0333, "angle": 9.27 },
+					{ "time": 2.3667, "angle": -13.01 },
+					{ "time": 2.6667, "angle": 6.92 }
+				]
+			},
+			"Furcorn egg stem": {
+				"rotate": [
+					{},
+					{ "time": 0.3333, "angle": 14.59 },
+					{ "time": 0.8333, "angle": -11.46 },
+					{ "time": 1.1667, "angle": 5.58 },
+					{ "time": 1.5, "angle": -16.85 },
+					{ "time": 1.8333, "angle": 9.27 },
+					{ "time": 2.1667, "angle": -13.01 },
+					{ "time": 2.5, "angle": 9.13 },
+					{ "time": 2.6667 }
+				]
+			},
+			"Furcorn egg stem3": {
+				"rotate": [
+					{ "angle": 4.38 },
+					{ "time": 0.2333, "angle": 14.59 },
+					{ "time": 0.7333, "angle": -11.46 },
+					{ "time": 1.0667, "angle": 5.58 },
+					{ "time": 1.4, "angle": -16.85 },
+					{ "time": 1.7333, "angle": 9.27 },
+					{ "time": 2.0667, "angle": -13.01 },
+					{ "time": 2.4, "angle": 9.13 },
+					{ "time": 2.5667 },
+					{ "time": 2.6667, "angle": 4.38 }
+				]
+			},
+			"Furcorn egg2": {
+				"scale": [
+					{},
+					{ "time": 0.2, "x": 0.959, "y": 1.051 },
+					{ "time": 0.4667, "x": 1.034, "y": 0.962 },
+					{ "time": 0.6667, "x": 0.945, "y": 1.069 },
+					{ "time": 1.0667, "x": 0.912, "y": 1.079 },
+					{ "time": 1.2333, "x": 1.046, "y": 0.941 },
+					{ "time": 1.4667, "x": 0.946, "y": 1.074 },
+					{ "time": 1.9333, "x": 1.052, "y": 0.932 },
+					{ "time": 2.1333, "x": 0.946, "y": 1.052 },
+					{ "time": 2.4, "x": 1.052, "y": 0.943 },
+					{ "time": 2.6667 }
+				]
+			},
+			"Furcorn egg": {
+				"scale": [
+					{ "x": 0.979, "y": 1.026 },
+					{ "time": 0.1, "x": 0.959, "y": 1.051 },
+					{ "time": 0.3667, "x": 1.034, "y": 0.962 },
+					{ "time": 0.5667, "x": 0.945, "y": 1.069 },
+					{ "time": 0.9667, "x": 0.912, "y": 1.079 },
+					{ "time": 1.1333, "x": 1.046, "y": 0.941 },
+					{ "time": 1.3667, "x": 0.946, "y": 1.074 },
+					{ "time": 1.8333, "x": 1.052, "y": 0.932 },
+					{ "time": 2.0333, "x": 0.946, "y": 1.052 },
+					{ "time": 2.3, "x": 1.052, "y": 0.943 },
+					{ "time": 2.5667 },
+					{ "time": 2.6667, "x": 0.979, "y": 1.026 }
+				]
+			},
+			"Furcorn egg3": {
+				"scale": [
+					{ "x": 1.013, "y": 0.986 },
+					{ "time": 0.0667 },
+					{ "time": 0.2667, "x": 0.959, "y": 1.051 },
+					{ "time": 0.5333, "x": 1.034, "y": 0.962 },
+					{ "time": 0.7333, "x": 0.945, "y": 1.069 },
+					{ "time": 1.1333, "x": 0.912, "y": 1.079 },
+					{ "time": 1.3, "x": 1.046, "y": 0.941 },
+					{ "time": 1.5333, "x": 0.946, "y": 1.074 },
+					{ "time": 2, "x": 1.052, "y": 0.932 },
+					{ "time": 2.2, "x": 0.946, "y": 1.052 },
+					{ "time": 2.4667, "x": 1.052, "y": 0.943 },
+					{ "time": 2.6667, "x": 1.013, "y": 0.986 }
+				]
+			},
+			"Furcorn egg4": {
+				"scale": [
+					{ "x": 1.02, "y": 0.979 },
+					{ "time": 0.1 },
+					{ "time": 0.3, "x": 0.959, "y": 1.051 },
+					{ "time": 0.5667, "x": 1.034, "y": 0.962 },
+					{ "time": 0.7667, "x": 0.945, "y": 1.069 },
+					{ "time": 1.1667, "x": 0.912, "y": 1.079 },
+					{ "time": 1.3333, "x": 1.046, "y": 0.941 },
+					{ "time": 1.5667, "x": 0.946, "y": 1.074 },
+					{ "time": 2.0333, "x": 1.052, "y": 0.932 },
+					{ "time": 2.2333, "x": 0.946, "y": 1.052 },
+					{ "time": 2.5, "x": 1.052, "y": 0.943 },
+					{ "time": 2.6667, "x": 1.02, "y": 0.979 }
+				]
+			},
+			"Furcorn egg5": {
+				"scale": [
+					{ "x": 1.013, "y": 0.986 },
+					{ "time": 0.0667 },
+					{ "time": 0.2667, "x": 0.959, "y": 1.051 },
+					{ "time": 0.5333, "x": 1.034, "y": 0.962 },
+					{ "time": 0.7333, "x": 0.945, "y": 1.069 },
+					{ "time": 1.1333, "x": 0.912, "y": 1.079 },
+					{ "time": 1.3, "x": 1.046, "y": 0.941 },
+					{ "time": 1.5333, "x": 0.946, "y": 1.074 },
+					{ "time": 2, "x": 1.052, "y": 0.932 },
+					{ "time": 2.2, "x": 0.946, "y": 1.052 },
+					{ "time": 2.4667, "x": 1.052, "y": 0.943 },
+					{ "time": 2.6667, "x": 1.013, "y": 0.986 }
+				]
+			}
+		}
+	},
+	"Mute": {
+		"slots": {
+			"Mouth": {
+				"attachment": [
+					{ "name": "images/Mouth0001" },
+					{ "time": 0.5, "name": "images/Mouth0010" },
+					{ "time": 0.6, "name": "images/Mouth0011" },
+					{ "time": 0.7333, "name": "images/Mouth0012" },
+					{ "time": 1.4667, "name": "images/Mouth0003" },
+					{ "time": 1.5333, "name": "images/Mouth0004" },
+					{ "time": 1.6, "name": "images/Mouth0005" },
+					{ "time": 1.6667, "name": "images/Mouth0006" },
+					{ "time": 1.7333, "name": "images/Mouth0007" },
+					{ "time": 1.9333, "name": "images/Mouth0008" },
+					{ "time": 2, "name": "images/Mouth0008" }
+				]
+			}
+		},
+		"bones": {
+			"Foot left": {
+				"rotate": [
+					{},
+					{ "time": 2, "angle": 15.98 }
+				],
+				"translate": [
+					{},
+					{ "time": 2, "x": 31.02, "y": 4.6 }
+				],
+				"scale": [
+					{}
+				]
+			},
+			"Head": {
+				"rotate": [
+					{ "angle": 4.84, "curve": 0.247, "c3": 0.63, "c4": 0.53 },
+					{ "time": 0.3667, "angle": 4.27, "curve": 0.379, "c2": 0.52, "c3": 0.747 },
+					{ "time": 0.6667, "angle": -4.26, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.1667, "angle": -7.38, "curve": 0.262, "c3": 0.618, "c4": 0.44 },
+					{ "time": 1.3667, "angle": -8.87, "curve": 0.33, "c2": 0.32, "c3": 0.683, "c4": 0.72 },
+					{ "time": 1.5667, "angle": -3.56, "curve": 0.381, "c2": 0.59, "c3": 0.728 },
+					{ "time": 2, "angle": 19.31 }
+				],
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "x": 22.99, "y": -31.13, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.1667, "x": 29.01, "y": -46.74, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2 }
+				]
+			},
+			"Furcorn egg3": {
+				"scale": [
+					{ "x": 1.013, "y": 0.986 },
+					{ "time": 2 }
+				]
+			},
+			"Foot right": {
+				"rotate": [
+					{},
+					{ "time": 2, "angle": 28.82 }
+				],
+				"translate": [
+					{},
+					{ "time": 2, "x": -2.3, "y": -10.34 }
+				],
+				"scale": [
+					{}
+				]
+			},
+			"Furcorn egg stem5": {
+				"rotate": [
+					{ "angle": 5.25 },
+					{ "time": 0.3333, "angle": 11.44 },
+					{ "time": 0.8, "angle": -0.83 },
+					{ "time": 1.4333, "angle": -13.77 },
+					{ "time": 1.8333, "angle": -13.83 },
+					{ "time": 2 }
+				]
+			},
+			"Furcorn egg4": {
+				"scale": [
+					{ "x": 1.02, "y": 0.979 },
+					{ "time": 2 }
+				]
+			},
+			"Mouth": {
+				"rotate": [
+					{ "time": 2 }
+				],
+				"translate": [
+					{ "time": 2 }
+				],
+				"scale": [
+					{ "time": 2 }
+				]
+			},
+			"Furcorn egg": {
+				"scale": [
+					{ "x": 0.979, "y": 1.026 },
+					{ "time": 2 }
+				]
+			},
+			"Furcorn egg2": {
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 2 }
+				]
+			},
+			"Furcorn egg5": {
+				"rotate": [
+					{ "curve": 0.265, "c3": 0.618, "c4": 0.43 },
+					{ "time": 0.6667, "angle": -4.03, "curve": 0.325, "c2": 0.31, "c3": 0.675, "c4": 0.69 },
+					{ "time": 1.1667, "angle": -8.31, "curve": 0.347, "c2": 0.38, "c3": 0.683, "c4": 0.73 },
+					{ "time": 1.5, "angle": -6.35, "curve": 0.375, "c2": 0.62, "c3": 0.716 },
+					{ "time": 2, "angle": 2.96 }
+				],
+				"translate": [
+					{ "curve": 0.265, "c3": 0.618, "c4": 0.43 },
+					{
+						"time": 0.6667,
+						"x": -8.46,
+						"y": -39.38,
+						"curve": 0.325,
+						"c2": 0.31,
+						"c3": 0.675,
+						"c4": 0.69
+					},
+					{
+						"time": 1.1667,
+						"x": -17.51,
+						"y": -60.72,
+						"curve": 0.347,
+						"c2": 0.38,
+						"c3": 0.683,
+						"c4": 0.73
+					},
+					{ "time": 1.5, "x": -16.42, "y": -42.08, "curve": 0.375, "c2": 0.62, "c3": 0.716 },
+					{ "time": 2, "x": 1.27, "y": 15.36 }
+				],
+				"scale": [
+					{ "x": 1.013, "y": 0.986, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2 }
+				]
+			},
+			"Furcorn egg stem4": {
+				"rotate": [
+					{ "angle": 6.92 },
+					{ "time": 0.3333, "angle": 12.83 },
+					{ "time": 0.8, "angle": 0.17 },
+					{ "time": 1.4333, "angle": -13.3 },
+					{ "time": 1.8333, "angle": -13.69 },
+					{ "time": 2 }
+				]
+			},
+			"Furcorn egg stem": {
+				"rotate": [
+					{},
+					{ "time": 0.3333, "angle": 7.06 },
+					{ "time": 0.8, "angle": -3.99 },
+					{ "time": 1.4333, "angle": -15.26 },
+					{ "time": 1.8333, "angle": -14.26 },
+					{ "time": 2 }
+				]
+			},
+			"Furcorn egg stem3": {
+				"rotate": [
+					{ "angle": 4.38 },
+					{ "time": 0.3333, "angle": 10.71 },
+					{ "time": 0.8, "angle": -1.36 },
+					{ "time": 1.4333, "angle": -14.02 },
+					{ "time": 1.8333, "angle": -13.9 },
+					{ "time": 2 }
+				]
+			},
+			"Furcorn egg stem2": {
+				"rotate": [
+					{ "angle": 9.13 },
+					{ "time": 0.3333, "angle": 14.67 },
+					{ "time": 0.8, "angle": 1.49 },
+					{ "time": 1.4333, "angle": -12.67 },
+					{ "time": 1.8333, "angle": -13.5 },
+					{ "time": 2 }
+				]
+			},
+			"Tail": {
+				"rotate": [
+					{ "angle": 2.77, "curve": 0.382, "c2": 0.58, "c3": 0.731 },
+					{ "time": 2, "angle": -9.95 }
+				]
+			},
+			"Body ik main": {
+				"translate": [
+					{}
+				]
+			}
+		}
+	},
+	"Sleep": {
+		"slots": {
+			"Mouth": {
+				"attachment": [
+					{ "name": "images/Mouth0008" },
+					{ "time": 0.3667, "name": "images/Mouth0007" },
+					{ "time": 0.4333, "name": "images/Mouth0006" },
+					{ "time": 0.5, "name": "images/Mouth0005" },
+					{ "time": 0.5667, "name": "images/Mouth0004" },
+					{ "time": 0.6667, "name": "images/Mouth0005" },
+					{ "time": 0.7667, "name": "images/Mouth0004" },
+					{ "time": 0.9, "name": "images/Mouth0005" },
+					{ "time": 1.4667, "name": "images/Mouth0006" },
+					{ "time": 1.6, "name": "images/Mouth0007" },
+					{ "time": 1.8, "name": "images/Mouth0008" },
+					{ "time": 2.6667, "name": "images/Mouth0008" }
+				]
+			}
+		},
+		"bones": {
+			"Head": {
+				"rotate": [
+					{ "angle": 19.31, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "angle": 11.52, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667, "angle": 19.31 }
+				],
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "x": 7.19, "y": -18.21, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667 }
+				]
+			},
+			"Tail": {
+				"rotate": [
+					{ "angle": -9.95, "curve": 0.247, "c3": 0.63, "c4": 0.53 },
+					{ "time": 0.7333, "angle": -9.26, "curve": 0.379, "c2": 0.52, "c3": 0.747 },
+					{ "time": 1.3333, "angle": -4.84, "curve": 0.252, "c3": 0.623, "c4": 0.49 },
+					{ "time": 1.9667, "angle": -0.91, "curve": 0.372, "c2": 0.49, "c3": 0.751 },
+					{ "time": 2.6667, "angle": -9.95 }
+				]
+			},
+			"Foot left": {
+				"rotate": [
+					{ "angle": 15.98, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "angle": 12.86, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667, "angle": 15.98 }
+				],
+				"translate": [
+					{ "x": 31.02, "y": 4.6, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "x": 33.32, "y": 8.04, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667, "x": 31.02, "y": 4.6 }
+				]
+			},
+			"Foot right": {
+				"rotate": [
+					{ "angle": 28.82, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "angle": 24.2, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667, "angle": 28.82 }
+				],
+				"translate": [
+					{ "x": -2.3, "y": -10.34, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "x": 1.15, "y": -9.19, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667, "x": -2.3, "y": -10.34 }
+				]
+			},
+			"Mouth": {
+				"rotate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "angle": -1.64, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667 }
+				],
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "x": 5.07, "y": -12.87, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.3667, "x": 0.964, "y": 1.065 },
+					{ "time": 0.9, "x": 0.931, "y": 1.166 },
+					{ "time": 1.3333, "x": 0.887, "y": 1.263 },
+					{ "time": 1.8 },
+					{ "time": 2.1333, "x": 1.09, "y": 0.864 },
+					{ "time": 2.4333, "x": 1.128, "y": 0.825 },
+					{ "time": 2.6667 }
+				]
+			},
+			"Furcorn egg5": {
+				"rotate": [
+					{ "angle": 2.96, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "angle": -1.35, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667, "angle": 2.96 }
+				],
+				"translate": [
+					{ "x": 1.27, "y": 15.36, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "x": 4.09, "y": -14.83, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667, "x": 1.27, "y": 15.36 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.5333, "x": 1.032, "y": 0.966 },
+					{ "time": 1, "x": 0.986, "y": 1.01 },
+					{ "time": 1.3333 },
+					{ "time": 1.7667, "x": 0.96, "y": 1.033 },
+					{ "time": 2.6667 }
+				]
+			},
+			"Furcorn egg": {
+				"scale": [
+					{},
+					{ "time": 0.5333, "x": 1.032, "y": 0.966 },
+					{ "time": 1, "x": 0.986, "y": 1.01 },
+					{ "time": 1.3333 },
+					{ "time": 1.7667, "x": 0.96, "y": 1.033 },
+					{ "time": 2.6667 }
+				]
+			},
+			"Furcorn egg2": {
+				"scale": [
+					{},
+					{ "time": 0.5333, "x": 1.032, "y": 0.966 },
+					{ "time": 1, "x": 0.986, "y": 1.01 },
+					{ "time": 1.3333 },
+					{ "time": 1.7667, "x": 0.96, "y": 1.033 },
+					{ "time": 2.6667 }
+				]
+			},
+			"Furcorn egg3": {
+				"scale": [
+					{},
+					{ "time": 0.5333, "x": 1.032, "y": 0.966 },
+					{ "time": 1, "x": 0.986, "y": 1.01 },
+					{ "time": 1.3333 },
+					{ "time": 1.7667, "x": 0.96, "y": 1.033 },
+					{ "time": 2.6667 }
+				]
+			},
+			"Furcorn egg4": {
+				"scale": [
+					{},
+					{ "time": 0.5333, "x": 1.032, "y": 0.966 },
+					{ "time": 1, "x": 0.986, "y": 1.01 },
+					{ "time": 1.3333 },
+					{ "time": 1.7667, "x": 0.96, "y": 1.033 },
+					{ "time": 2.6667 }
+				]
+			},
+			"Furcorn egg stem3": {
+				"rotate": [
+					{},
+					{ "time": 0.4667, "angle": 9.25 },
+					{ "time": 0.9667, "angle": -3.46 },
+					{ "time": 1.8, "angle": -17.95 },
+					{ "time": 2.6667 }
+				]
+			},
+			"Furcorn egg stem": {
+				"rotate": [
+					{},
+					{ "time": 0.4667, "angle": 9.25 },
+					{ "time": 0.9667, "angle": -3.46 },
+					{ "time": 1.8, "angle": -17.95 },
+					{ "time": 2.6667 }
+				]
+			},
+			"Furcorn egg stem4": {
+				"rotate": [
+					{},
+					{ "time": 0.4667, "angle": 9.25 },
+					{ "time": 0.9667, "angle": -3.46 },
+					{ "time": 1.8, "angle": -17.95 },
+					{ "time": 2.6667 }
+				]
+			},
+			"Furcorn egg stem2": {
+				"rotate": [
+					{},
+					{ "time": 0.4667, "angle": 9.25 },
+					{ "time": 0.9667, "angle": -3.46 },
+					{ "time": 1.8, "angle": -17.95 },
+					{ "time": 2.6667 }
+				]
+			},
+			"Furcorn egg stem5": {
+				"rotate": [
+					{},
+					{ "time": 0.4667, "angle": 9.25 },
+					{ "time": 0.9667, "angle": -3.46 },
+					{ "time": 1.8, "angle": -17.95 },
+					{ "time": 2.6667 }
+				]
+			}
+		}
+	}
+}
+}
